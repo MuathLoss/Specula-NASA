@@ -103,6 +103,8 @@ Shortcut: our detector output is in the repo, so the tracks and scores can be re
 
 ## Data and tools
 
+Every source is listed below. Their licenses are in [`THIRD_PARTY_LICENSES.md`](THIRD_PARTY_LICENSES.md).
+
 **NASA data**
 - SPHEREx photos (QR2 + QR3): [NASA/IPAC Infrared Science Archive (IRSA)](https://irsa.ipac.caltech.edu/Missions/spherex.html)
 - [SPHEREx mission, NASA JPL](https://www.jpl.nasa.gov/missions/spherex/)
@@ -121,4 +123,6 @@ Parts of our code, documentation and slides were written with help from Claude (
 
 ## License
 
-[MIT](LICENSE)
+Our code, docs and data products: [MIT](LICENSE).
+
+Third-party data, libraries and fonts, with the license of each: [`THIRD_PARTY_LICENSES.md`](THIRD_PARTY_LICENSES.md). All of it is NASA data or under an OSI-approved open-source license.
