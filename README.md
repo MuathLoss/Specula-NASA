@@ -4,7 +4,7 @@
 
 NASA Space Apps Challenge 2026 · Challenge: *Planet X and SPHEREx* · Team Specula
 
-- **Website:** https://specula-iota.vercel.app
+- **Website:** https://specula-nasa.vercel.app
 - **Slides:** [Specula demo (PDF)](docs/Specula_slides.pdf) · [also on Google Drive](https://drive.google.com/file/d/1TqeKGx90pyTmYP0imI24LDz4xVGRID1f/view?usp=sharing)
 
 ## What it does
