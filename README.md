@@ -70,10 +70,7 @@ NASA/IPAC IRSA: SPHEREx photos          NASA JPL: orbits, positions, known objec
 
 ### The SPHEREx photos
 
-The photos are too big for GitHub (99 GB as downloaded), so they live in two places:
-
-- **Our prepared photos** (cleaned, aligned, north-up; 14.4 GB of zips): [aligned images, all 5 patches](https://drive.google.com/drive/folders/18MBY1DVtMuKnxl1dDVoEV91RBHnWAX1L) and [difference images, 3 fixed patches](https://drive.google.com/drive/folders/1K1SXlHHMkb4H3BCqROMVkApijyyzw9tv). Check them with [`checksums.sha256`](docs/handoffs/detector_package/checksums.sha256) and unpack with [`verify_and_unzip.py`](docs/handoffs/detector_package/verify_and_unzip.py).
-- **The originals**, straight from NASA: [`pipeline/manifest_all.csv`](pipeline/manifest_all.csv) lists all 1,401 photos with their IRSA links, and `python download_spherex.py all` fetches exactly the same set.
+The photos are too big for GitHub (99.2 GB as downloaded), so the repo holds everything needed to fetch them from NASA instead. [`pipeline/manifest_all.csv`](pipeline/manifest_all.csv) lists all 1,401 photos with their NASA download links, and **[`REPRODUCE.md`](REPRODUCE.md)** walks through every step, from downloading them to the website, with the result you should see at each step.
 
 ## Run the website
 
@@ -87,17 +84,11 @@ npm run dev        # http://localhost:3000
 
 No database or keys are needed: the site reads static files from `site/public/data/`.
 
-## Rerun the data steps
+## Rebuild everything
 
-Needs Python 3.11+ and about 100 GB of disk space for the photos.
+**[`REPRODUCE.md`](REPRODUCE.md)** has the exact steps: download the photos from NASA, prepare them, label known objects with NASA JPL, run the detector, link the spots into tracks, and build the website data. You need Python 3.11+ and about 160 GB of free disk.
 
-```bash
-cd pipeline
-pip install -r requirements.txt
-python download_spherex.py all
-```
-
-The full order of steps is in [`pipeline/README.md`](pipeline/README.md). The detector and linking steps have their own READMEs.
+Shortcut: our detector output is in the repo, so the tracks and scores can be rebuilt without downloading any photos (step 8 of the guide, about 5 minutes). We checked that it reproduces our tracks byte for byte.
 
 ## Team
 

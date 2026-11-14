@@ -41,16 +41,16 @@ No answer key is read here: no labels, no markers, no orbits, no target position
 ## Run
 
 ```bash
-# real run (EXP = the detector's exports/all_sources folder, DATA = ../pipeline/data)
+# real run (EXP = the detector's exports/all_sources folder, DATA = the website data folder, which has each patch's timeline.json)
 python assoc_frozen_v2.py --exp EXP --data DATA --out runs/final2 \
   --patches ecliptic-virgo ecliptic-ra90 nep-cats-eye ceres 3i-atlas
 
 # noise trials: same command, scrambled, one folder per seed (calibrate.py lists the folder names)
-python assoc_frozen_v2.py --exp EXP --data DATA --out runs/v2rot1 --patches 3i-atlas --set SCRAMBLE=true SEED=1
+python assoc_frozen_v2.py --exp EXP --data DATA --out runs/v2rot1 --patches 3i-atlas ceres --set SCRAMBLE=true SEED=1
 
 # evidence bar per patch, then merge for the website
 python calibrate.py
 cd ../pipeline && python merge_detections.py --input ../linking/runs/release/detections.csv
 ```
 
-`EXP` is `../detector/exports/all_sources`. `calibrate.py` reads the run folders in `runs/`. All of them are in the repo, so `python calibrate.py` on its own reproduces `runs/release/detections.csv` exactly.
+`EXP` is `../detector/exports/all_sources` and `DATA` is `../site/public/data`. The exact commands for every noise trial are in [`../REPRODUCE.md`](../REPRODUCE.md) (step 8). `calibrate.py` reads the run folders in `runs/`. All of them are in the repo, so `python calibrate.py` on its own reproduces `runs/release/detections.csv` exactly.

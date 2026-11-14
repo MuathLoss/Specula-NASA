@@ -60,7 +60,7 @@ How they were chosen:
 | `logs/` | One row per photo per stage: `download_log.csv`, `verify_report.csv`, `crop_log.csv`, `clean_log.csv` |
 | `data/labels/` | Known-object labels per patch (`labels.csv`, `known_objects.csv`) and the raw NASA JPL answers (`jpl_cache/`) |
 | `data/v02/` | NASA JPL data behind the 3D view: Small-Body Database orbits (`sbdb/`), Horizons positions, the comet list, the Yale Bright Star Catalogue (`bsc5/`) |
-| `data/aligned/<patch>/frames.csv`, `data/diff/<patch>/diff_frames.csv` | The photo list of each patch in time order (the images themselves are linked in the main README) |
+| `data/aligned/<patch>/frames.csv`, `data/diff/<patch>/diff_frames.csv` | The photo list of each patch in time order (the images themselves are rebuilt with [`../REPRODUCE.md`](../REPRODUCE.md)) |
 | `data/psf_info.csv`, `data/preview_stretch.json` | Star-shape model per photo; brightness settings for the website previews |
 | `data/lesson/virgo_D3_crop.fits` | One small cropped SPHEREx photo for learning the FITS format |
 | `archive/` | Earlier versions of the photo list and the first pipeline README |
