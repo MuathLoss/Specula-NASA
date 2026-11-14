@@ -1,0 +1,3 @@
+254354a73dfdd4a8791b98c549187959785fffc5f2818bc426145ded35340d8e  assoc.py
+re-locked after a runtime fix, before any 3i-atlas scoring (T_STATIC_MOVING_D 0.25 -> 0.08, validated on Ceres; linking vectorised with identical results)
+this locked version is saved as assoc_frozen_v2.py (sha256 above)

@@ -1,0 +1,27 @@
+# Local Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# Local secrets
+.env
+.env.*
+# Observations and generated products stay outside source control
+*.fits
+*.fits.gz
+*.fit
+*.fts
+*.zip
+data/
+tables/
+runs/
+results/
+inputs/
+*_results*/
+*_inputs*/
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

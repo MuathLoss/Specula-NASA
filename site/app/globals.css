@@ -1,0 +1,64 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans:
+    var(--font-plex-sans), "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-plex-mono), "IBM Plex Mono", ui-monospace, monospace;
+  --color-void: #000000;
+  --color-panel: #121212;
+  --color-raised: #161616;
+  --color-line: #262626;
+  --color-hover: #1f1f1f;
+  --color-ink: #e8e8e8;
+  --color-muted: #9a9a9a;
+  --color-known: #00f0ff;
+  --color-candidate: #ff8c00;
+}
+
+html,
+body {
+  background: #000000;
+  color: #e8e8e8;
+}
+
+::selection {
+  background: rgb(0 240 255 / 0.22);
+  color: #e8e8e8;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #262626 #000000;
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
+
+input[type="range"] {
+  accent-color: #d4d4d4;
+}
+
+/* Gentle fade for content that swaps in (inspector details, loading chips). */
+@keyframes specula-fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(2px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.animate-fade-in {
+  animation: specula-fade-in 180ms ease-out both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-fade-in {
+    animation: none;
+  }
+}

@@ -1,0 +1,18 @@
+{
+ "photos_with_3I_on_data": 258,
+ "of_which_likely_visible": 207,
+ "omar_catalog_has_a_spot_at_3I": 180,
+ "  ...in_visible_photos": 180,
+ "survived_star_removal_and_burst_grouping": 131,
+ "linked_into_a_track": 50,
+ "bursts_with_3I_on_data": 45,
+ "bursts_where_3I_is_in_a_track": 8,
+ "tracks_in_patch": 1,
+ "tracks_that_are_3I(points at 3I)": {
+  "3i-atlas-trk-0001": 50
+ },
+ "track_purity": {
+  "3i-atlas-trk-0001": "50/50 points at 3I"
+ },
+ "median_snr_at_3I": 21.56366718689462
+}

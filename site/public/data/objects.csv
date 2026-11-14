@@ -1,0 +1,653 @@
+object_id,name,kind,status,H_mag,size_min_km,size_max_km,size_source,distance_min_au,distance_max_au,show_in_3d,patches,n_frames,first_utc,last_utc
+1,1 Ceres (A801 AA),dwarf_planet,known,3.34,939.2,939.6,measured (JPL),,,true,ceres,273,2025-06-24T09:26:51Z,2026-01-01T14:53:18Z
+20,20 Massalia (A852 SA),asteroid,known,6.54,132.0,139.4,measured (JPL),,,true,ecliptic-virgo,32,2025-12-20T10:20:26Z,2026-06-19T09:22:12Z
+207,207 Hedda (A879 UA),asteroid,known,10.25,57.7,58.0,measured (JPL),,,true,ecliptic-virgo,23,2026-06-17T15:04:56Z,2026-06-19T09:22:12Z
+232,232 Russia (A883 BA),asteroid,known,10.58,53.8,55.7,measured (JPL),,,true,ecliptic-virgo,43,2025-12-24T00:44:58Z,2025-12-27T03:49:52Z
+370,370 Modestia (A893 NB),asteroid,known,10.67,38.0,38.2,measured (JPL),,,true,ecliptic-ra90,6,2026-03-07T14:09:58Z,2026-03-07T14:14:16Z
+1210,1210 Morosovia (1931 LB),asteroid,known,10.0,33.3,34.0,measured (JPL),,,true,3i-atlas,6,2025-08-13T10:11:24Z,2025-08-13T16:47:27Z
+1430,1430 Somalia (1937 NK),asteroid,known,12.16,9.22,9.48,measured (JPL),,,false,3i-atlas,8,2025-12-14T17:27:04Z,2025-12-14T19:12:47Z
+2293,2293 Guernica (1977 EH1),asteroid,known,11.35,14.3,31.9,estimated from H (albedo 0.05-0.25),,,true,ecliptic-ra90,3,2025-09-18T22:37:34Z,2025-09-18T22:39:44Z
+2371,2371 Dimitrov (1975 VR3),asteroid,known,12.61,7.11,7.82,measured (JPL),,,false,ecliptic-ra90,16,2025-09-18T22:33:16Z,2025-09-20T15:20:33Z
+2395,2395 Aho (1977 FA),asteroid,known,12.63,20.3,20.5,measured (JPL),,,true,ecliptic-virgo,53,2025-12-23T03:34:58Z,2025-12-28T15:29:23Z
+2435,2435 Horemheb (4578 P-L),asteroid,known,14.85,2.85,6.37,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,1,2025-08-08T16:09:37Z,2025-08-08T16:09:37Z
+2509,2509 Chukotka (1977 NG),asteroid,known,12.93,16.7,16.9,measured (JPL),,,true,ecliptic-virgo,10,2025-12-27T03:43:25Z,2025-12-28T15:29:23Z
+3391,3391 Sinon (1977 DD3),asteroid,known,10.37,31.0,44.7,measured (JPL),,,true,3i-atlas,13,2025-12-08T00:07:26Z,2025-12-08T09:58:49Z
+3680,3680 Sasha (1987 MY),asteroid,known,13.12,6.32,14.1,estimated from H (albedo 0.05-0.25),,,true,ecliptic-virgo,6,2026-06-24T16:27:21Z,2026-06-25T10:25:31Z
+3715,3715 Stohl (1980 DS),asteroid,known,13.55,4.85,4.98,measured (JPL),,,false,3i-atlas,7,2025-12-08T03:23:21Z,2025-12-08T03:29:48Z
+3738,3738 Ots (1977 QA1),asteroid,known,12.99,6.95,7.13,measured (JPL),,,false,ecliptic-virgo,21,2025-12-21T17:25:08Z,2025-12-22T09:45:51Z
+4080,4080 Galinskij (1983 PW),asteroid,known,13.45,5.43,12.1,estimated from H (albedo 0.05-0.25),,,true,3i-atlas,8,2025-08-11T23:57:13Z,2025-08-12T00:03:40Z
+4677,4677 Hiroshi (1990 SQ4),asteroid,known,12.89,13.9,14.1,measured (JPL),,,true,ecliptic-virgo,27,2026-06-17T18:15:44Z,2026-06-24T16:27:21Z
+4771,4771 Hayashi (1989 RM2),asteroid,known,12.76,13.4,13.6,measured (JPL),,,true,ecliptic-ra90,30,2026-03-16T21:21:58Z,2026-03-20T21:29:31Z
+4789,4789 Sprattia (1987 UU2),asteroid,known,14.11,3.94,4.4,measured (JPL),,,false,ecliptic-virgo,51,2026-05-20T01:07:00Z,2026-05-31T14:11:15Z
+5088,5088 Tancredi (1979 QZ1),asteroid,known,12.69,15.8,16.1,measured (JPL),,,true,ecliptic-virgo,10,2025-12-27T03:43:25Z,2025-12-28T15:29:23Z
+5220,5220 Vika (1979 SA8),asteroid,known,13.41,4.95,5.33,measured (JPL),,,false,ecliptic-virgo,14,2026-06-12T11:11:26Z,2026-06-12T12:53:35Z
+5272,5272 Dickinson (1981 QH2),asteroid,known,14.56,3.11,3.4,measured (JPL),,,false,3i-atlas,5,2025-12-08T00:07:26Z,2025-12-08T00:13:54Z
+5444,5444 Gautier (1991 PM8),asteroid,known,14.01,4.89,5.09,measured (JPL),,,false,ecliptic-ra90,22,2026-03-10T04:04:06Z,2026-03-11T14:23:00Z
+5933,5933 Kemurdzhian (1976 QN),asteroid,known,14.36,3.46,3.74,measured (JPL),,,false,ecliptic-virgo,16,2026-06-03T05:38:06Z,2026-06-04T09:25:29Z
+5934,5934 Mats (1976 SJ),asteroid,known,13.96,3.31,4.63,measured (JPL),,,false,ecliptic-virgo,8,2025-12-22T09:39:24Z,2025-12-22T09:45:51Z
+5989,5989 Sorin (1976 QC1),asteroid,known,14.76,3.34,3.57,measured (JPL),,,false,ecliptic-virgo,15,2025-12-19T16:27:56Z,2025-12-20T10:26:53Z
+6143,6143 Pythagoras (1993 JV),asteroid,known,12.75,7.77,8.21,measured (JPL),,,false,ecliptic-virgo,54,2025-12-20T10:20:26Z,2025-12-24T04:02:03Z
+6414,6414 Mizunuma (1993 UX),asteroid,known,13.97,4.39,4.49,measured (JPL),,,false,ecliptic-virgo,2,2026-06-19T09:22:12Z,2026-06-19T09:22:12Z
+6649,6649 Yokotatakao (1991 RN),asteroid,known,13.2,7.32,7.5,measured (JPL),,,false,3i-atlas,37,2025-12-14T04:27:43Z,2025-12-14T20:43:59Z
+6728,6728 (1991 UM),asteroid,known,14.9,2.32,3.36,measured (JPL),,,false,ecliptic-virgo,2,2026-05-28T16:08:21Z,2026-05-28T16:08:21Z
+6769,6769 Brokoff (1985 CJ1),asteroid,known,13.92,9.47,9.93,measured (JPL),,,false,ecliptic-ra90,31,2025-09-23T06:47:37Z,2025-09-25T11:07:32Z
+6790,6790 Pingouin (1991 SF1),asteroid,known,13.57,4.68,4.86,measured (JPL),,,false,ecliptic-virgo,23,2026-05-31T14:04:48Z,2026-06-04T09:25:29Z
+7072,7072 Beijingdaxue (1996 CB8),asteroid,known,14.13,3.91,4.44,measured (JPL),,,false,ecliptic-virgo,53,2025-12-21T05:56:35Z,2025-12-24T04:02:03Z
+7400,7400 Lenau (1987 QW1),asteroid,known,13.44,5.98,6.63,measured (JPL),,,false,ecliptic-virgo,9,2025-12-19T16:27:56Z,2025-12-19T18:04:52Z
+7539,7539 (1996 XS32),asteroid,known,13.96,4.65,5.06,measured (JPL),,,false,ecliptic-virgo,18,2025-12-26T04:52:42Z,2025-12-27T13:28:33Z
+7671,7671 Albis (1995 UK1),asteroid,known,14.96,2.13,2.67,measured (JPL),,,false,ecliptic-virgo,6,2026-06-24T14:49:25Z,2026-06-25T10:25:31Z
+7994,7994 Bethellen (1983 CQ2),asteroid,known,12.87,17.3,17.5,measured (JPL),,,true,ecliptic-virgo,37,2025-12-24T20:18:25Z,2025-12-28T15:29:23Z
+8397,8397 Chiakitanaka (1993 XO),asteroid,known,12.76,7.15,7.73,measured (JPL),,,false,3i-atlas,5,2025-08-09T10:00:21Z,2025-08-09T18:20:19Z
+8476,8476 (1986 QT2),asteroid,known,14.79,2.21,3.83,measured (JPL),,,false,ecliptic-ra90,52,2026-03-13T11:53:28Z,2026-03-17T20:09:32Z
+8615,8615 Philipgrahamgood (1979 MB2),asteroid,known,13.76,5.55,5.83,measured (JPL),,,false,3i-atlas,16,2025-12-14T10:59:36Z,2025-12-14T20:43:59Z
+8701,8701 (1993 LG2),asteroid,known,12.61,16.7,16.9,measured (JPL),,,true,ecliptic-virgo,6,2026-06-24T16:27:21Z,2026-06-25T10:25:31Z
+8872,8872 Ebenum (1992 GA4),asteroid,known,13.29,11.9,12.4,measured (JPL),,,true,3i-atlas,15,2025-12-14T12:37:33Z,2025-12-14T20:43:59Z
+8891,8891 Irokawa (1994 RC1),asteroid,known,12.78,16.0,16.5,measured (JPL),,,true,ecliptic-virgo,47,2025-05-16T21:45:22Z,2025-05-29T14:38:38Z
+8895,8895 Nha (1995 QN),asteroid,known,13.88,3.98,4.82,measured (JPL),,,false,3i-atlas,1,2025-08-09T10:00:21Z,2025-08-09T10:00:21Z
+9131,9131 (1998 JV),asteroid,known,14.28,2.96,3.97,measured (JPL),,,false,ecliptic-ra90,24,2025-09-18T22:33:16Z,2025-09-20T23:31:24Z
+9288,9288 Santos-Sanz (1981 EV46),asteroid,known,15.68,1.9,2.07,measured (JPL),,,false,3i-atlas,8,2025-12-09T11:55:41Z,2025-12-09T12:02:08Z
+9369,9369 (1993 DB1),asteroid,known,13.78,4.43,4.78,measured (JPL),,,false,ecliptic-virgo,8,2025-05-24T17:16:09Z,2025-05-26T21:24:24Z
+9457,9457 (1998 FB75),asteroid,known,13.33,11.2,12.2,measured (JPL),,,true,ecliptic-virgo,30,2026-06-03T05:38:06Z,2026-06-12T12:53:35Z
+9605,9605 A Coruna (1992 AP3),asteroid,known,14.79,2.93,6.55,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,16,2025-12-14T04:27:43Z,2025-12-14T07:47:22Z
+10049,10049 Vorovich (1986 TZ11),asteroid,known,13.41,5.74,6.42,measured (JPL),,,false,ecliptic-ra90,61,2026-03-10T04:04:06Z,2026-03-16T01:56:42Z
+10102,10102 Digerhuvud (1992 DA6),asteroid,known,14.88,2.46,3.2,measured (JPL),,,false,3i-atlas,7,2025-12-09T11:55:41Z,2025-12-09T12:02:08Z
+10288,10288 Saville (1983 WN),asteroid,known,14.63,8.4,8.7,measured (JPL),,,false,3i-atlas,2,2025-08-10T00:46:39Z,2025-08-10T00:46:39Z
+10492,10492 Mizzi (1986 QZ1),asteroid,known,12.8,9.53,9.88,measured (JPL),,,false,3i-atlas,23,2025-12-14T10:59:36Z,2025-12-14T20:43:59Z
+10567,10567 Francobressan (1994 CV),asteroid,known,14.54,3.29,7.35,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,1,2025-08-13T10:11:24Z,2025-08-13T10:11:24Z
+10608,10608 Mameta (1996 VB9),asteroid,known,11.9,24.6,25.7,measured (JPL),,,true,3i-atlas,11,2025-08-11T01:13:56Z,2025-08-11T06:08:01Z
+10917,10917 (1998 AN),asteroid,known,13.25,6.28,7.91,measured (JPL),,,false,ecliptic-virgo,8,2025-12-26T04:52:42Z,2025-12-26T04:59:08Z
+11099,11099 Sonodamasaki (1995 HL),asteroid,known,13.72,9.47,9.6,measured (JPL),,,false,ceres,23,2025-06-24T19:14:43Z,2025-06-26T08:51:17Z
+11382,11382 Juliasitu (1998 SW127),asteroid,known,15.15,1.85,2.91,measured (JPL),,,false,3i-atlas,8,2025-12-09T11:55:41Z,2025-12-09T12:02:08Z
+11472,11472 (1981 SE9),asteroid,known,15.03,2.6,2.79,measured (JPL),,,false,ecliptic-ra90,11,2026-03-18T18:59:04Z,2026-03-20T21:29:31Z
+11572,11572 Schindler (1993 RM7),asteroid,known,15.37,2.24,5.01,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,24,2026-05-31T14:04:48Z,2026-06-04T09:25:29Z
+11670,11670 Fountain (1998 AU9),asteroid,known,13.29,12.7,12.8,measured (JPL),,,true,ecliptic-virgo,10,2025-05-26T21:24:24Z,2025-05-29T14:38:38Z
+11808,11808 Platz (1981 EM17),asteroid,known,13.93,4.29,4.97,measured (JPL),,,false,ecliptic-virgo,25,2026-05-30T03:54:13Z,2026-06-04T09:25:29Z
+12372,12372 Kagesuke (1994 JF),asteroid,known,14.63,2.52,3.35,measured (JPL),,,false,3i-atlas,6,2025-08-13T16:47:27Z,2025-08-14T02:35:02Z
+12556,12556 Kyrobinson (1998 QG48),asteroid,known,14.47,3.39,7.59,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,2,2026-06-24T14:49:25Z,2026-06-24T14:49:25Z
+13437,13437 Wellton-Persson (1999 WF8),asteroid,known,15.19,2.44,5.45,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,3,2025-12-14T10:59:36Z,2025-12-14T11:03:54Z
+13571,13571 (1993 FT7),asteroid,known,14.99,2.67,5.97,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,48,2025-12-19T16:30:05Z,2025-12-23T03:34:58Z
+13637,13637 (1995 YO3),asteroid,known,14.79,2.93,6.55,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,5,2025-12-14T10:59:36Z,2025-12-14T11:06:03Z
+13667,13667 Samthurman (1997 GT37),asteroid,known,15.1,2.54,5.68,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,6,2026-06-24T14:49:25Z,2026-06-25T10:25:31Z
+13746,13746 (1998 SR43),asteroid,known,13.9,2.95,5.87,measured (JPL),,,false,ecliptic-virgo,2,2026-05-28T16:08:21Z,2026-05-28T16:08:21Z
+14697,14697 Ronsawyer (2000 AO214),asteroid,known,15.66,1.76,2.76,measured (JPL),,,false,ecliptic-ra90,46,2026-03-14T10:46:49Z,2026-03-18T01:10:53Z
+14872,14872 Hoher List (1990 UR),asteroid,known,14.45,4.64,4.73,measured (JPL),,,false,3i-atlas,24,2025-12-08T00:07:26Z,2025-12-08T03:29:48Z
+14878,14878 (1990 WE9),asteroid,known,15.04,6.2,6.46,measured (JPL),,,false,3i-atlas,8,2025-12-09T11:55:41Z,2025-12-09T12:02:08Z
+15115,15115 Yvonneroe (2000 DA7),asteroid,known,14.44,3.87,4.37,measured (JPL),,,false,ecliptic-virgo,45,2025-12-21T17:20:50Z,2025-12-24T04:02:03Z
+15145,15145 Ritageorge (2000 EF117),asteroid,known,15.11,2.6,3.07,measured (JPL),,,false,ecliptic-virgo,3,2026-05-28T16:06:12Z,2026-05-28T16:08:21Z
+15418,15418 Sergiospinelli (1998 DU35),asteroid,known,13.75,11.7,17.3,measured (JPL),,,true,3i-atlas,4,2025-12-14T10:59:36Z,2025-12-14T11:06:03Z
+15685,15685 (1981 EU33),asteroid,known,15.23,2.39,5.35,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,8,2025-08-09T08:25:29Z,2025-08-09T18:20:19Z
+15838,15838 Auclair (1995 FU12),asteroid,known,14.18,3.88,8.67,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,13,2026-06-12T11:11:26Z,2026-06-12T12:53:35Z
+15906,15906 Yoshikaneda (1997 SX21),asteroid,known,15.25,1.91,3.06,measured (JPL),,,false,ecliptic-virgo,36,2026-05-20T01:07:00Z,2026-05-22T15:08:45Z
+15939,15939 Fessenden (1997 YP8),asteroid,known,12.46,11.8,12.3,measured (JPL),,,true,ecliptic-ra90,72,2026-03-11T14:16:33Z,2026-03-19T16:15:58Z
+16094,16094 Scottmccord (1999 TQ222),asteroid,known,15.57,4.42,4.76,measured (JPL),,,false,3i-atlas,10,2025-08-07T23:52:07Z,2025-08-08T14:37:12Z
+16177,16177 Pelzer (2000 AR127),asteroid,known,14.59,3.6,4.12,measured (JPL),,,false,ecliptic-virgo,12,2026-06-12T11:11:26Z,2026-06-12T12:51:26Z
+16208,16208 (2000 CL52),asteroid,known,13.38,11.7,12.2,measured (JPL),,,true,ecliptic-ra90,70,2025-09-18T22:33:16Z,2025-09-23T10:03:03Z
+16312,16312 (1122 T-1),asteroid,known,14.56,7.24,10.8,measured (JPL),,,true,ecliptic-virgo,22,2026-06-17T18:15:44Z,2026-06-19T09:22:12Z
+16356,16356 Univbalttech (1976 GV2),asteroid,known,12.81,14.7,15.0,measured (JPL),,,true,3i-atlas,6,2025-12-08T03:23:21Z,2025-12-08T03:29:48Z
+16776,16776 (1996 VA8),asteroid,known,14.57,3.65,4.2,measured (JPL),,,false,3i-atlas,7,2025-08-01T08:01:06Z,2025-08-01T08:07:33Z
+17142,17142 (1999 JQ95),asteroid,known,13.73,4.24,4.73,measured (JPL),,,false,3i-atlas,1,2025-08-13T16:47:27Z,2025-08-13T16:47:27Z
+17844,17844 Judson (1998 HM100),asteroid,known,14.03,4.15,9.29,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,37,2026-03-16T01:50:15Z,2026-03-20T21:29:31Z
+18043,18043 Laszkowska (1999 RQ54),asteroid,known,14.14,3.95,8.83,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,58,2026-03-11T01:18:26Z,2026-03-16T21:28:25Z
+18182,18182 Wiener (2000 QC35),asteroid,known,14.7,3.05,6.82,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,21,2025-09-25T11:01:04Z,2025-09-27T18:31:16Z
+19100,19100 (1981 EH5),asteroid,known,14.42,3.0,4.75,measured (JPL),,,false,3i-atlas,3,2025-08-13T03:41:56Z,2025-08-13T03:48:23Z
+19152,19152 (1990 OB5),asteroid,known,13.51,4.34,5.78,measured (JPL),,,false,3i-atlas,4,2025-08-01T16:10:32Z,2025-08-01T16:14:50Z
+19277,19277 (1995 YD),asteroid,known,14.12,6.8,7.28,measured (JPL),,,false,3i-atlas,15,2025-08-11T11:00:27Z,2025-08-12T00:03:40Z
+19807,19807 (2000 SE16),asteroid,known,14.01,9.08,9.27,measured (JPL),,,false,ecliptic-virgo,2,2025-06-07T12:13:59Z,2025-06-07T12:13:59Z
+19915,19915 Bochkarev (1974 RX1),asteroid,known,14.78,1.93,2.67,measured (JPL),,,false,ecliptic-ra90,28,2025-09-18T22:33:16Z,2025-09-20T23:31:24Z
+20324,20324 Johnmahoney (1998 HF22),asteroid,known,15.68,1.84,2.7,measured (JPL),,,false,ecliptic-virgo,19,2026-06-17T15:04:56Z,2026-06-18T20:21:48Z
+20483,20483 Sinay (1999 NK41),asteroid,known,14.83,2.87,6.43,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,48,2025-12-23T18:14:22Z,2025-12-27T13:28:33Z
+21033,21033 Akahirakiyozo (1989 UM),asteroid,known,14.45,2.68,3.56,measured (JPL),,,false,3i-atlas,3,2025-12-14T10:59:36Z,2025-12-14T11:03:54Z
+21099,21099 (1992 GM2),asteroid,known,15.0,2.39,3.46,measured (JPL),,,false,3i-atlas,1,2025-12-08T09:54:30Z,2025-12-08T09:54:30Z
+21114,21114 Bernson (1992 RS5),asteroid,known,15.59,1.68,2.17,measured (JPL),,,false,ecliptic-virgo,13,2026-06-12T11:11:26Z,2026-06-12T12:53:35Z
+21312,21312 (1996 XF14),asteroid,known,15.15,2.48,5.55,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,9,2026-06-18T20:19:39Z,2026-06-19T09:22:12Z
+21457,21457 Fevig (1998 HD51),asteroid,known,15.6,2.02,4.51,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,10,2026-03-17T20:09:32Z,2026-03-18T01:10:53Z
+21997,21997 (1999 XP36),asteroid,known,13.53,5.73,6.26,measured (JPL),,,false,ecliptic-virgo,12,2026-06-12T11:11:26Z,2026-06-12T12:51:26Z
+22137,22137 Annettelee (2000 VM15),asteroid,known,15.23,2.39,5.35,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,14,2026-06-12T11:11:26Z,2026-06-12T12:53:35Z
+22363,22363 (1993 FX21),asteroid,known,14.97,2.42,3.31,measured (JPL),,,false,ecliptic-virgo,24,2026-05-31T14:04:48Z,2026-06-04T09:25:29Z
+22383,22383 Nikolauspacassi (1994 EL),asteroid,known,16.12,1.59,3.55,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,2,2026-06-19T09:22:12Z,2026-06-19T09:22:12Z
+22510,22510 (1997 YV7),asteroid,known,15.76,1.62,2.73,measured (JPL),,,false,ecliptic-ra90,8,2026-03-07T14:07:49Z,2026-03-07T14:14:16Z
+22705,22705 Erinedwards (1998 RF53),asteroid,known,14.26,5.38,6.26,measured (JPL),,,false,ecliptic-virgo,54,2025-12-19T16:27:56Z,2025-12-23T03:34:58Z
+23006,23006 Pazden (1999 VX137),asteroid,known,14.82,2.98,3.59,measured (JPL),,,false,ecliptic-virgo,78,2025-12-21T17:22:59Z,2025-12-27T03:49:52Z
+23515,23515 (1992 RF2),asteroid,known,15.52,1.99,2.34,measured (JPL),,,false,ecliptic-virgo,8,2026-05-20T01:07:00Z,2026-05-20T01:13:27Z
+23517,23517 (1992 RO3),asteroid,known,14.52,7.31,8.4,measured (JPL),,,false,ecliptic-ra90,39,2025-09-23T06:47:37Z,2025-09-27T18:26:58Z
+23524,23524 Yuichitsuda (1993 BF3),asteroid,known,14.06,4.23,4.46,measured (JPL),,,false,3i-atlas,6,2025-12-08T03:23:21Z,2025-12-08T03:29:48Z
+23569,23569 (1994 YF1),asteroid,known,13.61,7.31,7.76,measured (JPL),,,false,ecliptic-ra90,61,2026-03-13T11:53:28Z,2026-03-18T18:59:04Z
+23791,23791 Kaysonconlin (1998 QX21),asteroid,known,13.89,4.43,9.91,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,15,2025-12-14T17:27:04Z,2025-12-14T20:43:59Z
+23868,23868 (1998 RA73),asteroid,known,14.05,3.48,4.89,measured (JPL),,,false,3i-atlas,5,2025-12-14T10:59:36Z,2025-12-14T11:06:03Z
+23964,23964 (1998 WR15),asteroid,known,13.5,6.84,11.5,measured (JPL),,,true,3i-atlas,16,2025-08-07T05:52:07Z,2025-08-07T14:06:55Z
+23997,23997 (1999 RW27),asteroid,known,12.7,6.79,7.25,measured (JPL),,,false,ecliptic-virgo,18,2026-06-17T15:04:56Z,2026-06-19T06:08:39Z
+24506,24506 (2001 BS15),asteroid,known,10.74,38.4,39.7,measured (JPL),,,true,3i-atlas,7,2025-12-09T11:55:41Z,2025-12-09T12:02:08Z
+24897,24897 (1997 AA17),asteroid,known,15.5,1.54,3.0,measured (JPL),,,false,ecliptic-virgo,20,2026-06-17T15:04:56Z,2026-06-19T09:22:12Z
+25238,25238 (1998 UJ7),asteroid,known,14.09,4.24,4.6,measured (JPL),,,false,ecliptic-ra90,51,2026-03-14T10:46:49Z,2026-03-19T16:13:49Z
+25259,25259 Lucarnold (1998 VK4),asteroid,known,14.66,3.11,6.95,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,50,2025-12-19T16:27:56Z,2025-12-22T09:45:51Z
+25285,25285 (1998 WB7),asteroid,known,13.99,6.92,8.21,measured (JPL),,,false,ecliptic-virgo,63,2025-12-19T16:27:56Z,2025-12-24T00:51:25Z
+25448,25448 (1999 XJ4),asteroid,known,15.33,2.28,5.11,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,32,2026-03-07T14:07:49Z,2026-03-11T14:23:00Z
+25600,25600 (2000 AS1),asteroid,known,14.66,3.11,6.95,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,23,2026-03-17T20:09:32Z,2026-03-20T21:29:31Z
+25933,25933 Ruoyijiang (2001 DM73),asteroid,known,14.7,3.05,6.82,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,64,2025-12-22T01:25:27Z,2025-12-27T13:28:33Z
+26717,26717 Jasonye (2001 HL5),asteroid,known,15.73,1.9,4.25,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,14,2026-06-12T11:11:26Z,2026-06-12T12:53:35Z
+26836,26836 (1991 PA6),asteroid,known,14.5,3.29,4.57,measured (JPL),,,false,ecliptic-virgo,2,2025-06-07T12:13:59Z,2025-06-07T12:13:59Z
+26862,26862 (1993 FE22),asteroid,known,16.24,1.5,3.36,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,16,2026-06-03T05:38:06Z,2026-06-04T09:25:29Z
+27021,27021 (1998 OQ14),asteroid,known,15.37,2.62,2.8,measured (JPL),,,false,ecliptic-virgo,8,2025-12-19T16:27:56Z,2025-12-19T16:34:23Z
+27083,27083 Alethialittle (1998 TG32),asteroid,known,15.27,1.73,2.5,measured (JPL),,,false,3i-atlas,8,2025-12-08T09:54:30Z,2025-12-08T11:28:49Z
+27348,27348 Mink (2000 DX14),asteroid,known,14.63,2.42,2.78,measured (JPL),,,false,3i-atlas,6,2025-08-13T03:41:56Z,2025-08-13T03:46:14Z
+27785,27785 (1992 OE3),asteroid,known,14.97,5.66,5.83,measured (JPL),,,false,3i-atlas,13,2025-12-14T10:59:36Z,2025-12-14T12:44:00Z
+28240,28240 (1999 AP21),asteroid,known,14.74,6.55,6.69,measured (JPL),,,false,ecliptic-ra90,15,2026-03-17T20:09:32Z,2026-03-19T16:13:49Z
+28557,28557 Lillianchin (2000 EY43),asteroid,known,15.06,2.16,3.62,measured (JPL),,,false,ecliptic-virgo,6,2026-05-20T01:09:09Z,2026-05-20T01:13:27Z
+28714,28714 Gandall (2000 GY102),asteroid,known,14.75,2.05,3.05,measured (JPL),,,false,ecliptic-ra90,32,2025-09-18T22:33:16Z,2025-09-21T14:14:24Z
+28732,28732 Rheakamat (2000 GF124),asteroid,known,14.7,3.05,6.82,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,41,2025-12-24T00:44:58Z,2025-12-27T13:28:33Z
+29197,29197 Gleim (1991 AQ2),asteroid,known,15.2,2.45,2.61,measured (JPL),,,false,ecliptic-virgo,64,2025-12-19T16:27:56Z,2026-06-12T12:53:35Z
+29661,29661 (1998 WT20),asteroid,known,14.12,3.81,3.94,measured (JPL),,,false,ecliptic-virgo,9,2026-06-17T23:09:12Z,2026-06-19T06:08:39Z
+29765,29765 Miparedes (1999 CG23),asteroid,known,15.24,5.81,5.88,measured (JPL),,,false,ecliptic-virgo,2,2025-06-07T12:13:59Z,2025-06-07T12:13:59Z
+30011,30011 (2000 CM56),asteroid,known,15.78,1.94,2.21,measured (JPL),,,false,ecliptic-virgo,16,2026-05-28T16:04:04Z,2026-05-31T14:11:15Z
+30145,30145 (2000 GG33),asteroid,known,15.2,5.59,5.73,measured (JPL),,,false,3i-atlas,3,2025-12-14T10:59:36Z,2025-12-14T11:03:54Z
+30446,30446 (2000 NO2),asteroid,known,14.06,4.1,9.16,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,2,2025-06-07T12:13:59Z,2025-06-07T12:13:59Z
+30676,30676 (2201 T-2),asteroid,known,15.31,2.58,3.0,measured (JPL),,,false,3i-atlas,4,2025-08-15T09:27:34Z,2025-08-15T12:43:46Z
+30715,30715 (5034 T-3),asteroid,known,13.53,5.61,6.11,measured (JPL),,,false,ceres,68,2025-12-15T10:33:30Z,2025-12-22T08:49:26Z
+31117,31117 (1997 QF5),asteroid,known,15.71,1.92,4.29,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,36,2025-12-14T04:27:43Z,2025-12-14T12:44:00Z
+31168,31168 (1997 WM49),asteroid,known,14.53,3.3,7.38,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,2,2025-08-14T18:47:38Z,2025-08-14T18:47:38Z
+31292,31292 (1998 FK66),asteroid,known,14.24,3.77,8.43,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,4,2025-05-29T09:45:33Z,2025-05-29T14:38:38Z
+31299,31299 (1998 FJ80),asteroid,known,14.6,7.98,8.91,measured (JPL),,,false,3i-atlas,12,2025-08-13T03:41:56Z,2025-08-13T10:13:33Z
+31591,31591 (1999 FD35),asteroid,known,14.32,7.44,7.71,measured (JPL),,,false,ecliptic-ra90,18,2026-03-07T14:09:58Z,2026-03-11T01:20:35Z
+31608,31608 (1999 GR5),asteroid,known,14.24,5.33,6.25,measured (JPL),,,false,3i-atlas,6,2025-08-13T03:41:56Z,2025-08-13T03:46:14Z
+31609,31609 (1999 GT5),asteroid,known,13.57,5.14,11.5,estimated from H (albedo 0.05-0.25),,,true,ecliptic-ra90,74,2026-03-13T11:53:28Z,2026-03-20T21:29:31Z
+31830,31830 (1999 XT59),asteroid,known,13.31,5.79,12.9,estimated from H (albedo 0.05-0.25),,,true,ceres,39,2025-12-13T08:02:27Z,2025-12-18T03:48:02Z
+32700,32700 (1351 T-2),asteroid,known,14.58,3.23,7.21,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,8,2025-12-19T16:27:56Z,2025-12-19T16:34:23Z
+32870,32870 (1993 FD27),asteroid,known,15.87,1.78,3.98,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,15,2025-05-19T03:34:01Z,2025-05-20T18:47:02Z
+33133,33133 (1998 CF4),asteroid,known,14.78,4.43,9.08,measured (JPL),,,false,3i-atlas,7,2025-08-13T03:41:56Z,2025-08-13T03:48:23Z
+33885,33885 (2000 KF16),asteroid,known,15.83,1.81,4.06,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,2,2025-06-07T12:13:59Z,2025-06-07T12:13:59Z
+33950,33950 (2000 MY4),asteroid,known,15.41,2.2,4.92,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,102,2025-05-16T21:45:22Z,2025-05-29T14:38:38Z
+34523,34523 Manzanero (2000 SU194),asteroid,known,14.56,6.65,7.36,measured (JPL),,,false,ecliptic-virgo,8,2025-05-29T03:13:27Z,2025-05-29T14:38:38Z
+34758,34758 (2001 QH148),asteroid,known,13.95,4.31,9.64,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,16,2025-08-11T02:45:09Z,2025-08-11T06:08:01Z
+35184,35184 (1993 UW3),asteroid,known,15.99,1.68,3.77,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,24,2025-09-18T22:33:16Z,2025-09-20T23:31:24Z
+35236,35236 (1995 PC1),asteroid,known,15.42,2.43,2.58,measured (JPL),,,false,ecliptic-ra90,19,2025-09-18T22:37:34Z,2025-09-20T23:31:24Z
+35877,35877 (1999 JR75),asteroid,known,15.28,4.31,4.5,measured (JPL),,,false,ecliptic-ra90,36,2025-09-23T06:47:37Z,2025-09-27T18:26:58Z
+36482,36482 (2000 QR31),asteroid,known,15.17,2.16,2.72,measured (JPL),,,false,ecliptic-virgo,14,2026-06-12T11:11:26Z,2026-06-12T12:53:35Z
+37125,37125 (2000 VP12),asteroid,known,15.32,2.29,5.13,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,2,2026-06-19T09:22:12Z,2026-06-19T09:22:12Z
+37590,37590 (1991 RA14),asteroid,known,13.13,14.9,16.0,measured (JPL),,,true,3i-atlas,8,2025-12-09T11:55:41Z,2025-12-09T12:02:08Z
+37601,37601 Vicjen (1992 GC1),asteroid,known,14.47,3.23,4.57,measured (JPL),,,false,ecliptic-virgo,10,2026-06-18T08:55:47Z,2026-06-19T09:22:12Z
+37731,37731 (1996 TY64),asteroid,known,16.11,1.59,3.56,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,7,2025-12-14T17:27:04Z,2025-12-14T19:12:47Z
+38684,38684 Velehrad (2000 QK9),asteroid,known,13.49,13.2,13.5,measured (JPL),,,true,ecliptic-ra90,2,2026-03-20T21:29:31Z,2026-03-20T21:29:31Z
+38853,38853 (2000 SW71),asteroid,known,15.02,2.63,5.89,estimated from H (albedo 0.05-0.25),,,false,ceres,22,2025-06-26T05:28:00Z,2025-06-28T09:45:17Z
+38872,38872 (2000 SP116),asteroid,known,14.2,7.91,9.12,measured (JPL),,,false,ecliptic-virgo,30,2025-12-19T16:30:05Z,2025-12-21T17:27:17Z
+39024,39024 (2000 UW58),asteroid,known,15.34,2.27,5.08,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,4,2026-06-24T14:49:25Z,2026-06-24T19:42:26Z
+39235,39235 (2000 YH55),asteroid,known,14.42,3.47,7.76,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,15,2026-03-07T14:07:49Z,2026-03-10T04:10:33Z
+39288,39288 (2001 CD21),asteroid,known,12.63,7.92,17.7,estimated from H (albedo 0.05-0.25),,,true,3i-atlas,24,2025-12-14T04:27:43Z,2025-12-14T07:47:22Z
+39713,39713 (1996 TE57),asteroid,known,15.6,1.69,2.66,measured (JPL),,,false,3i-atlas,10,2025-08-09T08:25:29Z,2025-08-09T18:20:19Z
+39875,39875 Matteolombardo (1998 DS35),asteroid,known,14.86,2.36,3.26,measured (JPL),,,false,ecliptic-virgo,41,2025-12-21T05:56:35Z,2025-12-23T18:20:49Z
+40029,40029 (1998 KG2),asteroid,known,14.64,8.0,8.08,measured (JPL),,,false,ecliptic-ra90,29,2025-09-24T13:50:52Z,2025-09-27T18:31:16Z
+40533,40533 (1999 RH102),asteroid,known,15.42,2.04,3.31,measured (JPL),,,false,ecliptic-virgo,25,2025-05-16T21:45:22Z,2025-05-18T01:34:39Z
+40616,40616 (1999 RW163),asteroid,known,15.02,2.63,5.89,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,59,2025-09-21T14:07:56Z,2025-09-25T11:07:32Z
+40660,40660 (1999 RH194),asteroid,known,14.78,2.94,6.58,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,13,2026-03-18T18:59:04Z,2026-03-20T21:29:31Z
+40888,40888 (1999 TW131),asteroid,known,15.48,1.83,3.35,measured (JPL),,,false,3i-atlas,26,2025-12-14T04:27:43Z,2025-12-14T12:44:00Z
+41075,41075 (1999 VG43),asteroid,known,15.26,2.36,5.27,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,16,2025-12-19T16:27:56Z,2025-12-20T10:26:53Z
+41086,41086 (1999 VU55),asteroid,known,14.81,2.4,3.86,measured (JPL),,,false,ecliptic-virgo,16,2026-06-12T11:11:26Z,2026-06-17T15:04:56Z
+41375,41375 (2000 AD102),asteroid,known,14.06,5.83,6.43,measured (JPL),,,false,ecliptic-ra90,16,2026-03-10T04:04:06Z,2026-03-11T01:20:35Z
+42110,42110 (2001 AC45),asteroid,known,15.19,2.44,5.45,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,1,2025-08-14T18:47:38Z,2025-08-14T18:47:38Z
+42143,42143 (2001 BN37),asteroid,known,15.11,2.53,5.65,estimated from H (albedo 0.05-0.25),,,false,ceres,2,2025-07-14T00:33:27Z,2025-07-14T00:33:27Z
+42191,42191 Thurmann (2001 CJ37),asteroid,known,15.38,2.23,4.99,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,7,2026-03-07T14:07:49Z,2026-03-07T14:14:16Z
+42266,42266 (2001 QZ77),asteroid,known,15.37,2.39,3.45,measured (JPL),,,false,3i-atlas,20,2025-08-08T12:49:34Z,2025-08-08T17:43:35Z
+42555,42555 (1996 RU31),asteroid,known,12.6,17.3,18.5,measured (JPL),,,true,3i-atlas,6,2025-12-08T00:07:26Z,2025-12-08T00:13:54Z
+42579,42579 (1997 BV5),asteroid,known,15.19,2.44,5.45,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,51,2026-05-20T01:07:00Z,2026-05-31T14:11:15Z
+42603,42603 (1998 BP12),asteroid,known,15.16,2.03,3.02,measured (JPL),,,false,ecliptic-ra90,33,2026-03-16T01:50:15Z,2026-03-19T16:15:58Z
+42683,42683 (1998 HS148),asteroid,known,15.53,1.77,2.72,measured (JPL),,,false,ecliptic-virgo,14,2026-06-12T11:11:26Z,2026-06-12T12:53:35Z
+42840,42840 (1999 RU),asteroid,known,15.74,1.89,4.23,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,2,2025-12-08T09:54:30Z,2025-12-08T09:58:49Z
+43118,43118 (1999 XD43),asteroid,known,14.23,3.79,8.47,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,28,2025-09-24T13:50:52Z,2025-09-27T18:31:16Z
+43864,43864 (1994 GM3),asteroid,known,13.92,3.44,4.92,measured (JPL),,,false,ecliptic-virgo,52,2026-05-20T01:07:00Z,2026-05-31T14:11:15Z
+44120,44120 (1998 HU32),asteroid,known,15.28,2.34,5.22,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,2,2026-06-17T15:04:56Z,2026-06-17T15:04:56Z
+44122,44122 (1998 HT34),asteroid,known,15.72,1.91,4.27,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,4,2025-12-27T13:28:33Z,2025-12-28T15:29:23Z
+44718,44718 (1999 TP8),asteroid,known,15.63,1.99,4.45,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,8,2025-09-18T22:33:16Z,2025-09-18T22:39:44Z
+44952,44952 (1999 VB71),asteroid,known,16.05,1.64,3.66,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,51,2026-05-20T01:07:00Z,2026-05-31T14:11:15Z
+45268,45268 (2000 AM8),asteroid,known,15.51,2.1,4.7,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,61,2026-05-20T01:07:00Z,2026-06-03T05:44:33Z
+45576,45576 (2000 CD75),asteroid,known,14.02,5.8,6.33,measured (JPL),,,false,ecliptic-virgo,22,2026-06-17T15:04:56Z,2026-06-19T09:22:12Z
+45608,45608 (2000 DZ41),asteroid,known,14.37,2.78,5.11,measured (JPL),,,false,ecliptic-ra90,6,2025-09-27T18:26:58Z,2025-09-27T18:31:16Z
+46053,46053 Davidpatterson (2001 DB77),asteroid,known,16.46,1.3,1.71,measured (JPL),,,false,ecliptic-virgo,2,2025-12-28T15:29:23Z,2025-12-28T15:29:23Z
+46055,46055 (2001 DA83),asteroid,known,15.59,2.03,4.53,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,13,2025-12-14T17:27:04Z,2025-12-14T19:12:47Z
+46627,46627 (1994 PG24),asteroid,known,15.21,2.41,5.4,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,2,2025-12-28T15:29:23Z,2025-12-28T15:29:23Z
+46664,46664 (1996 EK10),asteroid,known,15.85,1.8,4.02,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,5,2025-12-14T10:59:36Z,2025-12-14T11:06:03Z
+46861,46861 (1998 QJ73),asteroid,known,14.45,3.01,4.59,measured (JPL),,,false,ecliptic-virgo,2,2026-06-25T10:25:31Z,2026-06-25T10:25:31Z
+47074,47074 (1998 XV95),asteroid,known,13.79,10.2,10.4,measured (JPL),,,true,ecliptic-virgo,11,2026-06-12T11:11:26Z,2026-06-12T12:51:26Z
+47244,47244 (1999 VA53),asteroid,known,15.51,2.1,4.7,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,2,2026-06-25T10:25:31Z,2026-06-25T10:25:31Z
+47519,47519 (2000 AK79),asteroid,known,14.38,3.15,4.03,measured (JPL),,,false,ceres,5,2025-12-15T10:33:30Z,2025-12-15T10:37:48Z
+47634,47634 (2000 CN24),asteroid,known,15.05,2.6,5.81,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,16,2025-12-14T06:02:09Z,2025-12-14T07:47:22Z
+48500,48500 (1993 DU2),asteroid,known,14.32,7.7,8.01,measured (JPL),,,false,ecliptic-virgo,51,2025-12-19T16:27:56Z,2025-12-22T09:45:51Z
+48762,48762 (1997 HD13),asteroid,known,15.84,1.81,4.04,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,53,2025-12-23T18:14:22Z,2026-05-31T14:11:15Z
+48766,48766 (1997 JY13),asteroid,known,15.06,2.59,5.78,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo;3i-atlas,29,2025-12-08T01:45:53Z,2025-12-28T15:29:23Z
+48883,48883 (1998 HY147),asteroid,known,15.69,1.46,2.31,measured (JPL),,,false,ecliptic-virgo,3,2026-06-24T14:49:25Z,2026-06-24T19:42:26Z
+49062,49062 (1998 RR47),asteroid,known,15.57,2.04,4.57,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,36,2025-12-14T04:27:43Z,2025-12-14T12:44:00Z
+49209,49209 (1998 SN119),asteroid,known,15.08,2.03,2.82,measured (JPL),,,false,3i-atlas,1,2025-12-14T17:27:04Z,2025-12-14T17:27:04Z
+49775,49775 (1999 WO13),asteroid,known,15.43,2.62,4.6,measured (JPL),,,false,ecliptic-virgo,15,2025-12-20T10:20:26Z,2025-12-21T06:03:01Z
+50130,50130 (2000 AP125),asteroid,known,15.48,2.13,4.76,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,14,2025-12-08T01:50:11Z,2025-12-08T11:28:49Z
+50286,50286 (2000 CA26),asteroid,known,16.07,1.62,3.63,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,30,2025-12-22T01:25:27Z,2025-12-24T00:51:25Z
+50334,50334 (2000 CC58),asteroid,known,13.79,10.5,10.8,measured (JPL),,,true,3i-atlas,6,2025-12-14T12:37:33Z,2025-12-14T12:44:00Z
+50367,50367 (2000 CB80),asteroid,known,14.77,5.55,6.64,measured (JPL),,,false,3i-atlas,25,2025-12-08T00:07:26Z,2025-12-08T09:52:01Z
+50863,50863 (2000 GN1),asteroid,known,14.68,3.77,4.02,measured (JPL),,,false,ecliptic-virgo,45,2026-05-21T21:05:56Z,2026-06-04T09:25:29Z
+51160,51160 (2000 HR57),asteroid,known,14.93,2.75,6.14,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,24,2025-09-18T22:33:16Z,2025-09-20T23:31:24Z
+51213,51213 (2000 JU20),asteroid,known,14.24,7.37,7.85,measured (JPL),,,false,3i-atlas,13,2025-12-08T00:07:26Z,2025-12-08T03:29:48Z
+51580,51580 (2001 HA9),asteroid,known,15.53,2.0,2.65,measured (JPL),,,false,ecliptic-virgo,56,2025-12-20T10:20:26Z,2025-12-24T00:51:25Z
+51587,51587 (2001 HY12),asteroid,known,15.92,1.74,3.89,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,4,2026-06-24T14:49:25Z,2026-06-24T19:42:26Z
+52009,52009 (2002 EU146),asteroid,known,15.43,2.18,4.88,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,2,2025-12-08T11:28:49Z,2025-12-08T11:28:49Z
+52355,52355 (1993 FD24),asteroid,known,16.1,1.6,3.58,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,8,2026-05-22T15:02:18Z,2026-05-22T15:08:45Z
+52828,52828 (1998 RP39),asteroid,known,15.88,1.77,3.96,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,4,2026-06-24T14:49:25Z,2026-06-24T19:42:26Z
+52881,52881 (1998 SN53),asteroid,known,15.83,1.51,2.5,measured (JPL),,,false,ecliptic-virgo,51,2025-12-19T16:27:56Z,2025-12-22T09:45:51Z
+53293,53293 (1999 GA14),asteroid,known,14.85,6.07,6.43,measured (JPL),,,false,3i-atlas,14,2025-12-14T10:59:36Z,2025-12-14T12:44:00Z
+53365,53365 (1999 JO78),asteroid,known,13.65,4.92,5.25,measured (JPL),,,false,ecliptic-ra90,2,2026-03-20T21:29:31Z,2026-03-20T21:29:31Z
+53778,53778 (2000 ER92),asteroid,known,15.22,2.63,2.83,measured (JPL),,,false,3i-atlas,11,2025-12-08T09:52:01Z,2025-12-08T11:28:49Z
+53910,53910 Janfischer (2000 GF4),asteroid,known,15.62,2.7,4.8,measured (JPL),,,false,ecliptic-virgo,53,2026-05-20T01:07:00Z,2026-05-31T14:11:15Z
+54764,54764 (2001 LB4),asteroid,known,15.58,2.03,4.55,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,34,2026-03-16T01:50:15Z,2026-03-19T16:15:58Z
+55498,55498 (2001 UT83),asteroid,known,13.76,9.33,9.97,measured (JPL),,,false,ecliptic-ra90,22,2025-09-25T11:01:04Z,2025-09-27T18:31:16Z
+55521,55521 (2001 VG49),asteroid,known,14.18,3.88,8.67,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,4,2025-08-11T01:13:56Z,2025-08-11T01:16:05Z
+55607,55607 (2002 RV183),asteroid,known,13.44,13.5,13.9,measured (JPL),,,true,ecliptic-ra90,20,2025-09-18T22:33:16Z,2025-09-20T15:20:33Z
+55689,55689 (2237 T-2),asteroid,known,15.2,2.42,5.42,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,14,2025-08-11T17:24:56Z,2025-08-12T00:03:40Z
+55836,55836 (1996 HW22),asteroid,known,16.34,1.43,3.21,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,16,2026-05-28T16:04:04Z,2026-05-31T14:11:15Z
+55846,55846 (1996 RJ5),asteroid,known,14.96,4.98,7.17,measured (JPL),,,false,ecliptic-virgo,80,2025-12-19T16:27:56Z,2025-12-25T12:36:10Z
+56130,56130 (1999 CM45),asteroid,known,14.92,3.2,3.32,measured (JPL),,,false,ecliptic-virgo,6,2026-06-24T14:49:25Z,2026-06-25T10:25:31Z
+56175,56175 (1999 FY24),asteroid,known,14.59,3.21,7.18,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,28,2025-05-16T21:45:22Z,2025-05-18T01:34:39Z
+56986,56986 (2000 SR210),asteroid,known,13.59,12.1,12.3,measured (JPL),,,true,3i-atlas,11,2025-08-13T16:47:27Z,2025-08-14T10:46:18Z
+57082,57082 (2001 OX21),asteroid,known,15.0,3.01,3.37,measured (JPL),,,false,ecliptic-virgo,91,2025-12-19T16:30:05Z,2025-12-26T04:59:08Z
+57415,57415 (2001 SD1),asteroid,known,14.83,2.32,3.56,measured (JPL),,,false,ecliptic-virgo,12,2026-05-28T16:08:21Z,2026-05-31T14:11:15Z
+57864,57864 (2001 XY229),asteroid,known,14.97,5.03,5.48,measured (JPL),,,false,ecliptic-virgo,4,2026-06-24T16:27:21Z,2026-06-24T19:42:26Z
+57908,57908 (2002 ER31),asteroid,known,14.3,4.01,4.25,measured (JPL),,,false,ecliptic-virgo,77,2025-05-16T21:45:22Z,2025-05-22T19:37:36Z
+59399,59399 (1999 FK30),asteroid,known,14.5,2.37,3.76,measured (JPL),,,false,ecliptic-virgo,16,2026-06-03T05:38:06Z,2026-06-04T09:25:29Z
+60474,60474 (2000 DT32),asteroid,known,15.06,2.2,3.73,measured (JPL),,,false,ecliptic-virgo,2,2026-06-25T10:25:31Z,2026-06-25T10:25:31Z
+60794,60794 (2000 HR7),asteroid,known,14.83,2.87,6.43,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,12,2026-06-12T11:11:26Z,2026-06-12T12:53:35Z
+61239,61239 (2000 OP17),asteroid,known,16.06,1.63,3.65,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,44,2026-03-14T20:30:19Z,2026-03-18T18:59:04Z
+61299,61299 (2000 OQ46),asteroid,known,15.28,1.75,3.23,measured (JPL),,,false,ecliptic-ra90,56,2026-03-10T04:04:06Z,2026-03-15T11:08:31Z
+62295,62295 (2000 SV114),asteroid,known,15.9,1.41,2.3,measured (JPL),,,false,ecliptic-virgo,36,2025-12-24T20:18:25Z,2025-12-28T15:29:23Z
+62355,62355 (2000 SX144),asteroid,known,15.31,2.3,5.15,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,42,2026-03-07T14:07:49Z,2026-03-13T11:59:55Z
+62531,62531 (2000 SH254),asteroid,known,15.27,1.88,2.66,measured (JPL),,,false,ecliptic-ra90,23,2026-03-10T04:04:06Z,2026-03-11T14:23:00Z
+62726,62726 (2000 TN55),asteroid,known,13.46,13.4,13.8,measured (JPL),,,true,ecliptic-ra90,80,2026-03-11T01:18:26Z,2026-03-19T16:15:58Z
+63050,63050 (2000 WG96),asteroid,known,13.99,4.23,9.46,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,32,2025-09-18T22:33:16Z,2025-09-21T14:14:24Z
+63134,63134 (2000 WU190),asteroid,known,15.97,1.7,3.8,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,91,2025-05-16T21:45:22Z,2025-05-25T07:59:58Z
+63259,63259 (2001 BS81),asteroid,known,13.2,6.09,13.6,estimated from H (albedo 0.05-0.25),,,true,ecliptic-virgo,33,2026-06-12T11:11:26Z,2026-06-24T16:27:21Z
+63713,63713 (2001 QY206),asteroid,known,14.68,6.59,6.98,measured (JPL),,,false,ecliptic-virgo,15,2026-06-17T15:04:56Z,2026-06-18T20:21:48Z
+63796,63796 (2001 RJ23),asteroid,known,15.55,2.06,4.61,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,16,2025-12-23T03:34:58Z,2025-12-24T04:02:03Z
+63820,63820 (2001 RQ64),asteroid,known,15.66,1.96,4.39,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,8,2025-08-09T08:25:29Z,2025-08-09T08:31:55Z
+63837,63837 (2001 RA76),asteroid,known,15.78,1.86,4.15,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,8,2026-06-12T11:11:26Z,2026-06-12T12:49:17Z
+63888,63888 (2001 SJ3),asteroid,known,14.43,5.85,6.66,measured (JPL),,,false,ecliptic-virgo,33,2026-05-20T01:07:00Z,2026-05-22T15:08:45Z
+63957,63957 (2001 SS67),asteroid,known,15.98,1.69,3.78,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,9,2025-12-08T09:54:30Z,2025-12-08T11:28:49Z
+64116,64116 (2001 TX13),asteroid,known,16.3,1.46,3.27,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,2,2025-12-23T03:34:58Z,2025-12-23T03:34:58Z
+64256,64256 (2001 TG171),asteroid,known,15.94,1.67,2.54,measured (JPL),,,false,3i-atlas,4,2025-08-15T09:27:34Z,2025-08-15T12:43:46Z
+64370,64370 (2001 UD112),asteroid,known,15.46,2.15,4.81,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,32,2026-05-28T16:01:55Z,2026-06-04T09:25:29Z
+65025,65025 (2002 AS106),asteroid,known,14.63,5.84,7.01,measured (JPL),,,false,ecliptic-virgo,9,2026-06-17T15:04:56Z,2026-06-17T23:09:12Z
+65448,65448 (2002 VN35),asteroid,known,15.14,2.49,5.57,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,11,2025-09-26T09:45:50Z,2025-09-27T18:26:58Z
+65601,65601 (3159 T-3),asteroid,known,15.52,2.09,4.68,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,24,2025-09-18T22:33:16Z,2025-09-20T23:31:24Z
+65723,65723 (1993 FO45),asteroid,known,16.42,1.38,3.09,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,14,2026-06-12T11:11:26Z,2026-06-12T12:53:35Z
+66030,66030 (1998 QY64),asteroid,known,14.29,7.79,8.56,measured (JPL),,,false,3i-atlas,14,2025-08-01T08:01:06Z,2025-08-01T16:14:50Z
+66523,66523 (1999 RN102),asteroid,known,14.82,2.89,6.46,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,1,2025-08-13T16:47:27Z,2025-08-13T16:47:27Z
+66693,66693 (1999 TB70),asteroid,known,14.81,2.56,4.77,measured (JPL),,,false,3i-atlas,4,2025-08-07T02:33:35Z,2025-08-07T02:35:46Z
+66894,66894 (1999 VB98),asteroid,known,15.5,2.11,4.72,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,66,2026-05-20T01:07:00Z,2026-06-04T09:25:29Z
+66948,66948 (1999 XN5),asteroid,known,14.94,2.26,3.6,measured (JPL),,,false,ecliptic-virgo,14,2026-06-17T18:20:03Z,2026-06-19T09:22:12Z
+67321,67321 (2000 HN61),asteroid,known,16.67,1.23,2.75,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,2,2025-08-14T18:47:38Z,2025-08-14T18:47:38Z
+67588,67588 (2000 SS127),asteroid,known,15.43,2.18,4.88,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,24,2025-12-08T00:07:26Z,2025-12-08T03:29:48Z
+67623,67623 (2000 SK176),asteroid,known,16.09,1.61,3.6,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,3,2025-12-08T09:52:01Z,2025-12-08T11:28:49Z
+68040,68040 (2000 YW41),asteroid,known,15.84,1.29,1.86,measured (JPL),,,false,ecliptic-ra90,30,2026-03-14T10:46:49Z,2026-03-16T01:56:42Z
+68162,68162 (2001 BY21),asteroid,known,15.87,1.34,1.87,measured (JPL),,,false,ecliptic-virgo,12,2026-05-28T16:08:21Z,2026-05-31T14:11:15Z
+68652,68652 (2002 CU74),asteroid,known,16.14,3.33,3.44,measured (JPL),,,false,3i-atlas,5,2025-08-09T10:00:21Z,2025-08-09T18:20:19Z
+69598,69598 (1998 FT18),asteroid,known,16.08,1.62,3.61,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,4,2025-08-07T23:52:07Z,2025-08-07T23:54:16Z
+70052,70052 (1999 GS60),asteroid,known,16.27,1.48,3.31,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,8,2025-05-29T03:13:27Z,2025-05-29T14:38:38Z
+70118,70118 (1999 LM25),asteroid,known,15.85,1.69,2.2,measured (JPL),,,false,3i-atlas,26,2025-12-14T04:27:43Z,2025-12-14T11:06:03Z
+70442,70442 (1999 TR9),asteroid,known,15.02,1.79,2.91,measured (JPL),,,false,ecliptic-virgo,22,2026-06-17T18:15:44Z,2026-06-19T09:22:12Z
+71639,71639 (2000 EC92),asteroid,known,14.08,5.48,5.9,measured (JPL),,,false,ecliptic-virgo,12,2026-05-21T21:05:56Z,2026-05-22T15:08:45Z
+71794,71794 (2000 ST227),asteroid,known,14.03,3.91,4.07,measured (JPL),,,false,ceres,7,2025-12-14T16:36:14Z,2025-12-14T16:42:42Z
+71883,71883 (2000 VO56),asteroid,known,16.37,1.41,3.16,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,10,2026-06-17T18:17:54Z,2026-06-17T23:13:30Z
+72040,72040 (2000 XH50),asteroid,known,14.82,3.07,3.49,measured (JPL),,,false,ceres,126,2025-12-13T08:02:27Z,2026-01-01T14:53:18Z
+72399,72399 (2001 CN22),asteroid,known,16.79,1.17,2.61,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,4,2025-09-27T18:26:58Z,2025-09-27T18:29:07Z
+72621,72621 (2001 FJ25),asteroid,known,14.51,5.42,5.97,measured (JPL),,,false,3i-atlas,2,2025-12-08T11:28:49Z,2025-12-08T11:28:49Z
+72841,72841 Manolaneri (2001 HC32),asteroid,known,15.19,2.44,5.45,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,3,2025-12-08T09:52:01Z,2025-12-08T11:28:49Z
+74155,74155 (1998 QK93),asteroid,known,13.55,5.77,6.11,measured (JPL),,,false,ecliptic-virgo,14,2026-06-12T11:11:26Z,2026-06-12T12:53:35Z
+74237,74237 (1998 SX47),asteroid,known,15.73,1.9,4.25,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,4,2026-06-18T20:21:48Z,2026-06-19T09:22:12Z
+74309,74309 (1998 TF32),asteroid,known,15.1,2.54,5.68,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,16,2026-06-17T18:17:54Z,2026-06-19T09:22:12Z
+74454,74454 (1999 CV28),asteroid,known,14.38,5.58,5.95,measured (JPL),,,false,3i-atlas,6,2025-12-14T12:37:33Z,2025-12-14T12:44:00Z
+74697,74697 (1999 RZ141),asteroid,known,15.53,2.08,4.66,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,25,2026-05-30T03:54:13Z,2026-06-04T09:25:29Z
+74774,74774 (1999 RM236),asteroid,known,16.1,1.6,3.58,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,47,2026-03-14T10:46:49Z,2026-03-18T01:10:53Z
+74838,74838 (1999 TK34),asteroid,known,15.98,2.48,2.68,measured (JPL),,,false,3i-atlas,13,2025-08-11T17:24:56Z,2025-08-12T00:03:40Z
+75685,75685 (2000 AX99),asteroid,known,15.47,2.14,4.79,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,24,2026-05-31T14:04:48Z,2026-06-04T09:25:29Z
+76061,76061 (2000 DZ68),asteroid,known,15.41,2.2,4.92,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,1,2025-12-08T09:54:30Z,2025-12-08T09:54:30Z
+76324,76324 (2000 EX145),asteroid,known,14.79,6.44,7.09,measured (JPL),,,false,3i-atlas,13,2025-12-14T17:27:04Z,2025-12-14T19:12:47Z
+77102,77102 (2001 DM66),asteroid,known,16.17,1.55,3.47,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,14,2025-08-07T14:00:28Z,2025-08-07T23:56:25Z
+77197,77197 (2001 FB17),asteroid,known,16.43,1.38,3.08,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,14,2026-06-12T11:11:26Z,2026-06-12T12:53:35Z
+77517,77517 (2001 HS50),asteroid,known,14.82,6.69,6.76,measured (JPL),,,false,ecliptic-ra90,33,2025-09-22T19:26:49Z,2025-09-25T11:07:32Z
+77998,77998 (2002 JB48),asteroid,known,15.96,1.71,3.82,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,6,2026-06-24T14:49:25Z,2026-06-25T10:25:31Z
+78007,78007 (2002 JG52),asteroid,known,16.11,1.59,3.56,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,42,2026-03-07T14:07:49Z,2026-03-13T11:59:55Z
+78137,78137 (2002 NE15),asteroid,known,14.69,6.67,8.55,measured (JPL),,,false,ecliptic-ra90,14,2025-09-26T11:27:18Z,2025-09-27T18:31:16Z
+78687,78687 (2002 TP139),asteroid,known,14.53,3.38,6.93,measured (JPL),,,false,3i-atlas,5,2025-12-14T04:27:43Z,2025-12-14T04:34:10Z
+78707,78707 (2002 TY181),asteroid,known,14.71,6.4,7.12,measured (JPL),,,false,ecliptic-ra90,29,2026-03-10T04:04:06Z,2026-03-13T11:59:55Z
+79228,79228 (1994 PP17),asteroid,known,16.04,1.65,3.68,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,14,2025-09-18T22:37:34Z,2025-09-20T15:20:33Z
+79238,79238 (1994 PM36),asteroid,known,15.71,1.34,2.45,measured (JPL),,,false,ecliptic-virgo,2,2025-12-28T15:29:23Z,2025-12-28T15:29:23Z
+79297,79297 (1995 VK8),asteroid,known,17.0,1.06,2.37,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,2,2025-09-27T18:26:58Z,2025-09-27T18:26:58Z
+79533,79533 (1998 QN20),asteroid,known,15.83,1.81,4.06,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,7,2026-03-19T16:09:31Z,2026-03-20T19:52:20Z
+79613,79613 (1998 RJ56),asteroid,known,14.98,2.68,6.0,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,15,2025-12-26T04:52:42Z,2025-12-27T13:28:33Z
+80467,80467 (2000 AT23),asteroid,known,16.45,1.36,3.05,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,14,2025-09-26T11:27:18Z,2025-09-27T18:31:16Z
+80609,80609 (2000 AU162),asteroid,known,15.35,2.26,5.06,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,15,2026-06-03T05:38:06Z,2026-06-04T09:25:29Z
+80766,80766 (2000 CT57),asteroid,known,16.19,1.54,3.44,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,31,2025-12-20T10:20:26Z,2025-12-22T01:31:54Z
+80906,80906 (2000 DK58),asteroid,known,15.41,2.2,4.92,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,3,2026-06-24T14:49:25Z,2026-06-24T19:42:26Z
+80965,80965 (2000 DE111),asteroid,known,16.37,1.41,3.16,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,12,2025-05-24T17:16:09Z,2025-05-29T14:38:38Z
+81069,81069 (2000 EW77),asteroid,known,15.83,1.81,4.06,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,15,2026-03-07T14:07:49Z,2026-03-10T04:10:33Z
+81304,81304 (2000 GZ5),asteroid,known,15.53,2.08,4.66,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,14,2026-06-12T11:11:26Z,2026-06-12T12:53:35Z
+81330,81330 (2000 GN30),asteroid,known,15.21,6.26,6.42,measured (JPL),,,false,ecliptic-virgo,95,2025-05-16T21:45:22Z,2025-05-24T17:20:27Z
+81341,81341 (2000 GS38),asteroid,known,14.96,6.14,6.32,measured (JPL),,,false,ecliptic-virgo,19,2026-06-17T15:04:56Z,2026-06-19T09:22:12Z
+81369,81369 (2000 GT64),asteroid,known,15.26,3.31,5.08,measured (JPL),,,false,ecliptic-virgo,8,2026-06-04T09:19:01Z,2026-06-04T09:25:29Z
+81552,81552 (2000 HH25),asteroid,known,15.56,2.05,4.59,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,53,2025-05-22T00:02:43Z,2025-05-29T14:38:38Z
+81615,81615 (2000 HQ70),asteroid,known,15.52,2.09,4.68,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,4,2025-12-09T11:55:41Z,2025-12-09T12:02:08Z
+81771,81771 (2000 JM68),asteroid,known,14.66,4.42,4.69,measured (JPL),,,false,ecliptic-ra90,48,2025-09-21T14:07:56Z,2025-09-24T07:15:47Z
+82043,82043 (2000 SN238),asteroid,known,13.16,12.1,12.6,measured (JPL),,,true,ecliptic-ra90,67,2025-09-18T22:33:16Z,2025-09-23T10:03:03Z
+82100,82100 (2001 FT17),asteroid,known,16.81,1.15,2.58,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,3,2025-08-07T02:33:35Z,2025-08-07T02:35:46Z
+82142,82142 (2001 FV130),asteroid,known,15.41,3.92,5.2,measured (JPL),,,false,ecliptic-virgo,68,2026-05-20T01:07:00Z,2026-06-04T09:25:29Z
+82611,82611 (2001 OZ100),asteroid,known,14.65,2.21,3.84,measured (JPL),,,false,ecliptic-ra90,68,2025-09-22T06:20:32Z,2025-09-27T18:29:07Z
+83109,83109 (2001 QR240),asteroid,known,15.12,5.38,5.68,measured (JPL),,,false,ecliptic-ra90,36,2025-09-24T05:38:30Z,2025-09-27T18:31:16Z
+83472,83472 (2001 SG78),asteroid,known,15.13,2.5,5.6,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,14,2026-06-12T11:11:26Z,2026-06-12T12:53:35Z
+83665,83665 (2001 TP21),asteroid,known,15.66,1.96,4.39,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,11,2025-08-09T08:25:29Z,2025-08-09T10:02:30Z
+83677,83677 (2001 TW46),asteroid,known,14.93,5.28,6.6,measured (JPL),,,false,3i-atlas,24,2025-12-14T04:27:43Z,2025-12-14T07:47:22Z
+84234,84234 (2002 SR24),asteroid,known,15.69,1.93,4.33,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,9,2026-03-19T16:09:31Z,2026-03-20T19:52:20Z
+84609,84609 (2002 VE36),asteroid,known,15.69,3.21,4.45,measured (JPL),,,false,3i-atlas,8,2025-08-01T08:01:06Z,2025-08-01T08:07:33Z
+84914,84914 (2003 UP235),asteroid,known,15.0,2.66,5.94,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,27,2026-03-16T21:21:58Z,2026-03-20T21:29:31Z
+85074,85074 (1288 T-2),asteroid,known,15.44,4.37,4.8,measured (JPL),,,false,ecliptic-ra90,32,2025-09-18T22:33:16Z,2025-09-21T14:14:24Z
+86208,86208 (1999 TD16),asteroid,known,13.97,9.4,9.76,measured (JPL),,,false,ecliptic-virgo,2,2025-06-07T12:13:59Z,2025-06-07T12:13:59Z
+86477,86477 (2000 CU85),asteroid,known,16.43,3.1,3.37,measured (JPL),,,false,3i-atlas,3,2025-08-09T18:20:19Z,2025-08-10T00:46:39Z
+86830,86830 (2000 GN147),asteroid,known,16.1,2.06,2.6,measured (JPL),,,false,ecliptic-ra90,11,2025-09-18T22:33:16Z,2025-09-19T18:07:35Z
+87063,87063 (2000 KO53),asteroid,known,14.37,3.55,7.94,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,6,2025-08-07T05:52:07Z,2025-08-07T05:58:36Z
+87722,87722 (2000 SD46),asteroid,known,14.03,4.15,9.29,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,22,2026-03-14T10:46:49Z,2026-03-15T11:08:31Z
+87946,87946 (2000 SW359),asteroid,known,15.62,2.0,4.47,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,22,2026-06-17T15:04:56Z,2026-06-19T06:08:39Z
+88173,88173 (2000 XH29),asteroid,known,14.66,6.44,6.68,measured (JPL),,,false,ecliptic-virgo,102,2025-05-16T21:45:22Z,2025-05-29T14:38:38Z
+88458,88458 (2001 QG95),asteroid,known,15.31,2.3,5.15,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,2,2025-08-15T12:43:46Z,2025-08-15T12:43:46Z
+88840,88840 (2001 SC177),asteroid,known,15.39,2.22,4.97,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,25,2025-12-08T00:07:26Z,2025-12-08T09:52:01Z
+88842,88842 (2001 SF178),asteroid,known,15.61,3.67,3.83,measured (JPL),,,false,3i-atlas,37,2025-12-14T04:27:43Z,2025-12-14T20:43:59Z
+89639,89639 (2001 XD219),asteroid,known,16.03,1.65,3.7,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,2,2026-06-24T16:27:21Z,2026-06-24T16:27:21Z
+89808,89808 (2002 AC162),asteroid,known,14.91,6.82,7.19,measured (JPL),,,false,3i-atlas,13,2025-12-14T04:27:43Z,2025-12-14T07:47:22Z
+89994,89994 (2002 TK68),asteroid,known,15.36,1.82,2.66,measured (JPL),,,false,ecliptic-virgo,28,2025-05-22T13:05:23Z,2025-05-24T17:20:27Z
+90086,90086 (2002 VL135),asteroid,known,16.69,1.22,2.73,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,6,2026-03-07T14:09:58Z,2026-03-07T14:14:16Z
+90430,90430 (2004 BM44),asteroid,known,15.3,2.32,5.18,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,8,2025-12-08T03:23:21Z,2025-12-08T03:29:48Z
+90435,90435 (2004 BD74),asteroid,known,15.29,2.33,5.2,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,47,2025-12-22T09:39:24Z,2025-12-26T04:59:08Z
+90488,90488 (2004 DX12),asteroid,known,16.32,1.45,3.24,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,49,2025-12-21T05:56:35Z,2025-12-24T04:02:03Z
+91048,91048 (1998 FO31),asteroid,known,15.66,1.96,4.39,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,37,2025-12-19T16:30:05Z,2025-12-22T01:31:54Z
+92722,92722 (2000 QY94),asteroid,known,15.82,1.82,4.07,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,54,2025-09-22T12:56:40Z,2025-09-26T11:33:45Z
+93761,93761 (2000 WT17),asteroid,known,15.36,2.25,5.04,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,5,2025-09-18T22:35:25Z,2025-09-18T22:39:44Z
+94633,94633 (2001 WX13),asteroid,known,16.31,1.45,3.25,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,16,2026-05-20T01:07:00Z,2026-05-20T07:44:52Z
+95534,95534 (2002 EL78),asteroid,known,14.57,3.32,3.54,measured (JPL),,,false,ecliptic-virgo,99,2025-05-16T21:45:22Z,2025-05-26T21:24:24Z
+96156,96156 (1974 CB),asteroid,known,15.82,4.13,4.5,measured (JPL),,,false,ecliptic-virgo;3i-atlas,20,2025-12-08T11:28:49Z,2025-12-27T13:28:33Z
+96557,96557 (1998 SC127),asteroid,known,14.77,2.95,6.61,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,27,2025-08-11T01:13:56Z,2025-08-11T17:29:14Z
+96901,96901 (1999 TM70),asteroid,known,15.28,5.6,6.22,measured (JPL),,,false,ecliptic-virgo,8,2025-05-29T03:13:27Z,2025-05-29T14:38:38Z
+97025,97025 (1999 TK284),asteroid,known,15.47,2.49,3.14,measured (JPL),,,false,ecliptic-ra90,6,2025-09-27T18:26:58Z,2025-09-27T18:31:16Z
+97548,97548 (2000 DW55),asteroid,known,14.84,2.35,4.32,measured (JPL),,,false,ecliptic-virgo,44,2026-05-20T01:07:00Z,2026-05-28T16:08:21Z
+97676,97676 (2000 FW56),asteroid,known,14.47,8.54,8.84,measured (JPL),,,false,ceres,44,2025-12-21T06:49:46Z,2025-12-25T08:30:00Z
+97977,97977 (2000 QO169),asteroid,known,16.16,1.56,3.48,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,25,2026-03-16T21:21:58Z,2026-03-19T16:15:58Z
+98882,98882 (2001 BG28),asteroid,known,15.18,2.45,5.47,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,6,2025-12-14T12:37:33Z,2025-12-14T12:44:00Z
+99346,99346 (2001 XN101),asteroid,known,15.71,1.74,2.34,measured (JPL),,,false,ecliptic-ra90,21,2025-09-25T11:01:04Z,2025-09-27T18:31:16Z
+99653,99653 (2002 HO4),asteroid,known,15.11,2.53,5.65,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,5,2025-09-18T22:35:25Z,2025-09-18T22:39:44Z
+99655,99655 (2002 HL6),asteroid,known,16.76,1.18,2.64,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,13,2025-12-14T04:27:43Z,2025-12-14T07:43:04Z
+99783,99783 (2002 JE127),asteroid,known,15.62,2.06,2.93,measured (JPL),,,false,3i-atlas,6,2025-12-14T17:27:04Z,2025-12-14T19:12:47Z
+99811,99811 (2002 LF25),asteroid,known,15.21,2.49,2.7,measured (JPL),,,false,ceres,2,2025-07-14T00:33:27Z,2025-07-14T00:33:27Z
+100238,100238 (1994 PY31),asteroid,known,16.16,1.56,3.48,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,23,2026-05-31T14:04:48Z,2026-06-04T09:25:29Z
+100370,100370 (1995 UJ51),asteroid,known,16.24,3.46,3.61,measured (JPL),,,false,3i-atlas,12,2025-08-08T12:49:34Z,2025-08-08T17:43:35Z
+100703,100703 (1998 AL3),asteroid,known,15.55,2.06,4.61,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,41,2026-03-13T11:53:28Z,2026-03-16T01:56:42Z
+100731,100731 Ara Pacis (1998 DO),asteroid,known,14.75,3.84,4.01,measured (JPL),,,false,ecliptic-virgo,2,2025-12-27T13:28:33Z,2025-12-27T13:28:33Z
+100796,100796 (1998 FM77),asteroid,known,15.88,1.77,3.96,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,27,2025-09-18T22:35:25Z,2025-09-21T14:14:24Z
+100940,100940 Maunder (1998 MM47),asteroid,known,15.33,4.46,4.53,measured (JPL),,,false,ecliptic-ra90,16,2026-03-13T11:53:28Z,2026-03-14T10:53:17Z
+101179,101179 (1998 SA9),asteroid,known,16.2,1.93,3.16,measured (JPL),,,false,ecliptic-ra90,6,2025-09-27T18:26:58Z,2025-09-27T18:31:16Z
+101687,101687 (1999 CA117),asteroid,known,15.47,2.14,4.79,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,44,2026-03-14T20:30:19Z,2026-03-18T18:59:04Z
+101900,101900 (1999 QH),asteroid,known,14.86,2.56,4.24,measured (JPL),,,false,ecliptic-virgo,2,2025-06-07T12:13:59Z,2025-06-07T12:13:59Z
+101927,101927 (1999 RN19),asteroid,known,14.59,6.7,7.41,measured (JPL),,,false,ecliptic-virgo,106,2025-05-16T21:45:22Z,2025-05-29T14:38:38Z
+102111,102111 (1999 RQ167),asteroid,known,15.28,1.98,2.54,measured (JPL),,,false,ecliptic-virgo,14,2026-06-12T11:11:26Z,2026-06-12T12:53:35Z
+102273,102273 (1999 TM46),asteroid,known,16.12,1.59,3.55,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,56,2025-05-19T03:34:01Z,2025-05-23T05:30:12Z
+102369,102369 (1999 TC142),asteroid,known,16.2,1.53,3.42,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,7,2025-08-11T23:57:13Z,2025-08-12T00:03:40Z
+102509,102509 (1999 TE293),asteroid,known,15.93,1.73,3.87,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,31,2025-09-24T05:38:30Z,2025-09-26T11:33:45Z
+102795,102795 (1999 VA163),asteroid,known,16.23,1.25,1.77,measured (JPL),,,false,ecliptic-ra90,50,2025-09-22T06:20:32Z,2025-09-24T13:57:19Z
+103754,103754 (2000 CP122),asteroid,known,15.32,2.29,5.13,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,5,2026-06-24T14:49:25Z,2026-06-25T10:25:31Z
+103969,103969 (2000 DB80),asteroid,known,16.2,1.53,3.42,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,14,2026-06-12T11:11:26Z,2026-06-12T12:53:35Z
+104051,104051 (2000 ET14),asteroid,known,16.07,1.62,3.63,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,33,2025-05-16T21:45:22Z,2025-05-19T03:40:28Z
+104063,104063 (2000 EX18),asteroid,known,16.27,1.48,3.31,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,25,2026-03-15T19:19:13Z,2026-03-18T01:10:53Z
+104127,104127 (2000 EG59),asteroid,known,15.37,5.18,5.56,measured (JPL),,,false,ecliptic-virgo,19,2026-05-21T06:24:42Z,2026-05-22T15:08:45Z
+104143,104143 (2000 EU65),asteroid,known,15.44,4.52,5.19,measured (JPL),,,false,3i-atlas,16,2025-12-08T00:07:26Z,2025-12-08T01:52:20Z
+105769,105769 (2000 SW107),asteroid,known,16.54,2.74,3.07,measured (JPL),,,false,ecliptic-virgo,60,2025-05-16T21:45:22Z,2025-05-22T04:55:18Z
+106231,106231 (2000 UL41),asteroid,known,14.74,5.2,7.01,measured (JPL),,,false,ecliptic-virgo,103,2025-05-16T21:45:22Z,2025-05-29T14:38:38Z
+106997,106997 (2000 YR108),asteroid,known,16.22,1.52,3.39,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,39,2025-12-22T01:25:27Z,2025-12-24T20:24:52Z
+107202,107202 (2001 BU32),asteroid,known,16.24,1.5,3.36,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,11,2025-12-27T03:43:25Z,2025-12-28T15:29:23Z
+107733,107733 (2001 FO28),asteroid,known,15.35,4.54,4.92,measured (JPL),,,false,ecliptic-virgo,43,2025-12-24T00:44:58Z,2025-12-28T15:29:23Z
+108310,108310 (2001 JD2),asteroid,known,14.98,5.03,9.09,measured (JPL),,,false,ecliptic-virgo,18,2026-06-17T18:17:54Z,2026-06-19T09:22:12Z
+108351,108351 (2001 KL9),asteroid,known,15.89,1.76,3.94,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,20,2026-06-17T15:04:56Z,2026-06-19T09:22:12Z
+108578,108578 (2001 MQ7),asteroid,known,14.51,5.15,5.81,measured (JPL),,,false,ecliptic-virgo,16,2026-06-03T05:38:06Z,2026-06-04T09:25:29Z
+109199,109199 (2001 QV77),asteroid,known,14.94,2.77,3.86,measured (JPL),,,false,ecliptic-virgo,14,2026-06-12T11:11:26Z,2026-06-12T12:53:35Z
+109503,109503 (2001 QL233),asteroid,known,15.65,1.97,4.41,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,27,2025-12-25T12:29:43Z,2025-12-28T15:29:23Z
+109823,109823 (2001 RG111),asteroid,known,16.28,1.47,3.3,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,9,2026-03-19T16:09:31Z,2026-03-20T19:52:20Z
+110031,110031 (2001 SX75),asteroid,known,14.72,7.91,9.67,measured (JPL),,,false,ecliptic-ra90,66,2026-03-10T04:04:06Z,2026-03-16T01:56:42Z
+111077,111077 (2001 VS54),asteroid,known,15.32,4.16,4.92,measured (JPL),,,false,ecliptic-virgo,6,2025-12-25T12:29:43Z,2025-12-25T12:36:10Z
+112146,112146 (2002 JZ64),asteroid,known,16.54,1.31,2.92,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,4,2025-08-07T14:00:28Z,2025-08-07T14:04:46Z
+112168,112168 (2002 JR81),asteroid,known,16.33,1.44,3.22,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,14,2026-06-12T11:11:26Z,2026-06-12T12:53:35Z
+112543,112543 (2002 PP41),asteroid,known,16.27,1.48,3.31,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,13,2026-06-12T12:49:17Z,2026-06-17T18:20:03Z
+112984,112984 (2002 RF28),asteroid,known,14.69,3.07,6.86,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,12,2025-09-18T22:33:16Z,2025-09-19T18:07:35Z
+113096,113096 (2002 RO73),asteroid,known,14.72,3.19,4.21,measured (JPL),,,false,3i-atlas,6,2025-12-08T09:52:01Z,2025-12-08T09:58:49Z
+113264,113264 (2002 RC150),asteroid,known,15.14,2.49,5.57,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,3,2025-12-08T09:52:01Z,2025-12-08T09:58:49Z
+113755,113755 (2002 TE168),asteroid,known,15.09,2.55,5.7,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,16,2026-05-20T01:07:00Z,2026-05-20T07:44:52Z
+113989,113989 (2002 UF27),asteroid,known,16.2,1.53,3.42,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,16,2026-06-17T18:17:54Z,2026-06-18T20:21:48Z
+114551,114551 (2003 BO34),asteroid,known,15.62,4.38,4.85,measured (JPL),,,false,ecliptic-ra90,50,2026-03-14T10:46:49Z,2026-03-18T01:10:53Z
+114680,114680 (2003 FE56),asteroid,known,15.17,5.53,6.14,measured (JPL),,,false,ecliptic-virgo,25,2025-05-16T21:45:22Z,2025-05-18T01:34:39Z
+114886,114886 (2003 QN16),asteroid,known,15.49,2.12,4.74,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,7,2025-09-25T11:01:04Z,2025-09-25T11:07:32Z
+116056,116056 (2003 WS107),asteroid,known,15.13,2.5,5.6,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,14,2026-06-17T18:17:54Z,2026-06-19T09:22:12Z
+116372,116372 (2003 YJ108),asteroid,known,15.64,1.98,4.43,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,31,2026-05-28T16:01:55Z,2026-06-04T09:25:29Z
+116420,116420 (2003 YW146),asteroid,known,15.06,6.03,6.74,measured (JPL),,,false,ecliptic-virgo,24,2026-06-17T15:04:56Z,2026-06-19T09:22:12Z
+117014,117014 (2004 JG5),asteroid,known,15.46,2.15,4.81,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,8,2025-08-11T23:57:13Z,2025-08-12T00:03:40Z
+117040,117040 (2004 JV25),asteroid,known,16.41,1.39,3.1,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,2,2025-06-07T12:13:59Z,2025-06-07T12:13:59Z
+117157,117157 (2004 QR9),asteroid,known,15.84,1.81,4.04,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,32,2026-05-28T16:01:55Z,2026-06-04T09:25:29Z
+118270,118270 (1998 HN129),asteroid,known,15.57,2.04,4.57,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,20,2026-06-17T18:15:44Z,2026-06-19T02:50:14Z
+118490,118490 (2000 CN54),asteroid,known,16.08,1.62,3.61,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,3,2025-08-11T23:57:13Z,2025-08-12T00:03:40Z
+118629,118629 (2000 HC42),asteroid,known,16.08,1.62,3.61,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,37,2026-05-20T01:07:00Z,2026-05-22T15:08:45Z
+118973,118973 (2000 WD173),asteroid,known,14.23,8.86,9.55,measured (JPL),,,false,3i-atlas,2,2025-08-11T17:24:56Z,2025-08-11T17:27:05Z
+119323,119323 (2001 SQ121),asteroid,known,14.64,2.66,3.62,measured (JPL),,,false,3i-atlas,6,2025-12-08T09:52:01Z,2025-12-08T09:58:49Z
+119355,119355 (2001 SU232),asteroid,known,15.77,4.39,4.75,measured (JPL),,,false,ecliptic-ra90,32,2025-09-18T22:33:16Z,2025-09-21T14:14:24Z
+119369,119369 (2001 SZ277),asteroid,known,15.58,2.03,4.55,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,4,2025-08-14T02:28:35Z,2025-08-14T02:35:02Z
+120664,120664 (1996 VR15),asteroid,known,16.35,1.43,3.19,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,48,2025-09-20T15:14:06Z,2025-09-22T19:33:16Z
+121569,121569 (1999 VT69),asteroid,known,15.76,1.87,4.19,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,55,2026-05-20T01:07:00Z,2026-05-31T14:11:15Z
+122373,122373 (2000 QN61),asteroid,known,16.3,1.46,3.27,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,8,2025-08-09T08:25:29Z,2025-08-09T08:31:55Z
+123539,123539 (2000 XV19),asteroid,known,15.01,6.49,8.52,measured (JPL),,,false,ceres,60,2025-06-30T12:11:17Z,2025-07-07T17:07:55Z
+123861,123861 (2001 DB2),asteroid,known,15.53,2.08,4.66,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,16,2026-06-03T05:38:06Z,2026-06-04T09:25:29Z
+124553,124553 (2001 RW134),asteroid,known,16.81,1.15,2.58,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,6,2026-03-07T14:09:58Z,2026-03-07T14:14:16Z
+125386,125386 (2001 VG83),asteroid,known,15.97,1.7,3.8,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,50,2025-09-21T14:07:56Z,2025-09-24T13:57:19Z
+125807,125807 (2001 XB160),asteroid,known,16.06,1.63,3.65,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,21,2025-09-25T11:01:04Z,2025-09-27T18:31:16Z
+127102,127102 (2002 GD86),asteroid,known,15.83,2.46,3.13,measured (JPL),,,false,ceres,25,2025-12-14T16:36:14Z,2025-12-17T18:00:10Z
+127337,127337 (2002 JK117),asteroid,known,15.52,3.61,5.72,measured (JPL),,,false,3i-atlas,8,2025-08-11T23:57:13Z,2025-08-12T00:03:40Z
+127889,127889 (2003 GT8),asteroid,known,16.57,1.29,2.88,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,6,2026-06-24T16:27:21Z,2026-06-25T10:25:31Z
+128005,128005 (2003 HH54),asteroid,known,15.89,1.76,3.94,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,2,2025-06-07T12:13:59Z,2025-06-07T12:13:59Z
+129715,129715 (1998 TW24),asteroid,known,15.94,1.72,3.86,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,2,2025-08-15T12:43:46Z,2025-08-15T12:43:46Z
+130482,130482 (2000 QX97),asteroid,known,16.44,1.37,3.06,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,7,2026-03-19T16:09:31Z,2026-03-20T19:52:20Z
+130689,130689 (2000 SM138),asteroid,known,15.66,1.96,4.39,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,28,2025-09-22T06:20:32Z,2025-09-23T06:51:55Z
+131069,131069 (2000 YD83),asteroid,known,15.72,1.91,4.27,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,7,2025-09-18T22:33:16Z,2025-09-18T22:39:44Z
+131574,131574 (2001 VE86),asteroid,known,16.9,1.11,2.48,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,10,2026-06-17T15:04:56Z,2026-06-17T23:09:12Z
+131594,131594 (2001 WL99),asteroid,known,16.21,1.52,3.4,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,46,2026-05-20T01:07:00Z,2026-05-28T16:08:21Z
+131766,131766 Silviaferrara (2002 AT12),asteroid,known,16.4,1.39,3.12,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,8,2025-08-06T23:17:38Z,2025-08-07T02:35:46Z
+131922,131922 (2002 BX28),asteroid,known,15.62,1.76,3.05,measured (JPL),,,false,ecliptic-ra90,25,2025-09-23T06:47:37Z,2025-09-25T11:07:32Z
+131968,131968 (2002 CY52),asteroid,known,16.31,1.45,3.25,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,45,2026-05-20T01:07:00Z,2026-05-28T16:08:21Z
+132662,132662 (2002 LQ60),asteroid,known,15.29,5.0,6.02,measured (JPL),,,false,ecliptic-ra90,33,2025-09-24T05:38:30Z,2025-09-27T18:29:07Z
+133529,133529 (2003 TR2),asteroid,known,15.63,1.99,4.45,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,50,2026-03-14T10:46:49Z,2026-03-18T01:10:53Z
+134342,134342 (1979 MV3),asteroid,known,16.37,1.16,1.92,measured (JPL),,,false,3i-atlas,12,2025-08-14T02:28:35Z,2025-08-14T10:48:27Z
+135290,135290 (2001 SC158),asteroid,known,15.27,2.35,5.25,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,3,2026-03-20T19:52:20Z,2026-03-20T21:29:31Z
+136118,136118 (2003 KV),asteroid,known,16.47,2.86,2.96,measured (JPL),,,false,3i-atlas,13,2025-12-14T04:27:43Z,2025-12-14T07:47:22Z
+136288,136288 (2004 AZ1),asteroid,known,15.77,1.86,4.17,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,8,2026-03-07T14:07:49Z,2026-03-07T14:14:16Z
+136997,136997 (1998 SP72),asteroid,known,16.12,1.59,3.55,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,25,2025-09-24T13:50:52Z,2025-09-26T11:33:45Z
+137688,137688 (1999 XF59),asteroid,known,16.55,1.3,2.91,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,33,2025-09-23T06:47:37Z,2025-09-26T09:45:50Z
+137772,137772 (1999 XZ197),asteroid,known,15.74,1.89,4.23,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,49,2025-12-23T18:14:22Z,2025-12-27T03:49:52Z
+138000,138000 (2000 CK82),asteroid,known,15.82,1.82,4.07,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,8,2026-06-04T09:19:01Z,2026-06-04T09:25:29Z
+138262,138262 (2000 GM9),asteroid,known,15.61,2.01,4.49,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,4,2025-12-19T16:34:23Z,2025-12-19T18:04:52Z
+138350,138350 (2000 GT115),asteroid,known,15.95,4.54,4.9,measured (JPL),,,false,ecliptic-virgo,2,2026-06-25T10:25:31Z,2026-06-25T10:25:31Z
+138876,138876 (2000 XA45),asteroid,known,14.19,9.44,9.89,measured (JPL),,,false,ecliptic-virgo,92,2025-05-16T21:45:22Z,2025-05-24T17:20:27Z
+138949,138949 (2001 BS58),asteroid,known,16.51,1.33,2.97,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,16,2025-12-14T06:02:09Z,2025-12-14T07:47:22Z
+139512,139512 (2001 PY49),asteroid,known,15.32,2.1,2.98,measured (JPL),,,false,ecliptic-virgo,4,2026-06-24T16:27:21Z,2026-06-25T10:25:31Z
+140249,140249 (2001 SL253),asteroid,known,15.69,1.93,4.33,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,6,2025-09-27T18:26:58Z,2025-09-27T18:31:16Z
+142976,142976 (2002 VN84),asteroid,known,15.59,3.47,5.29,measured (JPL),,,false,ecliptic-ra90,8,2026-03-07T14:07:49Z,2026-03-07T14:14:16Z
+143365,143365 (2003 BH7),asteroid,known,15.86,1.79,4.0,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,8,2026-03-10T04:04:06Z,2026-03-10T04:10:33Z
+143427,143427 (2003 BF58),asteroid,known,16.42,1.38,3.09,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,10,2025-12-19T16:27:56Z,2025-12-19T18:04:52Z
+144057,144057 (2004 BJ36),asteroid,known,16.39,1.4,3.13,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,45,2025-12-21T17:20:50Z,2025-12-24T04:02:03Z
+146152,146152 (2000 SU147),asteroid,known,14.83,2.87,6.43,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,29,2026-05-20T01:07:00Z,2026-05-21T21:08:05Z
+146309,146309 (2001 KD30),asteroid,known,16.05,1.64,3.66,estimated from H (albedo 0.05-0.25),,,false,ceres,4,2025-07-19T22:23:59Z,2025-07-19T22:26:08Z
+146574,146574 (2001 TT69),asteroid,known,16.12,1.59,3.55,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,54,2025-12-20T10:20:26Z,2025-12-24T00:51:25Z
+146651,146651 (2001 UD94),asteroid,known,15.53,4.6,4.91,measured (JPL),,,false,ecliptic-ra90,8,2026-03-07T14:07:49Z,2026-03-07T14:14:16Z
+147005,147005 (2002 PA127),asteroid,known,15.7,1.93,4.31,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,21,2026-06-17T15:04:56Z,2026-06-19T09:22:12Z
+147343,147343 (2003 BY65),asteroid,known,16.52,1.32,2.95,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,56,2025-12-21T17:20:50Z,2025-12-25T01:06:08Z
+149116,149116 (2002 CA285),asteroid,known,15.68,1.94,4.35,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,6,2026-03-07T14:09:58Z,2026-03-07T14:14:16Z
+150424,150424 (2000 GA18),asteroid,known,16.74,1.19,2.67,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,26,2026-05-30T03:54:13Z,2026-06-04T09:25:29Z
+150526,150526 (2000 SW43),asteroid,known,16.88,1.12,2.5,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,30,2025-12-21T05:56:35Z,2025-12-22T09:45:51Z
+150711,150711 (2001 PE62),asteroid,known,16.53,1.31,2.94,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,16,2025-08-07T05:52:07Z,2025-08-07T14:06:55Z
+150928,150928 (2001 TP68),asteroid,known,15.52,2.09,4.68,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,8,2025-05-29T03:13:27Z,2025-05-29T14:38:38Z
+151294,151294 (2002 CV27),asteroid,known,15.65,1.97,4.41,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,15,2025-12-23T18:14:22Z,2025-12-24T00:51:25Z
+151415,151415 (2002 ES140),asteroid,known,15.46,2.15,4.81,estimated from H (albedo 0.05-0.25),,,false,ceres,2,2025-12-13T08:02:27Z,2025-12-13T08:02:27Z
+152111,152111 (2004 RA182),asteroid,known,14.11,7.34,7.97,measured (JPL),,,false,ecliptic-virgo,73,2025-12-21T22:15:06Z,2025-12-27T13:28:33Z
+152633,152633 (1997 GO35),asteroid,known,16.0,1.68,3.75,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,14,2025-09-26T11:27:18Z,2025-09-27T18:31:16Z
+152732,152732 (1998 VN55),asteroid,known,16.64,1.25,2.79,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,2,2025-08-13T16:47:27Z,2025-08-13T16:47:27Z
+153249,153249 (2001 BW15),asteroid,known,15.65,2.43,3.89,measured (JPL),,,false,ecliptic-virgo,41,2025-12-21T17:22:59Z,2025-12-24T00:51:25Z
+154837,154837 (2004 RW29),asteroid,known,16.24,1.5,3.36,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,38,2026-05-20T01:07:00Z,2026-05-22T15:08:45Z
+155663,155663 (2000 HM8),asteroid,known,17.28,0.93,2.08,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,2,2025-05-26T21:24:24Z,2025-05-26T21:24:24Z
+155958,155958 (2001 QL106),asteroid,known,15.93,1.73,3.87,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,17,2026-05-28T16:01:55Z,2026-05-31T14:11:15Z
+157881,157881 (1999 RZ),asteroid,known,15.78,1.86,4.15,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,2,2025-08-15T09:27:34Z,2025-08-15T09:27:34Z
+158665,158665 (2003 EV30),asteroid,known,16.93,1.09,2.44,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,29,2025-05-16T21:45:22Z,2025-05-18T01:34:39Z
+160989,160989 (2002 CY142),asteroid,known,16.85,1.13,2.54,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,3,2025-08-13T10:11:24Z,2025-08-13T10:13:33Z
+161009,161009 (2002 EP41),asteroid,known,16.47,1.35,3.02,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,8,2026-03-07T14:07:49Z,2026-03-07T14:14:16Z
+161265,161265 (2003 FR46),asteroid,known,16.67,1.23,2.75,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,12,2026-06-17T18:20:03Z,2026-06-18T20:21:48Z
+161331,161331 (2003 QA90),asteroid,known,15.63,1.99,4.45,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,8,2025-09-18T22:33:16Z,2025-09-18T22:39:44Z
+161662,161662 (2006 CV59),asteroid,known,16.26,1.49,3.33,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,26,2025-12-22T09:39:24Z,2025-12-24T00:51:25Z
+161668,161668 (2006 DS79),asteroid,known,16.58,1.28,2.87,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,2,2025-06-07T12:13:59Z,2025-06-07T12:13:59Z
+163184,163184 (2002 CZ299),asteroid,known,16.4,1.39,3.12,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,1,2025-08-13T16:47:27Z,2025-08-13T16:47:27Z
+163227,163227 (2002 EA104),asteroid,known,15.74,1.89,4.23,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,24,2026-03-07T14:07:49Z,2026-03-11T01:20:35Z
+164772,164772 (1999 CV33),asteroid,known,15.45,4.42,4.73,measured (JPL),,,false,ecliptic-virgo,15,2025-12-19T16:30:05Z,2025-12-20T10:26:53Z
+164824,164824 (1999 RS176),asteroid,known,16.71,1.21,2.7,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,12,2025-08-09T08:25:29Z,2025-08-09T10:02:30Z
+165586,165586 (2001 FH8),asteroid,known,15.91,1.75,3.91,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,38,2026-05-20T01:07:00Z,2026-05-22T15:08:45Z
+165811,165811 (2001 RH81),asteroid,known,14.77,6.17,7.25,measured (JPL),,,false,ecliptic-virgo,5,2026-06-24T16:27:21Z,2026-06-25T10:25:31Z
+166561,166561 (2002 RY103),asteroid,known,14.85,7.56,7.98,measured (JPL),,,false,ecliptic-virgo,51,2026-05-20T01:07:00Z,2026-05-31T14:11:15Z
+167391,167391 (2003 WN91),asteroid,known,16.21,2.62,4.47,measured (JPL),,,false,ecliptic-virgo,17,2025-12-24T20:18:25Z,2025-12-25T12:36:10Z
+168104,168104 (2006 EQ8),asteroid,known,16.28,1.47,3.3,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,1,2025-06-07T12:13:59Z,2025-06-07T12:13:59Z
+170366,170366 (2003 SJ216),asteroid,known,16.8,1.16,2.59,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,13,2025-09-26T11:27:18Z,2025-09-27T18:31:16Z
+172324,172324 (2002 UM26),asteroid,known,15.88,1.77,3.96,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,17,2025-09-18T22:35:25Z,2025-09-20T15:20:33Z
+172894,172894 (2005 GX17),asteroid,known,16.12,1.59,3.55,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,36,2025-12-24T04:02:03Z,2025-12-27T03:49:52Z
+173309,173309 (1999 VK22),asteroid,known,16.28,1.99,3.21,measured (JPL),,,false,3i-atlas,7,2025-08-07T23:52:07Z,2025-08-08T14:35:03Z
+173321,173321 (1999 VQ95),asteroid,known,16.47,2.99,3.24,measured (JPL),,,false,ecliptic-ra90,14,2025-09-18T22:37:34Z,2025-09-20T15:18:24Z
+173491,173491 (2000 SY185),asteroid,known,17.07,1.02,2.29,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,91,2025-05-16T21:45:22Z,2025-05-23T05:30:12Z
+174436,174436 (2002 XJ30),asteroid,known,15.38,1.92,2.79,measured (JPL),,,false,ecliptic-virgo,32,2026-05-28T16:01:55Z,2026-06-04T09:25:29Z
+176141,176141 (2001 FN74),asteroid,known,16.42,1.38,3.09,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,3,2025-12-08T09:54:30Z,2025-12-08T10:00:58Z
+176145,176145 (2001 FM90),asteroid,known,16.97,1.07,2.4,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,35,2026-05-20T01:07:00Z,2026-05-22T15:08:45Z
+179059,179059 (2001 SP77),asteroid,known,15.72,3.07,3.71,measured (JPL),,,false,ecliptic-virgo,24,2025-12-19T16:30:05Z,2025-12-21T06:03:01Z
+180288,180288 (2003 WH102),asteroid,known,16.87,1.12,2.51,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,22,2025-09-23T06:47:37Z,2025-09-24T13:57:19Z
+180671,180671 (2004 GX72),asteroid,known,15.8,1.84,4.11,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,35,2026-05-20T01:07:00Z,2026-05-22T15:08:45Z
+181025,181025 (2005 OU3),asteroid,known,16.84,1.14,2.55,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,7,2026-05-20T01:07:00Z,2026-05-20T01:13:27Z
+184828,184828 (2005 TX191),asteroid,known,15.83,2.31,3.44,measured (JPL),,,false,3i-atlas,10,2025-08-13T03:41:56Z,2025-08-13T10:13:33Z
+185359,185359 (2006 VG85),asteroid,known,16.09,1.61,3.6,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,6,2026-03-07T14:09:58Z,2026-03-07T14:14:16Z
+185627,185627 (2008 CC178),asteroid,known,15.27,2.35,5.25,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,21,2026-06-04T09:19:01Z,2026-06-12T12:53:35Z
+185843,185843 (2000 CW113),asteroid,known,17.03,1.04,2.33,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,8,2026-03-07T14:07:49Z,2026-03-07T14:14:16Z
+185995,185995 (2001 PT1),asteroid,known,16.82,1.15,2.57,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,14,2026-06-12T11:11:26Z,2026-06-12T12:53:35Z
+186406,186406 (2002 PO83),asteroid,known,17.6,1.48,2.27,measured (JPL),,,false,3i-atlas,14,2025-08-09T08:25:29Z,2025-08-09T10:04:41Z
+186783,186783 (2004 DT48),asteroid,known,16.82,1.15,2.57,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,30,2025-12-20T10:20:26Z,2025-12-22T01:31:54Z
+187791,187791 (1998 VO1),asteroid,known,16.73,1.2,2.68,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,23,2025-09-22T12:56:40Z,2025-09-23T06:54:04Z
+188322,188322 (2003 HT13),asteroid,known,17.29,0.93,2.07,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,8,2026-06-04T09:19:01Z,2026-06-04T09:25:29Z
+189248,189248 (2004 RH290),asteroid,known,16.31,1.45,3.25,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,8,2025-05-29T03:13:27Z,2025-05-29T14:38:38Z
+189586,189586 (2000 WC5),asteroid,known,16.04,1.65,3.68,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,14,2026-03-16T21:21:58Z,2026-03-18T01:10:53Z
+189593,189593 (2000 WL73),asteroid,known,16.02,3.36,3.69,measured (JPL),,,false,ecliptic-virgo,8,2026-06-04T09:19:01Z,2026-06-04T09:25:29Z
+190084,190084 (2004 TO83),asteroid,known,16.16,1.56,3.48,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,104,2025-05-16T21:45:22Z,2025-05-29T14:38:38Z
+190446,190446 (2000 AL8),asteroid,known,12.45,8.6,19.2,estimated from H (albedo 0.05-0.25),,,true,ecliptic-virgo,44,2025-12-19T16:27:56Z,2025-12-22T09:45:51Z
+190626,190626 (2000 WS91),asteroid,known,16.22,1.52,3.39,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,35,2026-05-20T01:07:00Z,2026-05-22T15:08:45Z
+191103,191103 (2002 EF42),asteroid,known,13.25,5.95,13.3,estimated from H (albedo 0.05-0.25),,,true,ecliptic-virgo,102,2025-12-19T16:30:05Z,2025-12-28T15:29:23Z
+193427,193427 (2000 WB97),asteroid,known,16.01,1.67,3.73,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,6,2025-09-27T18:26:58Z,2025-09-27T18:31:16Z
+193450,193450 (2000 WQ151),asteroid,known,16.31,1.45,3.25,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,15,2026-03-17T20:09:32Z,2026-03-19T16:13:49Z
+193681,193681 (2001 EE8),asteroid,known,16.01,1.67,3.73,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,24,2025-09-18T22:33:16Z,2025-09-20T23:31:24Z
+194029,194029 (2001 SK64),asteroid,known,17.48,0.85,1.9,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,10,2025-08-09T08:25:29Z,2025-08-09T18:20:19Z
+195027,195027 (2002 CJ39),asteroid,known,16.9,1.11,2.48,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,2,2026-03-20T21:29:31Z,2026-03-20T21:29:31Z
+195488,195488 (2002 GB149),asteroid,known,15.95,1.72,3.84,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,8,2025-05-25T07:59:58Z,2025-05-29T14:38:38Z
+200042,200042 (2007 TE32),asteroid,known,13.38,10.4,12.3,measured (JPL),,,true,ecliptic-virgo,98,2025-05-16T21:45:22Z,2025-05-29T14:38:38Z
+200491,200491 (2000 YA64),asteroid,known,15.9,1.96,2.22,measured (JPL),,,false,ecliptic-ra90,9,2026-03-19T16:09:31Z,2026-03-20T21:29:31Z
+201108,201108 (2002 GX174),asteroid,known,15.79,1.85,4.13,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,4,2025-08-15T09:27:34Z,2025-08-15T12:43:46Z
+201415,201415 (2002 XH13),asteroid,known,15.53,4.73,5.05,measured (JPL),,,false,ecliptic-ra90,30,2026-03-10T04:04:06Z,2026-03-13T11:59:55Z
+201485,201485 (2003 HE20),asteroid,known,16.82,1.15,2.57,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,7,2025-08-07T05:52:07Z,2025-08-07T05:58:36Z
+202193,202193 (2004 XX56),asteroid,known,16.59,1.28,2.86,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,29,2025-09-23T06:47:37Z,2025-09-25T11:07:32Z
+202746,202746 (2007 NO),asteroid,known,15.92,2.85,4.9,measured (JPL),,,false,ceres,2,2025-07-09T01:35:06Z,2025-07-09T01:35:06Z
+203565,203565 (2002 CR122),asteroid,known,17.35,0.9,2.01,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,13,2025-05-16T21:45:22Z,2025-05-17T09:16:48Z
+205326,205326 (2000 UG41),asteroid,known,16.14,3.08,4.44,measured (JPL),,,false,3i-atlas,13,2025-08-01T08:01:06Z,2025-08-01T16:14:50Z
+205937,205937 (2002 JT39),asteroid,known,16.15,1.57,3.5,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,25,2025-08-11T01:13:56Z,2025-08-11T17:29:14Z
+206004,206004 (2002 PQ89),asteroid,known,15.31,2.3,5.15,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,3,2025-08-08T16:09:37Z,2025-08-09T10:00:21Z
+206223,206223 (2002 VX71),asteroid,known,15.4,2.21,4.94,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,8,2025-09-24T13:50:52Z,2025-09-24T13:57:19Z
+206286,206286 (2003 AY69),asteroid,known,16.4,1.39,3.12,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,10,2026-03-17T20:09:32Z,2026-03-18T01:10:53Z
+206902,206902 (2004 HC45),asteroid,known,16.08,1.62,3.61,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,23,2026-05-20T01:07:00Z,2026-05-21T06:31:10Z
+208697,208697 (2002 HS3),asteroid,known,16.27,3.39,3.46,measured (JPL),,,false,ceres,48,2025-12-15T10:35:39Z,2025-12-20T08:01:20Z
+211112,211112 (2002 FX31),asteroid,known,16.74,1.19,2.67,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,16,2026-06-03T05:38:06Z,2026-06-04T09:25:29Z
+211467,211467 (2003 CN15),asteroid,known,15.46,5.02,5.83,measured (JPL),,,false,ecliptic-virgo,38,2026-05-20T01:07:00Z,2026-05-22T15:08:45Z
+211832,211832 (2004 EN80),asteroid,known,14.89,5.92,6.04,measured (JPL),,,false,ceres,55,2025-06-26T05:28:00Z,2025-06-30T17:08:53Z
+213053,213053 (1998 WT30),asteroid,known,19.96,0.27,0.61,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,13,2026-05-21T04:49:05Z,2026-05-21T21:08:05Z
+213527,213527 (2002 HE12),asteroid,known,17.05,1.03,2.31,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,6,2026-06-24T14:49:25Z,2026-06-25T10:25:31Z
+213982,213982 (2004 AB5),asteroid,known,16.44,2.81,5.43,measured (JPL),,,false,ecliptic-ra90,18,2026-03-16T21:21:58Z,2026-03-18T18:59:04Z
+215713,215713 (2004 BZ71),asteroid,known,16.08,1.62,3.61,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,11,2025-12-08T09:52:01Z,2025-12-08T11:28:49Z
+218272,218272 (2003 EH23),asteroid,known,15.95,1.72,3.84,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,62,2025-12-21T17:20:50Z,2025-12-25T12:36:10Z
+218838,218838 (2006 UW64),asteroid,known,17.33,0.91,2.03,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,16,2025-08-07T05:52:07Z,2025-08-07T14:06:55Z
+220302,220302 (2003 EX11),asteroid,known,15.79,1.85,4.13,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,49,2025-12-19T16:27:56Z,2025-12-22T09:45:51Z
+222377,222377 (2001 BH8),asteroid,known,16.97,1.07,2.4,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,6,2025-09-27T18:26:58Z,2025-09-27T18:31:16Z
+223908,223908 (2004 VQ60),asteroid,known,15.7,1.93,4.31,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,21,2025-09-25T11:01:04Z,2025-09-27T18:31:16Z
+224102,224102 (2005 OV21),asteroid,known,17.14,0.99,2.22,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,8,2026-06-03T05:38:06Z,2026-06-03T05:44:33Z
+225240,225240 (2009 QY8),asteroid,known,15.4,2.21,4.94,estimated from H (albedo 0.05-0.25),,,false,ceres,4,2025-07-19T22:23:59Z,2025-07-19T22:26:08Z
+226958,226958 (2004 VQ55),asteroid,known,15.28,4.3,4.9,measured (JPL),,,false,ecliptic-virgo,92,2025-12-20T10:20:26Z,2025-12-27T03:49:52Z
+227468,227468 (2005 WJ135),asteroid,known,15.63,1.99,4.45,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,13,2025-08-14T02:28:35Z,2025-08-14T10:48:27Z
+228302,228302 (2000 EO57),asteroid,known,16.24,2.46,4.07,measured (JPL),,,false,ecliptic-ra90,50,2026-03-13T11:53:28Z,2026-03-16T21:28:25Z
+228895,228895 (2003 RQ22),asteroid,known,15.51,2.1,4.7,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,39,2025-09-23T06:47:37Z,2025-09-26T11:33:45Z
+229182,229182 (2004 TK187),asteroid,known,16.23,3.53,3.77,measured (JPL),,,false,ecliptic-virgo,77,2025-05-16T21:47:30Z,2025-05-23T05:30:12Z
+229305,229305 (2005 EN95),asteroid,known,16.11,1.59,3.56,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,24,2026-03-07T14:07:49Z,2026-03-11T01:20:35Z
+229809,229809 (2008 SA164),asteroid,known,13.15,6.23,13.9,estimated from H (albedo 0.05-0.25),,,true,ecliptic-virgo,5,2026-06-19T09:22:12Z,2026-06-24T19:42:26Z
+232066,232066 (2001 UN220),asteroid,known,16.73,1.2,2.68,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,8,2025-05-29T03:13:27Z,2025-05-29T14:38:38Z
+232438,232438 (2003 FH71),asteroid,known,16.99,1.06,2.38,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,8,2025-08-11T23:57:13Z,2025-08-12T00:03:40Z
+232920,232920 (2005 AQ16),asteroid,known,15.98,4.04,4.4,measured (JPL),,,false,ecliptic-ra90,25,2026-03-16T21:21:58Z,2026-03-19T16:15:58Z
+235205,235205 (2003 SQ167),asteroid,known,15.73,1.9,4.25,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,2,2025-08-08T16:09:37Z,2025-08-09T10:00:21Z
+235791,235791 (2004 XP12),asteroid,known,15.77,4.08,4.26,measured (JPL),,,false,ecliptic-ra90,46,2025-09-19T18:07:35Z,2025-09-22T19:33:16Z
+236886,236886 (2007 SR3),asteroid,known,15.4,6.17,7.17,measured (JPL),,,false,ecliptic-virgo,38,2026-05-20T01:07:00Z,2026-05-22T15:08:45Z
+237268,237268 (2008 WM102),asteroid,known,16.07,1.62,3.63,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,29,2025-12-14T10:59:36Z,2025-12-14T20:43:59Z
+238424,238424 (2004 GU3),asteroid,known,15.47,2.14,4.79,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,16,2026-05-20T01:07:00Z,2026-05-20T07:44:52Z
+240258,240258 (2002 VW67),asteroid,known,15.47,4.52,6.34,measured (JPL),,,false,3i-atlas,3,2025-08-01T16:10:32Z,2025-08-01T16:14:50Z
+241390,241390 (2008 SF273),asteroid,known,16.0,1.68,3.75,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,54,2025-12-23T18:14:22Z,2025-12-27T13:28:33Z
+243912,243912 (2001 HZ1),asteroid,known,16.21,2.96,3.07,measured (JPL),,,false,ecliptic-virgo,24,2026-05-28T16:04:04Z,2026-06-03T05:44:33Z
+244837,244837 (2003 UT91),asteroid,known,16.64,1.25,2.79,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,23,2025-09-23T08:26:21Z,2025-09-25T11:07:32Z
+245214,245214 (2004 WZ8),asteroid,known,16.21,2.47,3.59,measured (JPL),,,false,ecliptic-virgo,14,2025-12-19T16:27:56Z,2025-12-20T10:26:53Z
+246926,246926 (1999 BO11),asteroid,known,16.12,2.23,2.99,measured (JPL),,,false,ecliptic-virgo,19,2025-12-26T04:52:42Z,2025-12-28T15:29:23Z
+246960,246960 (1999 TS20),asteroid,known,15.09,3.19,4.57,measured (JPL),,,false,3i-atlas,9,2025-08-09T08:25:29Z,2025-08-10T00:46:39Z
+247752,247752 (2003 OE31),asteroid,known,16.99,1.06,2.38,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,11,2025-09-18T22:33:16Z,2025-09-19T18:07:35Z
+249386,249386 (2009 BU75),asteroid,known,15.42,5.74,6.41,measured (JPL),,,false,3i-atlas,11,2025-12-14T17:27:04Z,2025-12-14T19:12:47Z
+249422,249422 (2009 DY129),asteroid,known,16.67,1.48,2.35,measured (JPL),,,false,3i-atlas,21,2025-08-08T12:49:34Z,2025-08-08T17:43:35Z
+252698,252698 (2002 CL54),asteroid,known,13.22,6.03,13.5,estimated from H (albedo 0.05-0.25),,,true,3i-atlas,14,2025-12-14T10:59:36Z,2025-12-14T12:44:00Z
+253306,253306 (2003 CA12),asteroid,known,16.31,1.45,3.25,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,18,2025-12-26T04:52:42Z,2025-12-28T15:29:23Z
+253997,253997 (2004 EV78),asteroid,known,16.81,1.15,2.58,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,18,2025-08-11T01:16:05Z,2025-08-11T06:08:01Z
+254359,254359 (2004 TR67),asteroid,known,15.96,1.71,3.82,estimated from H (albedo 0.05-0.25),,,false,ceres,34,2025-12-16T04:29:07Z,2025-12-18T11:57:12Z
+254493,254493 (2005 EQ42),asteroid,known,17.29,0.93,2.07,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,2,2026-06-17T18:20:03Z,2026-06-17T18:20:03Z
+255883,255883 (2006 SV259),asteroid,known,16.93,1.09,2.44,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,12,2026-05-21T21:05:56Z,2026-05-22T15:08:45Z
+257953,257953 (2000 YN119),asteroid,known,16.81,1.15,2.58,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,12,2025-09-18T22:33:16Z,2025-09-19T18:07:35Z
+259035,259035 (2002 TA236),asteroid,known,16.55,2.42,4.72,measured (JPL),,,false,ecliptic-ra90,18,2026-03-17T20:09:32Z,2026-03-19T16:15:58Z
+264152,264152 (2009 VC78),asteroid,known,15.08,3.31,4.21,measured (JPL),,,false,ceres,43,2025-06-24T09:26:51Z,2025-06-28T22:43:27Z
+271325,271325 (2003 WD31),asteroid,known,15.61,2.01,4.49,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,58,2025-09-20T15:14:06Z,2025-09-23T10:03:03Z
+273582,273582 (2007 CT22),asteroid,known,16.73,1.2,2.68,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,44,2025-12-21T05:56:35Z,2025-12-23T18:20:49Z
+288415,288415 (2004 DO50),asteroid,known,16.22,2.15,3.86,measured (JPL),,,false,ecliptic-ra90,3,2026-03-20T19:52:20Z,2026-03-20T21:29:31Z
+294048,294048 (2007 TZ146),asteroid,known,16.14,1.57,3.52,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,14,2026-06-12T11:11:26Z,2026-06-12T12:53:35Z
+297438,297438 (2000 SJ174),asteroid,known,16.51,1.33,2.97,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,5,2025-08-11T17:24:56Z,2025-08-11T17:29:14Z
+299678,299678 (2006 QG46),asteroid,known,16.51,2.96,4.2,measured (JPL),,,false,ceres,25,2025-12-14T16:36:14Z,2025-12-17T18:00:10Z
+301790,301790 (2010 LO1),asteroid,known,16.35,1.43,3.19,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,47,2025-12-21T05:56:35Z,2025-12-24T00:51:25Z
+302701,302701 (2002 TW159),asteroid,known,16.2,1.53,3.42,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,16,2025-12-14T17:27:04Z,2025-12-14T20:43:59Z
+307521,307521 (2003 AN61),asteroid,known,15.75,1.88,4.21,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,11,2025-08-14T02:28:35Z,2025-08-14T10:48:27Z
+308961,308961 (2006 TJ47),asteroid,known,16.44,1.37,3.06,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,8,2025-08-07T23:52:07Z,2025-08-08T14:35:03Z
+314947,314947 (2006 WV111),asteroid,known,16.45,1.36,3.05,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,23,2025-12-14T06:02:09Z,2025-12-14T12:44:00Z
+321736,321736 (2010 LM134),asteroid,known,16.48,1.34,3.01,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,2,2025-08-10T00:46:39Z,2025-08-10T00:46:39Z
+323578,323578 (2004 TA187),asteroid,known,16.48,1.34,3.01,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,44,2026-05-20T01:07:00Z,2026-05-28T16:08:21Z
+323821,323821 (2005 SU30),asteroid,known,16.57,1.29,2.88,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,27,2025-05-16T21:45:22Z,2025-05-18T01:34:39Z
+331116,331116 (2010 TE116),asteroid,known,16.76,1.18,2.64,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,25,2026-05-20T01:07:00Z,2026-05-21T06:31:10Z
+331819,331819 (2003 SG306),asteroid,known,15.26,2.36,5.27,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,35,2025-09-18T22:33:16Z,2025-09-21T14:14:24Z
+336054,336054 (2008 CX211),asteroid,known,17.28,0.93,2.08,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,19,2025-08-08T12:49:34Z,2025-08-08T17:43:35Z
+338290,338290 (2002 UJ23),asteroid,known,17.38,0.89,1.99,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,3,2025-12-08T09:52:01Z,2025-12-08T09:58:49Z
+338900,338900 (2004 CS93),asteroid,known,15.63,2.17,3.85,measured (JPL),,,false,3i-atlas,2,2025-12-08T11:28:49Z,2025-12-08T11:28:49Z
+342077,342077 (2008 SH36),asteroid,known,16.69,1.22,2.73,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,14,2026-05-28T16:04:04Z,2026-05-31T14:11:15Z
+349435,349435 (2008 AJ135),asteroid,known,15.9,1.76,3.93,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,1,2025-06-07T12:13:59Z,2025-06-07T12:13:59Z
+350569,350569 (2000 YY2),asteroid,known,16.43,1.38,3.08,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,6,2025-08-13T10:11:24Z,2025-08-13T16:47:27Z
+354052,354052 (2001 SC314),asteroid,known,17.72,0.76,1.7,estimated from H (albedo 0.05-0.25),,,false,ceres,2,2025-12-13T08:02:27Z,2025-12-13T08:02:27Z
+358445,358445 (2007 DC117),asteroid,known,15.44,5.07,7.37,measured (JPL),,,false,3i-atlas,8,2025-08-11T01:13:56Z,2025-08-11T06:05:52Z
+360215,360215 (1999 RJ2),asteroid,known,16.2,1.53,3.42,estimated from H (albedo 0.05-0.25),,,false,ceres,14,2025-12-29T21:40:13Z,2025-12-30T04:14:44Z
+370700,370700 (2004 KV11),asteroid,known,16.41,1.39,3.1,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,3,2025-08-14T02:28:35Z,2025-08-14T02:32:53Z
+375891,375891 (2009 VZ75),asteroid,known,17.23,0.95,2.13,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,24,2025-08-11T01:13:56Z,2025-08-11T17:29:14Z
+420254,420254 (2011 JJ12),asteroid,known,16.51,1.33,2.97,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,18,2025-08-14T02:28:35Z,2025-08-14T10:48:27Z
+430711,430711 (2004 EY3),asteroid,known,17.82,0.73,1.62,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,12,2026-05-21T21:05:56Z,2026-05-22T15:08:45Z
+453175,453175 (2008 EX22),asteroid,known,16.61,1.27,2.83,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,8,2026-03-13T11:53:28Z,2026-03-13T11:59:55Z
+460052,460052 (2014 OC199),asteroid,known,16.3,1.46,3.27,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,65,2025-05-16T21:45:22Z,2025-05-22T05:01:44Z
+461998,461998 (2006 WW139),asteroid,known,16.78,1.17,2.62,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,12,2025-08-06T23:17:38Z,2025-08-07T02:40:03Z
+480744,480744 (2016 NY16),asteroid,known,16.65,1.24,2.78,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,7,2025-08-07T23:52:07Z,2025-08-08T14:32:54Z
+502695,502695 (2015 DU10),asteroid,known,16.86,1.13,2.52,estimated from H (albedo 0.05-0.25),,,false,3i-atlas,20,2025-08-06T23:17:38Z,2025-08-07T05:58:36Z
+641705,641705 (2004 MV9),asteroid,known,17.11,1.01,2.25,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,27,2025-05-16T21:45:22Z,2025-05-18T01:34:39Z
+732253,732253 (2014 BK63),asteroid,known,17.02,1.05,2.34,estimated from H (albedo 0.05-0.25),,,false,ecliptic-ra90,7,2025-09-25T11:01:04Z,2025-09-25T11:07:32Z
+833046,833046 (2010 GH96),asteroid,known,16.08,2.51,3.83,measured (JPL),,,false,ecliptic-ra90,7,2025-09-18T22:33:16Z,2025-09-18T22:39:44Z
+2010 JB20,(2010 JB20),asteroid,known,16.93,1.09,2.44,estimated from H (albedo 0.05-0.25),,,false,ecliptic-virgo,29,2026-05-20T01:07:00Z,2026-05-21T21:08:05Z
+2025 PB3,(2025 PB3),asteroid,known,18.7,0.48,1.08,estimated from H (albedo 0.05-0.25),,,false,ceres,7,2025-12-14T16:36:14Z,2025-12-14T16:42:42Z
+3I,3I/ATLAS (C/2025 N1),interstellar,known,,,,unknown (comet: nucleus hidden by its coma),,,true,3i-atlas,258,2025-08-01T08:01:06Z,2025-12-15T00:00:06Z
