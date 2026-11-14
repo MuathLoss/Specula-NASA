@@ -1,0 +1,471 @@
+{
+  "schema_version": "1.0",
+  "mode": "all_listed_frames_source_export",
+  "contains_motion_tracks": false,
+  "confirmation_performed": false,
+  "inventory": [
+    {
+      "patch": "ceres",
+      "frames": 277,
+      "frame_table_sha256": "a3ef43cf3cfc6f7de4f52b5251a70aa6d224516be05a7bd5e3636911f9ee5efd"
+    },
+    {
+      "patch": "3i-atlas",
+      "frames": 259,
+      "frame_table_sha256": "5f5e87957a9397c037f11181e00ce9c8d9a622c9dd207442048052a60b251228"
+    },
+    {
+      "patch": "ecliptic-ra90",
+      "frames": 218,
+      "frame_table_sha256": "2020bab40a186e85883d78aaa5256e8d591c10b3bbfd7f336a432ccd1de30cdb"
+    },
+    {
+      "patch": "ecliptic-virgo",
+      "frames": 341,
+      "frame_table_sha256": "3ec72ddaf50fbc567a3d677beff50ed895d16ad5b271f2672d981f021ec27fc0"
+    },
+    {
+      "patch": "nep-cats-eye",
+      "frames": 306,
+      "frame_table_sha256": "4daa07d6235ea41b5905a72b6f77c53ad31178ce468489d8e51f759ecb4a6d13"
+    }
+  ],
+  "patches": [
+    {
+      "patch": "ceres",
+      "status": "completed",
+      "frames_completed": 277,
+      "frames_failed": 0,
+      "measured_sources": 49827,
+      "audit_status": "completed",
+      "chunks": [
+        {
+          "file": "measured_sources_0001.csv",
+          "rows": 35025,
+          "bytes": 10485574,
+          "sha256": "1fad8909ae636aa7533021dcf196786f25a40ae2317e298995367c1a32bb7323"
+        },
+        {
+          "file": "measured_sources_0002.csv",
+          "rows": 14802,
+          "bytes": 4413092,
+          "sha256": "d2ee013a0da8173aae206435495e265730369e759f3a6caa0be43af4f6200f76"
+        }
+      ]
+    },
+    {
+      "patch": "3i-atlas",
+      "status": "completed",
+      "frames_completed": 259,
+      "frames_failed": 0,
+      "measured_sources": 218055,
+      "audit_status": "not_requested",
+      "chunks": [
+        {
+          "file": "measured_sources_0001.csv",
+          "rows": 33304,
+          "bytes": 10485512,
+          "sha256": "bf41bc3d1ca69086c4e33b6f3adcd89f008c5cf906793c88d441ed9df9a39982"
+        },
+        {
+          "file": "measured_sources_0002.csv",
+          "rows": 33233,
+          "bytes": 10485540,
+          "sha256": "e2d80197a69c6942dd1df0df30161cc817aa9f564c24a53528427930c7aba24b"
+        },
+        {
+          "file": "measured_sources_0003.csv",
+          "rows": 33585,
+          "bytes": 10485677,
+          "sha256": "bfbd7acf85b6b5c7d63d6fafb7d83f310cccba8218cfabcfdbf641929c9eeebe"
+        },
+        {
+          "file": "measured_sources_0004.csv",
+          "rows": 33583,
+          "bytes": 10485639,
+          "sha256": "0d0004f50d433c7a11ca0a56d9c9fdd3dbd7906776f5255db4e3cdf21188e0fa"
+        },
+        {
+          "file": "measured_sources_0005.csv",
+          "rows": 33394,
+          "bytes": 10485533,
+          "sha256": "25a8117db6daa140162bce44b1d4d7fd107a1ab2ca9d96d9251f1c120f66b0d3"
+        },
+        {
+          "file": "measured_sources_0006.csv",
+          "rows": 33718,
+          "bytes": 10485703,
+          "sha256": "bb91c851778be70b28d6cf458d15faf7e808dcd36db614382438660ca0959bed"
+        },
+        {
+          "file": "measured_sources_0007.csv",
+          "rows": 17238,
+          "bytes": 5257649,
+          "sha256": "8cac93ee1dee2012e54b3755787ef62401a010e2e2499b72d97809af338e8ecd"
+        }
+      ]
+    },
+    {
+      "patch": "ecliptic-ra90",
+      "status": "completed",
+      "frames_completed": 218,
+      "frames_failed": 0,
+      "measured_sources": 1151444,
+      "audit_status": "not_requested",
+      "chunks": [
+        {
+          "file": "measured_sources_0001.csv",
+          "rows": 32231,
+          "bytes": 10485554,
+          "sha256": "f607715e7777edf7bda374d3b6fccf4bde1406634b7766abd26583d143c0a971"
+        },
+        {
+          "file": "measured_sources_0002.csv",
+          "rows": 32189,
+          "bytes": 10485512,
+          "sha256": "24d880c2e7babfc4f7d3d69acd010c4ecb124c55712eab6b534c1db9404d7c99"
+        },
+        {
+          "file": "measured_sources_0003.csv",
+          "rows": 32116,
+          "bytes": 10485532,
+          "sha256": "78c1ef0c45d1602a2fd3917000b90164fcbbbe49cb6dd01b62d633ace635246f"
+        },
+        {
+          "file": "measured_sources_0004.csv",
+          "rows": 32139,
+          "bytes": 10485610,
+          "sha256": "8159e173e6e35a5d2c016f39fdda66f98ded34b39c31957c740b7983dc7496e3"
+        },
+        {
+          "file": "measured_sources_0005.csv",
+          "rows": 32227,
+          "bytes": 10485661,
+          "sha256": "cde7d054013d5e6fa2a528c1a80bd9d0c46b1fe4164bb8d866fb10d840c15046"
+        },
+        {
+          "file": "measured_sources_0006.csv",
+          "rows": 32093,
+          "bytes": 10485659,
+          "sha256": "a6516092d5e2eedbd4bad0b545464380562018c314e9fbee9f3e1d3abf69d518"
+        },
+        {
+          "file": "measured_sources_0007.csv",
+          "rows": 32106,
+          "bytes": 10485605,
+          "sha256": "4790e1cc9501baf53882d7c2f3768d573981376e30ab0d1cb37aa6ed4d1b920f"
+        },
+        {
+          "file": "measured_sources_0008.csv",
+          "rows": 32317,
+          "bytes": 10485715,
+          "sha256": "b38d9a31fca3fdce24145a70f6f7ce6b7d2dcac1ec17bf435f8e70c7ebfbfd3b"
+        },
+        {
+          "file": "measured_sources_0009.csv",
+          "rows": 32026,
+          "bytes": 10485726,
+          "sha256": "72fc33b29025c0b44cf6420ab5959f14b6c28da61fba4c29291d106ca2a8262a"
+        },
+        {
+          "file": "measured_sources_0010.csv",
+          "rows": 32047,
+          "bytes": 10485649,
+          "sha256": "36f1db88db55343b355ba866de54f8ee15fe45dbb78b6a81d11d763ddf423d1e"
+        },
+        {
+          "file": "measured_sources_0011.csv",
+          "rows": 32182,
+          "bytes": 10485483,
+          "sha256": "d2de4f9f9fbb3e83fae388aa72cb01c8c183c157327c1c200dfc733285789a4f"
+        },
+        {
+          "file": "measured_sources_0012.csv",
+          "rows": 32668,
+          "bytes": 10485719,
+          "sha256": "f330e5293356364e31a6143201f2ea064a8663a5e32dc028d749352cdc1da06c"
+        },
+        {
+          "file": "measured_sources_0013.csv",
+          "rows": 32252,
+          "bytes": 10485495,
+          "sha256": "19c1fb8e02c88eb62ad09abd3fbcbc765094c23dba4ec7f32dca2d230670d19b"
+        },
+        {
+          "file": "measured_sources_0014.csv",
+          "rows": 31907,
+          "bytes": 10485405,
+          "sha256": "2be97b7e263c447a197dd6a955bc571fa19995e2b32d7c29960a322c7959b214"
+        },
+        {
+          "file": "measured_sources_0015.csv",
+          "rows": 31944,
+          "bytes": 10485691,
+          "sha256": "d50ed302582d8f29c68e4db234b4d4cffae5c641138dc8b745ef48db05adc3f1"
+        },
+        {
+          "file": "measured_sources_0016.csv",
+          "rows": 31910,
+          "bytes": 10485730,
+          "sha256": "6f6982dcdf8888b65b8c14ee30495c19e5b428f18a296ef596d25bd66d8a51b1"
+        },
+        {
+          "file": "measured_sources_0017.csv",
+          "rows": 31877,
+          "bytes": 10485551,
+          "sha256": "19526226f6345c61345ec2e719c8a0233ae707b01ace5fdf8d6a9e7fb884ce37"
+        },
+        {
+          "file": "measured_sources_0018.csv",
+          "rows": 31878,
+          "bytes": 10485511,
+          "sha256": "612b63ac7e6c885db85b574299f136c36eaad503d741da01894b927fd743f5a7"
+        },
+        {
+          "file": "measured_sources_0019.csv",
+          "rows": 31866,
+          "bytes": 10485439,
+          "sha256": "78c19e8b88060844e7b64966162960438fbb1cd52214559ffb688bba7f16d123"
+        },
+        {
+          "file": "measured_sources_0020.csv",
+          "rows": 31939,
+          "bytes": 10485570,
+          "sha256": "a8d84997e33a082f1b6338ac360f72c9b5bea83f3812dfa2113972a9ee8e014a"
+        },
+        {
+          "file": "measured_sources_0021.csv",
+          "rows": 31991,
+          "bytes": 10485509,
+          "sha256": "363332ac16213941d06f9abdfed4c2f367ac59768c35ba522710583f31042985"
+        },
+        {
+          "file": "measured_sources_0022.csv",
+          "rows": 32089,
+          "bytes": 10485682,
+          "sha256": "8d43d0503d40560e8a04f9918e87ee3ad8e75d6c94fd011db91769319c5490f4"
+        },
+        {
+          "file": "measured_sources_0023.csv",
+          "rows": 31926,
+          "bytes": 10485729,
+          "sha256": "ac819094d169212152da8957083439b98849f4ce301cd554c5c73881fe4d1dfe"
+        },
+        {
+          "file": "measured_sources_0024.csv",
+          "rows": 32012,
+          "bytes": 10485593,
+          "sha256": "765f40fd0b28c8e7608519bba98f7adf97fdfe194f39e717f0d678eb613f22d0"
+        },
+        {
+          "file": "measured_sources_0025.csv",
+          "rows": 31898,
+          "bytes": 10485489,
+          "sha256": "e72a049631abdea51fc34db7586dcd7e32099429362c90afb65968b0c31c8451"
+        },
+        {
+          "file": "measured_sources_0026.csv",
+          "rows": 32062,
+          "bytes": 10485476,
+          "sha256": "aa8f0e6ee6d56d3fdd00ac258bb6a59106675c63dacc41140beffd084b184f57"
+        },
+        {
+          "file": "measured_sources_0027.csv",
+          "rows": 32082,
+          "bytes": 10485434,
+          "sha256": "389f8bd126faf8e14c9694be46d5ff14cdf4119eadd15e91919d05faf758664f"
+        },
+        {
+          "file": "measured_sources_0028.csv",
+          "rows": 31896,
+          "bytes": 10485567,
+          "sha256": "f683fc7a0ccc53df8287fcf4416722d548f46798caccba8bdc5b7a66e35a9f04"
+        },
+        {
+          "file": "measured_sources_0029.csv",
+          "rows": 31918,
+          "bytes": 10485715,
+          "sha256": "62c84dc091beff05e4b23dbf5e54f38a642c18a3b0fd73df823640eae729916e"
+        },
+        {
+          "file": "measured_sources_0030.csv",
+          "rows": 32036,
+          "bytes": 10485605,
+          "sha256": "1ab217cd89712fa585cdd04117b677c9717dad79b51036c88224de729bfa9813"
+        },
+        {
+          "file": "measured_sources_0031.csv",
+          "rows": 32041,
+          "bytes": 10485528,
+          "sha256": "781de08b30af76a7672f1c2d9b2488cdc139ab246bec3756da22af8bebbce0db"
+        },
+        {
+          "file": "measured_sources_0032.csv",
+          "rows": 32022,
+          "bytes": 10485729,
+          "sha256": "29f2b94d34bd1fa28593604380e78bb3a7bf2dbf385a313379fe33b85751eac6"
+        },
+        {
+          "file": "measured_sources_0033.csv",
+          "rows": 32137,
+          "bytes": 10485726,
+          "sha256": "dd5a59d362c8db349992fd477abf8d207f6f0dc2e4849b08aceea91e14c5c403"
+        },
+        {
+          "file": "measured_sources_0034.csv",
+          "rows": 32296,
+          "bytes": 10485714,
+          "sha256": "16b8bc6bfe46b2a883b4784360c894c504c377b0ff368190e5d9ed8418e9ae3e"
+        },
+        {
+          "file": "measured_sources_0035.csv",
+          "rows": 32326,
+          "bytes": 10485722,
+          "sha256": "590ad3bd76d7139e1c716afa4aacfbcb299a9453d9f5e50a8c329fb0988ef535"
+        },
+        {
+          "file": "measured_sources_0036.csv",
+          "rows": 28798,
+          "bytes": 9294605,
+          "sha256": "b96d517dfb476741fef0aa239e18f0e39a102f1d81ab0604e7367e99b7588600"
+        }
+      ]
+    },
+    {
+      "patch": "ecliptic-virgo",
+      "status": "completed",
+      "frames_completed": 341,
+      "frames_failed": 0,
+      "measured_sources": 355406,
+      "audit_status": "not_requested",
+      "chunks": [
+        {
+          "file": "measured_sources_0001.csv",
+          "rows": 33012,
+          "bytes": 10485462,
+          "sha256": "b42d2f2f389eb4f7fd6c75a1c7951de8b3552c7b1c34326fc13fae6567112fbc"
+        },
+        {
+          "file": "measured_sources_0002.csv",
+          "rows": 32780,
+          "bytes": 10485477,
+          "sha256": "de8ab70eccee2c4306f4b0a3aff283b83dc5c13cf11408de055012c22b386388"
+        },
+        {
+          "file": "measured_sources_0003.csv",
+          "rows": 32811,
+          "bytes": 10485720,
+          "sha256": "749868ac9922a8ce87bff466c170726eab31032d47c3209c673a7e07e0d0dff8"
+        },
+        {
+          "file": "measured_sources_0004.csv",
+          "rows": 32561,
+          "bytes": 10485609,
+          "sha256": "18ce7a439572d339c618377522b9437d42a3b2a6fee96bcc815d374b6ea353fe"
+        },
+        {
+          "file": "measured_sources_0005.csv",
+          "rows": 32868,
+          "bytes": 10485482,
+          "sha256": "a5f81baf0df01d41e5e4e15cf4e5de63befc3478840801be60ca544256b2368d"
+        },
+        {
+          "file": "measured_sources_0006.csv",
+          "rows": 32414,
+          "bytes": 10485682,
+          "sha256": "e1fa3a5b1ae2ac54d158ecc5b5632061197c614cdf272483cf543cab6b8d22e3"
+        },
+        {
+          "file": "measured_sources_0007.csv",
+          "rows": 33034,
+          "bytes": 10485495,
+          "sha256": "3691629646cfb90d7624a74de5957ced6a22a752e4c3b685536748edaaa9c47b"
+        },
+        {
+          "file": "measured_sources_0008.csv",
+          "rows": 32960,
+          "bytes": 10485460,
+          "sha256": "1f858bcdbc449e30aa76a2bdebb5559a594fce6084192b0e919bdb2885722bac"
+        },
+        {
+          "file": "measured_sources_0009.csv",
+          "rows": 33031,
+          "bytes": 10485684,
+          "sha256": "7641af4708ef48e04c5833fe7d7c8a44addb114bc83a51bde66ace08ab1917fe"
+        },
+        {
+          "file": "measured_sources_0010.csv",
+          "rows": 32533,
+          "bytes": 10485497,
+          "sha256": "a2ca5b451a149f2dda16cc3c7ddbe0c31092e79e0e179555de5c8ccaae8e1887"
+        },
+        {
+          "file": "measured_sources_0011.csv",
+          "rows": 27402,
+          "bytes": 8849495,
+          "sha256": "c47a691f2975b0c8d74d7bd6ab3316370e1c212dcadbe99dd9cad9f3425fa000"
+        }
+      ]
+    },
+    {
+      "patch": "nep-cats-eye",
+      "status": "completed",
+      "frames_completed": 306,
+      "frames_failed": 0,
+      "measured_sources": 136811,
+      "audit_status": "not_requested",
+      "chunks": [
+        {
+          "file": "measured_sources_0001.csv",
+          "rows": 33433,
+          "bytes": 10485531,
+          "sha256": "c343f8bb88318eaabddb1f6fb7ce06b1809de0faa77515869c2358f72a5c9fee"
+        },
+        {
+          "file": "measured_sources_0002.csv",
+          "rows": 33337,
+          "bytes": 10485484,
+          "sha256": "6073a9fda66cf930f38f6ae3d5f0f0dc959e8f02735ddaabb72619be43e3cc91"
+        },
+        {
+          "file": "measured_sources_0003.csv",
+          "rows": 33307,
+          "bytes": 10485698,
+          "sha256": "694f2728cfddd2a3795796d6cdd78d838e26e6b7809049b285f2bd186dcac321"
+        },
+        {
+          "file": "measured_sources_0004.csv",
+          "rows": 33294,
+          "bytes": 10485476,
+          "sha256": "9ef06a87496ed3ee9f2bd5565d7d9ff5808f4fd87199f06932db68f1152e7a81"
+        },
+        {
+          "file": "measured_sources_0005.csv",
+          "rows": 3440,
+          "bytes": 1081482,
+          "sha256": "bc837b6369882ef9fbcc1c50671ec48e5f12a9bdaf28b72c8640a630d26ced49"
+        }
+      ]
+    }
+  ],
+  "max_sources_per_frame": 100000,
+  "runtime": {
+    "python": "3.12.14",
+    "dependencies": {
+      "numpy": "2.3.5",
+      "scipy": "1.17.0",
+      "astropy": "8.0.2",
+      "matplotlib": "3.10.8"
+    }
+  },
+  "code_sha256": {
+    "export_all.py": "95923dd46deaacced473842242a1ed0f7a3f4cae15b8b3d77557920ce312d40a",
+    "audit_recovery.py": "fee829e8775749d836f785fbe2d01b78d1d99ae5273f07d3020ee1fdc03f8b76",
+    "sources.py": "ed498fb2ab0cf3ccb45d2618766b07861797c92f166d97fa66198f9247564b33",
+    "data_io.py": "506517d0b2b6180b7350e50d7e3958bdab0e2d31e9fecaeed32cfd12528cef81"
+  },
+  "complete": true,
+  "measured_sources": 1911543,
+  "frames_completed": 1401,
+  "catalog_chunk_bytes": 616089293
+}

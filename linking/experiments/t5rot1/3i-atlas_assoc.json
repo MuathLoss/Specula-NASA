@@ -1,0 +1,167 @@
+{
+ "patch": "3i-atlas",
+ "settings": {
+  "REQUIRE_TESTED": false,
+  "SNR_MIN": 0.0,
+  "STATIC_MAX_NEED": 4,
+  "STATIC_FRAC": 0.1,
+  "R_STATIC": 9.0,
+  "T_STATIC_FIXED_D": 2.0,
+  "T_STATIC_MOVING_D": 0.08,
+  "R_BURST": 15.0,
+  "MIN_FRAMES": 2,
+  "W_H": 50.0,
+  "MIN_GAP_H": 0.5,
+  "RATE_MIN": 1.0,
+  "RATE_MAX": 300.0,
+  "TOL0": 12.0,
+  "TOL_ACC": 0.001,
+  "MIN_BURSTS": 4,
+  "RMS_MAX": 2.0,
+  "MIN_MOVE_PX": 2.0,
+  "GHOST_SNR_MIN": 150.0,
+  "GHOST_RATIO": 5.0,
+  "GHOST_SEP_DEG": 0.5,
+  "SCRAMBLE": true,
+  "SEED": 1
+ },
+ "spots": 218055,
+ "static": 150338,
+ "transient": 67717,
+ "transient_no_far_coverage": 46017,
+ "burst_detections": 14281,
+ "rejected_as_ghost_of_bright_track": 354,
+ "seed_tracks": 215784,
+ "tracks": 16,
+ "track_summary": [
+  {
+   "track_id": "3i-atlas-trk-0001",
+   "n_bursts": 5,
+   "rms_arcsec": 0.99,
+   "rate_arcsec_h": 122.5,
+   "span_h": 70.2,
+   "snr": 15.5
+  },
+  {
+   "track_id": "3i-atlas-trk-0002",
+   "n_bursts": 5,
+   "rms_arcsec": 1.08,
+   "rate_arcsec_h": 103.3,
+   "span_h": 102.8,
+   "snr": 9.1
+  },
+  {
+   "track_id": "3i-atlas-trk-0003",
+   "n_bursts": 5,
+   "rms_arcsec": 1.19,
+   "rate_arcsec_h": 125.6,
+   "span_h": 55.4,
+   "snr": 13.4
+  },
+  {
+   "track_id": "3i-atlas-trk-0004",
+   "n_bursts": 5,
+   "rms_arcsec": 1.22,
+   "rate_arcsec_h": 94.6,
+   "span_h": 52.1,
+   "snr": 18.5
+  },
+  {
+   "track_id": "3i-atlas-trk-0005",
+   "n_bursts": 5,
+   "rms_arcsec": 1.78,
+   "rate_arcsec_h": 128.6,
+   "span_h": 55.4,
+   "snr": 11.1
+  },
+  {
+   "track_id": "3i-atlas-trk-0006",
+   "n_bursts": 4,
+   "rms_arcsec": 0.36,
+   "rate_arcsec_h": 96.5,
+   "span_h": 99.4,
+   "snr": 51.1
+  },
+  {
+   "track_id": "3i-atlas-trk-0007",
+   "n_bursts": 4,
+   "rms_arcsec": 0.72,
+   "rate_arcsec_h": 84.8,
+   "span_h": 102.8,
+   "snr": 7.3
+  },
+  {
+   "track_id": "3i-atlas-trk-0008",
+   "n_bursts": 4,
+   "rms_arcsec": 1.41,
+   "rate_arcsec_h": 102.9,
+   "span_h": 52.1,
+   "snr": 10.6
+  },
+  {
+   "track_id": "3i-atlas-trk-0009",
+   "n_bursts": 4,
+   "rms_arcsec": 1.52,
+   "rate_arcsec_h": 127.6,
+   "span_h": 55.4,
+   "snr": 9.5
+  },
+  {
+   "track_id": "3i-atlas-trk-0010",
+   "n_bursts": 4,
+   "rms_arcsec": 1.67,
+   "rate_arcsec_h": 97.0,
+   "span_h": 55.4,
+   "snr": 6.1
+  },
+  {
+   "track_id": "3i-atlas-trk-0011",
+   "n_bursts": 4,
+   "rms_arcsec": 1.73,
+   "rate_arcsec_h": 101.6,
+   "span_h": 73.3,
+   "snr": 54.7
+  },
+  {
+   "track_id": "3i-atlas-trk-0012",
+   "n_bursts": 4,
+   "rms_arcsec": 1.74,
+   "rate_arcsec_h": 96.2,
+   "span_h": 63.5,
+   "snr": 9.5
+  },
+  {
+   "track_id": "3i-atlas-trk-0013",
+   "n_bursts": 4,
+   "rms_arcsec": 1.78,
+   "rate_arcsec_h": 80.1,
+   "span_h": 63.6,
+   "snr": 6.6
+  },
+  {
+   "track_id": "3i-atlas-trk-0014",
+   "n_bursts": 4,
+   "rms_arcsec": 1.83,
+   "rate_arcsec_h": 99.0,
+   "span_h": 55.4,
+   "snr": 14.6
+  },
+  {
+   "track_id": "3i-atlas-trk-0015",
+   "n_bursts": 4,
+   "rms_arcsec": 1.83,
+   "rate_arcsec_h": 104.6,
+   "span_h": 52.1,
+   "snr": 9.6
+  },
+  {
+   "track_id": "3i-atlas-trk-0016",
+   "n_bursts": 4,
+   "rms_arcsec": 1.91,
+   "rate_arcsec_h": 104.6,
+   "span_h": 55.4,
+   "snr": 8.8
+  }
+ ],
+ "seconds": 108.9
+}

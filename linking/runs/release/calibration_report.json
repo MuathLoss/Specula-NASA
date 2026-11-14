@@ -1,0 +1,68 @@
+{
+ "ecliptic-virgo": {
+  "noise_trials": 7,
+  "noise_tracks_total": 0,
+  "cut_min_bursts": 4,
+  "cut_max_rms_arcsec": 4.0,
+  "noise_tracks_passing_cut": 0,
+  "expected_false_tracks_per_run": 0.0,
+  "real_tracks_before_cut": 3,
+  "real_tracks_kept": 3,
+  "kept": [
+   "ecliptic-virgo-trk-0001",
+   "ecliptic-virgo-trk-0002",
+   "ecliptic-virgo-trk-0003"
+  ]
+ },
+ "ecliptic-ra90": {
+  "noise_trials": 7,
+  "noise_tracks_total": 1,
+  "cut_min_bursts": 4,
+  "cut_max_rms_arcsec": 4.0,
+  "noise_tracks_passing_cut": 1,
+  "expected_false_tracks_per_run": 0.14,
+  "real_tracks_before_cut": 0,
+  "real_tracks_kept": 0,
+  "kept": []
+ },
+ "nep-cats-eye": {
+  "noise_trials": 2,
+  "noise_tracks_total": 0,
+  "cut_min_bursts": 4,
+  "cut_max_rms_arcsec": 4.0,
+  "noise_tracks_passing_cut": 0,
+  "expected_false_tracks_per_run": 0.0,
+  "real_tracks_before_cut": 0,
+  "real_tracks_kept": 0,
+  "kept": []
+ },
+ "ceres": {
+  "noise_trials": 5,
+  "noise_tracks_total": 0,
+  "cut_min_bursts": 4,
+  "cut_max_rms_arcsec": 4.0,
+  "noise_tracks_passing_cut": 0,
+  "expected_false_tracks_per_run": 0.0,
+  "real_tracks_before_cut": 4,
+  "real_tracks_kept": 4,
+  "kept": [
+   "ceres-trk-0001",
+   "ceres-trk-0002",
+   "ceres-trk-0003",
+   "ceres-trk-0004"
+  ]
+ },
+ "3i-atlas": {
+  "noise_trials": 3,
+  "noise_tracks_total": 143,
+  "cut_min_bursts": 6,
+  "cut_max_rms_arcsec": 3.0,
+  "noise_tracks_passing_cut": 0,
+  "expected_false_tracks_per_run": 0.0,
+  "real_tracks_before_cut": 41,
+  "real_tracks_kept": 1,
+  "kept": [
+   "3i-atlas-trk-0001"
+  ]
+ }
+}

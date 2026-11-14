@@ -1,0 +1,13 @@
+{
+  "frame_workers": 8,
+  "peak_cap": 100000,
+  "reused_completed_frames": 375,
+  "reuse_description": "Completed real-frame measurements from the same algorithm before the mathematically equivalent spatial-index optimization; original frame hashes checked before reuse and final export.",
+  "legacy_source_sha256": "43897d59f0bdddf50e8104510cf6fb6d159b63da1ea65316d044574786f22309",
+  "real_frame_equivalence_check": {
+    "file": "0001_2025W31_2A_0156_1_D3.fits",
+    "measurements": 2955,
+    "exact_equality": true
+  },
+  "tests_passed": 36
+}

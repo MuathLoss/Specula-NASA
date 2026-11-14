@@ -1,0 +1,46 @@
+{
+ "patch": "ecliptic-ra90",
+ "settings": {
+  "SNR_MIN": 0.0,
+  "STATIC_MAX_NEED": 4,
+  "STATIC_FRAC": 0.1,
+  "R_STATIC": 9.0,
+  "T_STATIC_FIXED_D": 2.0,
+  "T_STATIC_MOVING_D": 0.25,
+  "R_BURST": 15.0,
+  "MIN_FRAMES": 2,
+  "W_H": 50.0,
+  "MIN_GAP_H": 0.5,
+  "RATE_MIN": 1.0,
+  "RATE_MAX": 300.0,
+  "TOL0": 12.0,
+  "TOL_ACC": 0.004,
+  "MIN_BURSTS": 4,
+  "RMS_MAX": 4.0,
+  "MIN_MOVE_PX": 2.0,
+  "GHOST_SNR_MIN": 150.0,
+  "GHOST_RATIO": 5.0,
+  "GHOST_SEP_DEG": 0.5,
+  "SCRAMBLE": true,
+  "SEED": 3
+ },
+ "spots": 1151444,
+ "static": 1135670,
+ "transient": 15774,
+ "transient_no_far_coverage": 0,
+ "burst_detections": 590,
+ "rejected_as_ghost_of_bright_track": 0,
+ "seed_tracks": 6,
+ "tracks": 1,
+ "track_summary": [
+  {
+   "track_id": "ecliptic-ra90-trk-0001",
+   "n_bursts": 4,
+   "rms_arcsec": 2.85,
+   "rate_arcsec_h": 38.2,
+   "span_h": 63.6,
+   "snr": 9.0
+  }
+ ],
+ "seconds": 22.1
+}

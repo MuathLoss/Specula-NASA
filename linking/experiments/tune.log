@@ -1,0 +1,9 @@
+3i rot1 REQUIRE_TESTED=1: 'tracks': 27
+3i rot2 REQUIRE_TESTED=1: 'tracks': 37
+3i rot3 REQUIRE_TESTED=1: 'tracks': 39
+ceres/virgo/ra90 rot1: 'tracks': 0 'tracks': 0 'tracks': 0
+ceres/virgo/ra90 rot2: 'tracks': 0 'tracks': 0 'tracks': 0
+ceres/virgo/ra90 rot3: 'tracks': 0 'tracks': 0 'tracks': 0
+real practice: ceres 'tracks': 4 ecliptic-virgo 'tracks': 3 ecliptic-ra90 'tracks': 0 nep-cats-eye 'tracks': 0
+3i rot1 REQUIRE_TESTED=0: 'tracks': 16
+done

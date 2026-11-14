@@ -35,20 +35,22 @@ No answer key is read here: no labels, no markers, no orbits, no target position
 | `calibration_report.json` | Per patch: noise trials, chance tracks, the chosen bar, tracks kept |
 | `3i_blind_score.json`, `3i_release_score.json` | 3I/ATLAS before and after the evidence bar |
 | `FROZEN_assoc_sha256*.txt` | Fingerprints of the locked code |
+| `runs/` | Every run behind the results: `final2` (the real run), `rot1`–`rot5` and `v2rot1`–`v2rot5` (noise trials on scrambled data), `release` (the final tracks, `detections.csv`, and the calibration report), `release_score` (3I/ATLAS scoring rows). Each run has per-patch `*_tracks.csv`, `*_bursts.csv` and `*_assoc.json` |
+| `experiments/` | Tuning runs, logs and helper scripts from building this step, including the filters we tried and dropped (`v3*`, `i*`) |
 
 ## Run
 
 ```bash
 # real run (EXP = the detector's exports/all_sources folder, DATA = ../pipeline/data)
-python assoc_frozen_v2.py --exp EXP --data DATA --out final2 \
+python assoc_frozen_v2.py --exp EXP --data DATA --out runs/final2 \
   --patches ecliptic-virgo ecliptic-ra90 nep-cats-eye ceres 3i-atlas
 
 # noise trials: same command, scrambled, one folder per seed (calibrate.py lists the folder names)
-python assoc_frozen_v2.py --exp EXP --data DATA --out v2rot1 --patches 3i-atlas --set SCRAMBLE=true SEED=1
+python assoc_frozen_v2.py --exp EXP --data DATA --out runs/v2rot1 --patches 3i-atlas --set SCRAMBLE=true SEED=1
 
 # evidence bar per patch, then merge for the website
 python calibrate.py
-cd ../pipeline && python merge_detections.py --input ../linking/release/detections.csv
+cd ../pipeline && python merge_detections.py --input ../linking/runs/release/detections.csv
 ```
 
-`calibrate.py` reads its run folders from this folder (`final2`, `rot1`…`rot5`, `v2rot1`…`v2rot5`). Those run outputs are not stored in the repo.
+`EXP` is `../detector/exports/all_sources`. `calibrate.py` reads the run folders in `runs/`. All of them are in the repo, so `python calibrate.py` on its own reproduces `runs/release/detections.csv` exactly.

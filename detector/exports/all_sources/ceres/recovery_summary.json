@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "mode": "independent_frame_source_export_then_reference_audit",
+  "status": "completed",
+  "labels_used_for_detection": false,
+  "confirmed_objects": 0,
+  "confirmation_performed": false,
+  "detection_configuration": {
+    "snr_threshold": 5.0,
+    "centroid_floor_px": 0.15,
+    "max_sources_per_frame": 100000,
+    "edge_margin_px": 3,
+    "saturated_centroid_floor_px": 0.5
+  },
+  "match_radius_px": 2.0,
+  "target_reference_object": "1 Ceres (A801 AA)",
+  "frames_requested": 277,
+  "frames_completed": 277,
+  "frames_failed": 0,
+  "measured_sources": 49827,
+  "limitations": [
+    "A positional reference match is not independent identity or motion confirmation.",
+    "Label masks describe reference positions; masks across the full PSF may differ.",
+    "No population completeness or false-positive calibration is provided.",
+    "Saturated measurements have approximate centroids and unreliable photometry."
+  ],
+  "measurement_status_counts": {
+    "saturated_positional_measurement": 719,
+    "quality_flagged_measurement": 12860,
+    "unsaturated_measurement": 36248
+  },
+  "reference_table_sha256": "c13b7aacccb9e36546ed2ebc893984141eaab5130487c9953eb3cfd7eb7e2898",
+  "reference_rows": 277,
+  "reference_outcomes": {
+    "saturated_positional_match": 192,
+    "no_source_match_saturated_reference": 58,
+    "no_source_match_unsaturated_reference": 7,
+    "reference_outside_or_bad_pixel": 4,
+    "quality_flagged_positional_match": 16
+  },
+  "audit_status": "completed",
+  "teammate_catalog": "measured_sources.csv",
+  "catalog_contains_motion_tracks": false
+}

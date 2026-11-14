@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "mode": "independent_frame_source_export_then_reference_audit",
+  "status": "completed",
+  "labels_used_for_detection": false,
+  "confirmed_objects": 0,
+  "confirmation_performed": false,
+  "detection_configuration": {
+    "snr_threshold": 5.0,
+    "centroid_floor_px": 0.15,
+    "max_sources_per_frame": 100000,
+    "edge_margin_px": 3,
+    "saturated_centroid_floor_px": 0.5
+  },
+  "match_radius_px": 2.0,
+  "target_reference_object": null,
+  "frames_requested": 218,
+  "frames_completed": 218,
+  "frames_failed": 0,
+  "measured_sources": 1151444,
+  "limitations": [
+    "A positional reference match is not independent identity or motion confirmation.",
+    "Label masks describe reference positions; masks across the full PSF may differ.",
+    "No population completeness or false-positive calibration is provided.",
+    "Saturated measurements have approximate centroids and unreliable photometry."
+  ],
+  "measurement_status_counts": {
+    "quality_flagged_measurement": 666740,
+    "saturated_positional_measurement": 16537,
+    "unsaturated_measurement": 468167
+  },
+  "audit_status": "not_requested",
+  "teammate_catalog": "measured_sources.csv",
+  "catalog_contains_motion_tracks": false
+}

@@ -1,0 +1,506 @@
+{
+ "patch": "3i-atlas",
+ "settings": {
+  "INTRA_CHECK": true,
+  "INTRA_SLACK": 10.0,
+  "REQUIRE_TESTED": false,
+  "SNR_MIN": 0.0,
+  "STATIC_MAX_NEED": 4,
+  "STATIC_FRAC": 0.1,
+  "R_STATIC": 9.0,
+  "T_STATIC_FIXED_D": 2.0,
+  "T_STATIC_MOVING_D": 0.08,
+  "R_BURST": 15.0,
+  "MIN_FRAMES": 2,
+  "W_H": 50.0,
+  "MIN_GAP_H": 0.5,
+  "RATE_MIN": 1.0,
+  "RATE_MAX": 300.0,
+  "TOL0": 12.0,
+  "TOL_ACC": 0.004,
+  "MIN_BURSTS": 4,
+  "RMS_MAX": 4.0,
+  "MIN_MOVE_PX": 2.0,
+  "GHOST_SNR_MIN": 150.0,
+  "GHOST_RATIO": 5.0,
+  "GHOST_SEP_DEG": 0.5,
+  "SCRAMBLE": true,
+  "SEED": 1
+ },
+ "spots": 218055,
+ "static": 150338,
+ "transient": 67717,
+ "transient_no_far_coverage": 46017,
+ "burst_detections": 14281,
+ "rejected_as_ghost_of_bright_track": 391,
+ "rejected_intra_burst_motion": 372754,
+ "seed_tracks": 594784,
+ "tracks": 58,
+ "track_summary": [
+  {
+   "track_id": "3i-atlas-trk-0001",
+   "n_bursts": 6,
+   "rms_arcsec": 3.88,
+   "rate_arcsec_h": 103.1,
+   "span_h": 55.4,
+   "snr": 10.9
+  },
+  {
+   "track_id": "3i-atlas-trk-0002",
+   "n_bursts": 5,
+   "rms_arcsec": 1.22,
+   "rate_arcsec_h": 94.6,
+   "span_h": 52.1,
+   "snr": 18.5
+  },
+  {
+   "track_id": "3i-atlas-trk-0003",
+   "n_bursts": 5,
+   "rms_arcsec": 1.23,
+   "rate_arcsec_h": 68.9,
+   "span_h": 102.8,
+   "snr": 8.0
+  },
+  {
+   "track_id": "3i-atlas-trk-0004",
+   "n_bursts": 5,
+   "rms_arcsec": 1.77,
+   "rate_arcsec_h": 101.0,
+   "span_h": 89.6,
+   "snr": 13.1
+  },
+  {
+   "track_id": "3i-atlas-trk-0005",
+   "n_bursts": 5,
+   "rms_arcsec": 2.12,
+   "rate_arcsec_h": 107.2,
+   "span_h": 55.4,
+   "snr": 7.8
+  },
+  {
+   "track_id": "3i-atlas-trk-0006",
+   "n_bursts": 5,
+   "rms_arcsec": 2.18,
+   "rate_arcsec_h": 108.4,
+   "span_h": 55.4,
+   "snr": 10.7
+  },
+  {
+   "track_id": "3i-atlas-trk-0007",
+   "n_bursts": 5,
+   "rms_arcsec": 2.25,
+   "rate_arcsec_h": 102.8,
+   "span_h": 63.7,
+   "snr": 27.8
+  },
+  {
+   "track_id": "3i-atlas-trk-0008",
+   "n_bursts": 5,
+   "rms_arcsec": 2.36,
+   "rate_arcsec_h": 105.2,
+   "span_h": 99.4,
+   "snr": 8.6
+  },
+  {
+   "track_id": "3i-atlas-trk-0009",
+   "n_bursts": 5,
+   "rms_arcsec": 2.65,
+   "rate_arcsec_h": 96.3,
+   "span_h": 74.9,
+   "snr": 12.0
+  },
+  {
+   "track_id": "3i-atlas-trk-0010",
+   "n_bursts": 5,
+   "rms_arcsec": 2.84,
+   "rate_arcsec_h": 106.0,
+   "span_h": 55.4,
+   "snr": 9.4
+  },
+  {
+   "track_id": "3i-atlas-trk-0011",
+   "n_bursts": 5,
+   "rms_arcsec": 2.84,
+   "rate_arcsec_h": 98.1,
+   "span_h": 55.4,
+   "snr": 13.6
+  },
+  {
+   "track_id": "3i-atlas-trk-0012",
+   "n_bursts": 5,
+   "rms_arcsec": 2.9,
+   "rate_arcsec_h": 106.2,
+   "span_h": 42.4,
+   "snr": 5.8
+  },
+  {
+   "track_id": "3i-atlas-trk-0013",
+   "n_bursts": 5,
+   "rms_arcsec": 3.06,
+   "rate_arcsec_h": 91.0,
+   "span_h": 99.4,
+   "snr": 10.6
+  },
+  {
+   "track_id": "3i-atlas-trk-0014",
+   "n_bursts": 5,
+   "rms_arcsec": 3.15,
+   "rate_arcsec_h": 105.6,
+   "span_h": 110.8,
+   "snr": 17.2
+  },
+  {
+   "track_id": "3i-atlas-trk-0015",
+   "n_bursts": 5,
+   "rms_arcsec": 3.24,
+   "rate_arcsec_h": 99.1,
+   "span_h": 99.5,
+   "snr": 8.0
+  },
+  {
+   "track_id": "3i-atlas-trk-0016",
+   "n_bursts": 5,
+   "rms_arcsec": 3.39,
+   "rate_arcsec_h": 142.3,
+   "span_h": 39.1,
+   "snr": 7.4
+  },
+  {
+   "track_id": "3i-atlas-trk-0017",
+   "n_bursts": 5,
+   "rms_arcsec": 3.4,
+   "rate_arcsec_h": 124.3,
+   "span_h": 63.7,
+   "snr": 23.2
+  },
+  {
+   "track_id": "3i-atlas-trk-0018",
+   "n_bursts": 5,
+   "rms_arcsec": 3.44,
+   "rate_arcsec_h": 113.0,
+   "span_h": 55.5,
+   "snr": 10.9
+  },
+  {
+   "track_id": "3i-atlas-trk-0019",
+   "n_bursts": 5,
+   "rms_arcsec": 3.5,
+   "rate_arcsec_h": 77.5,
+   "span_h": 102.7,
+   "snr": 43.8
+  },
+  {
+   "track_id": "3i-atlas-trk-0020",
+   "n_bursts": 5,
+   "rms_arcsec": 3.66,
+   "rate_arcsec_h": 127.6,
+   "span_h": 55.4,
+   "snr": 11.8
+  },
+  {
+   "track_id": "3i-atlas-trk-0021",
+   "n_bursts": 5,
+   "rms_arcsec": 3.69,
+   "rate_arcsec_h": 92.8,
+   "span_h": 114.1,
+   "snr": 16.3
+  },
+  {
+   "track_id": "3i-atlas-trk-0022",
+   "n_bursts": 5,
+   "rms_arcsec": 3.81,
+   "rate_arcsec_h": 115.3,
+   "span_h": 39.1,
+   "snr": 8.4
+  },
+  {
+   "track_id": "3i-atlas-trk-0023",
+   "n_bursts": 5,
+   "rms_arcsec": 3.81,
+   "rate_arcsec_h": 98.2,
+   "span_h": 123.9,
+   "snr": 6.9
+  },
+  {
+   "track_id": "3i-atlas-trk-0024",
+   "n_bursts": 5,
+   "rms_arcsec": 3.9,
+   "rate_arcsec_h": 80.2,
+   "span_h": 102.8,
+   "snr": 18.5
+  },
+  {
+   "track_id": "3i-atlas-trk-0025",
+   "n_bursts": 5,
+   "rms_arcsec": 3.93,
+   "rate_arcsec_h": 113.5,
+   "span_h": 39.1,
+   "snr": 12.2
+  },
+  {
+   "track_id": "3i-atlas-trk-0026",
+   "n_bursts": 5,
+   "rms_arcsec": 3.95,
+   "rate_arcsec_h": 128.6,
+   "span_h": 55.4,
+   "snr": 7.7
+  },
+  {
+   "track_id": "3i-atlas-trk-0027",
+   "n_bursts": 4,
+   "rms_arcsec": 1.14,
+   "rate_arcsec_h": 126.9,
+   "span_h": 55.4,
+   "snr": 15.8
+  },
+  {
+   "track_id": "3i-atlas-trk-0028",
+   "n_bursts": 4,
+   "rms_arcsec": 1.65,
+   "rate_arcsec_h": 70.5,
+   "span_h": 58.7,
+   "snr": 8.9
+  },
+  {
+   "track_id": "3i-atlas-trk-0029",
+   "n_bursts": 4,
+   "rms_arcsec": 2.13,
+   "rate_arcsec_h": 96.7,
+   "span_h": 91.3,
+   "snr": 9.4
+  },
+  {
+   "track_id": "3i-atlas-trk-0030",
+   "n_bursts": 4,
+   "rms_arcsec": 2.15,
+   "rate_arcsec_h": 69.0,
+   "span_h": 52.1,
+   "snr": 6.4
+  },
+  {
+   "track_id": "3i-atlas-trk-0031",
+   "n_bursts": 4,
+   "rms_arcsec": 2.28,
+   "rate_arcsec_h": 135.9,
+   "span_h": 63.7,
+   "snr": 15.0
+  },
+  {
+   "track_id": "3i-atlas-trk-0032",
+   "n_bursts": 4,
+   "rms_arcsec": 2.52,
+   "rate_arcsec_h": 126.0,
+   "span_h": 55.4,
+   "snr": 10.0
+  },
+  {
+   "track_id": "3i-atlas-trk-0033",
+   "n_bursts": 4,
+   "rms_arcsec": 2.6,
+   "rate_arcsec_h": 95.5,
+   "span_h": 99.5,
+   "snr": 45.6
+  },
+  {
+   "track_id": "3i-atlas-trk-0034",
+   "n_bursts": 4,
+   "rms_arcsec": 2.63,
+   "rate_arcsec_h": 119.9,
+   "span_h": 55.4,
+   "snr": 20.6
+  },
+  {
+   "track_id": "3i-atlas-trk-0035",
+   "n_bursts": 4,
+   "rms_arcsec": 2.68,
+   "rate_arcsec_h": 89.0,
+   "span_h": 120.7,
+   "snr": 16.9
+  },
+  {
+   "track_id": "3i-atlas-trk-0036",
+   "n_bursts": 4,
+   "rms_arcsec": 2.78,
+   "rate_arcsec_h": 120.4,
+   "span_h": 55.4,
+   "snr": 12.8
+  },
+  {
+   "track_id": "3i-atlas-trk-0037",
+   "n_bursts": 4,
+   "rms_arcsec": 2.78,
+   "rate_arcsec_h": 123.4,
+   "span_h": 55.4,
+   "snr": 29.7
+  },
+  {
+   "track_id": "3i-atlas-trk-0038",
+   "n_bursts": 4,
+   "rms_arcsec": 2.81,
+   "rate_arcsec_h": 126.2,
+   "span_h": 55.4,
+   "snr": 11.4
+  },
+  {
+   "track_id": "3i-atlas-trk-0039",
+   "n_bursts": 4,
+   "rms_arcsec": 2.81,
+   "rate_arcsec_h": 76.5,
+   "span_h": 48.9,
+   "snr": 41.9
+  },
+  {
+   "track_id": "3i-atlas-trk-0040",
+   "n_bursts": 4,
+   "rms_arcsec": 2.9,
+   "rate_arcsec_h": 102.2,
+   "span_h": 52.1,
+   "snr": 8.0
+  },
+  {
+   "track_id": "3i-atlas-trk-0041",
+   "n_bursts": 4,
+   "rms_arcsec": 2.92,
+   "rate_arcsec_h": 129.2,
+   "span_h": 55.4,
+   "snr": 8.0
+  },
+  {
+   "track_id": "3i-atlas-trk-0042",
+   "n_bursts": 4,
+   "rms_arcsec": 3.15,
+   "rate_arcsec_h": 89.4,
+   "span_h": 120.7,
+   "snr": 8.1
+  },
+  {
+   "track_id": "3i-atlas-trk-0043",
+   "n_bursts": 4,
+   "rms_arcsec": 3.18,
+   "rate_arcsec_h": 130.0,
+   "span_h": 30.9,
+   "snr": 41.2
+  },
+  {
+   "track_id": "3i-atlas-trk-0044",
+   "n_bursts": 4,
+   "rms_arcsec": 3.25,
+   "rate_arcsec_h": 98.9,
+   "span_h": 114.1,
+   "snr": 35.4
+  },
+  {
+   "track_id": "3i-atlas-trk-0045",
+   "n_bursts": 4,
+   "rms_arcsec": 3.29,
+   "rate_arcsec_h": 66.2,
+   "span_h": 81.5,
+   "snr": 46.6
+  },
+  {
+   "track_id": "3i-atlas-trk-0046",
+   "n_bursts": 4,
+   "rms_arcsec": 3.29,
+   "rate_arcsec_h": 105.1,
+   "span_h": 52.1,
+   "snr": 8.5
+  },
+  {
+   "track_id": "3i-atlas-trk-0047",
+   "n_bursts": 4,
+   "rms_arcsec": 3.31,
+   "rate_arcsec_h": 85.1,
+   "span_h": 78.2,
+   "snr": 13.2
+  },
+  {
+   "track_id": "3i-atlas-trk-0048",
+   "n_bursts": 4,
+   "rms_arcsec": 3.33,
+   "rate_arcsec_h": 107.1,
+   "span_h": 55.4,
+   "snr": 9.4
+  },
+  {
+   "track_id": "3i-atlas-trk-0049",
+   "n_bursts": 4,
+   "rms_arcsec": 3.38,
+   "rate_arcsec_h": 115.6,
+   "span_h": 39.1,
+   "snr": 6.7
+  },
+  {
+   "track_id": "3i-atlas-trk-0050",
+   "n_bursts": 4,
+   "rms_arcsec": 3.39,
+   "rate_arcsec_h": 100.4,
+   "span_h": 99.5,
+   "snr": 65.9
+  },
+  {
+   "track_id": "3i-atlas-trk-0051",
+   "n_bursts": 4,
+   "rms_arcsec": 3.42,
+   "rate_arcsec_h": 81.1,
+   "span_h": 65.2,
+   "snr": 39.0
+  },
+  {
+   "track_id": "3i-atlas-trk-0052",
+   "n_bursts": 4,
+   "rms_arcsec": 3.42,
+   "rate_arcsec_h": 127.1,
+   "span_h": 55.4,
+   "snr": 12.7
+  },
+  {
+   "track_id": "3i-atlas-trk-0053",
+   "n_bursts": 4,
+   "rms_arcsec": 3.55,
+   "rate_arcsec_h": 83.5,
+   "span_h": 83.2,
+   "snr": 52.2
+  },
+  {
+   "track_id": "3i-atlas-trk-0054",
+   "n_bursts": 4,
+   "rms_arcsec": 3.63,
+   "rate_arcsec_h": 67.9,
+   "span_h": 58.7,
+   "snr": 16.3
+  },
+  {
+   "track_id": "3i-atlas-trk-0055",
+   "n_bursts": 4,
+   "rms_arcsec": 3.69,
+   "rate_arcsec_h": 81.3,
+   "span_h": 102.8,
+   "snr": 20.5
+  },
+  {
+   "track_id": "3i-atlas-trk-0056",
+   "n_bursts": 4,
+   "rms_arcsec": 3.73,
+   "rate_arcsec_h": 123.3,
+   "span_h": 99.4,
+   "snr": 7.5
+  },
+  {
+   "track_id": "3i-atlas-trk-0057",
+   "n_bursts": 4,
+   "rms_arcsec": 3.75,
+   "rate_arcsec_h": 123.4,
+   "span_h": 76.5,
+   "snr": 54.7
+  },
+  {
+   "track_id": "3i-atlas-trk-0058",
+   "n_bursts": 4,
+   "rms_arcsec": 3.95,
+   "rate_arcsec_h": 144.9,
+   "span_h": 39.1,
+   "snr": 9.6
+  }
+ ],
+ "seconds": 319.0
+}

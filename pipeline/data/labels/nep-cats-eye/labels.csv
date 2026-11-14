@@ -1,0 +1,1 @@
+frame,patch,obs_id,detector,t_mid_utc,t_mid_mjd,object,kind,ra_deg,dec_deg,x,y,in_data,mask,v_mag,ra_rate_arcsec_h,dec_rate_arcsec_h,motion_px_per_min,diff_snr_peak,peak_dx,peak_dy,seen,group,file,seen_n_group,confirmed

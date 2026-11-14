@@ -7,22 +7,24 @@ out/
 # Python
 __pycache__/
 *.py[cod]
+*.pkl
 .venv/
 venv/
+.ipynb_checkpoints/
 
 # Secrets
 .env
 .env.*
 !.env.example
 
-# Data and run outputs (the scripts rebuild them)
-pipeline/data/
-pipeline/handoff/
-linking/final*/
-linking/rot*/
-linking/v2rot*/
-linking/release/
+# SPHEREx photos are too big for GitHub (see README: Drive links + download script)
 *.fits
+!pipeline/data/lesson/*.fits
+pipeline/data/raw/
+pipeline/data/cut/
+pipeline/data/clean/
+pipeline/handoff/
+*.zip
 
 # OS
 .DS_Store

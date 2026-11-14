@@ -63,10 +63,17 @@ NASA/IPAC IRSA: SPHEREx photos          NASA JPL: orbits, positions, known objec
 | Folder | What's inside |
 |---|---|
 | [`site/`](site) | The website (Next.js, React, Three.js). Its data pack is in `site/public/data/` |
-| [`pipeline/`](pipeline) | From NASA's archive to clean, aligned, labelled photos, then the website's data files |
-| [`detector/`](detector) | The detector: finds and measures bright spots in each photo, with tests |
-| [`linking/`](linking) | Turns spots into tracks, the noise test, the locked settings and the 3I/ATLAS scores |
-| [`docs/`](docs) | Data formats: the website's data contract and the pipeline's data dictionary |
+| [`pipeline/`](pipeline) | From NASA's archive to clean, aligned, labelled photos, then the website's data files. Includes the photo lists, logs, NASA JPL labels and reference data, and the notebook where it started |
+| [`detector/`](detector) | The detector: finds and measures bright spots in each photo, with tests, plus its full output (1.9 million spots) |
+| [`linking/`](linking) | Turns spots into tracks: the locked code, every real and scrambled run, the tuning experiments, and the 3I/ATLAS scores |
+| [`docs/`](docs) | The project story, the pipeline plan, the data formats, and what each teammate received |
+
+### The SPHEREx photos
+
+The photos are too big for GitHub (99 GB as downloaded), so they live in two places:
+
+- **Our prepared photos** (cleaned, aligned, north-up; 14.4 GB of zips): [aligned images, all 5 patches](https://drive.google.com/drive/folders/18MBY1DVtMuKnxl1dDVoEV91RBHnWAX1L) and [difference images, 3 fixed patches](https://drive.google.com/drive/folders/1K1SXlHHMkb4H3BCqROMVkApijyyzw9tv). Check them with [`checksums.sha256`](docs/handoffs/detector_package/checksums.sha256) and unpack with [`verify_and_unzip.py`](docs/handoffs/detector_package/verify_and_unzip.py).
+- **The originals**, straight from NASA: [`pipeline/manifest_all.csv`](pipeline/manifest_all.csv) lists all 1,401 photos with their IRSA links, and `python download_spherex.py all` fetches exactly the same set.
 
 ## Run the website
 

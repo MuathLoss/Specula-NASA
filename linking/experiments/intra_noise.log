@@ -1,0 +1,6 @@
+practice rot1: 'tracks': 0 'tracks': 0 'tracks': 0
+practice rot2: 'tracks': 0 'tracks': 0 'tracks': 0
+3i rot1: 'rejected_intra_burst_motion': 372754 'tracks': 58
+3i rot2: 'rejected_intra_burst_motion': 317938 'tracks': 46
+3i rot3: 'rejected_intra_burst_motion': 358663 'tracks': 38
+done

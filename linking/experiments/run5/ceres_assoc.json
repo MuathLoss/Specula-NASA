@@ -1,0 +1,70 @@
+{
+ "patch": "ceres",
+ "settings": {
+  "SNR_MIN": 0.0,
+  "STATIC_MAX_NEED": 4,
+  "STATIC_FRAC": 0.1,
+  "R_STATIC": 9.0,
+  "T_STATIC_FIXED_D": 2.0,
+  "T_STATIC_MOVING_D": 0.25,
+  "R_BURST": 15.0,
+  "MIN_FRAMES": 2,
+  "W_H": 50.0,
+  "MIN_GAP_H": 0.5,
+  "RATE_MIN": 1.0,
+  "RATE_MAX": 300.0,
+  "TOL0": 12.0,
+  "TOL_ACC": 0.004,
+  "MIN_BURSTS": 4,
+  "RMS_MAX": 4.0,
+  "MIN_MOVE_PX": 2.0,
+  "GHOST_SNR_MIN": 150.0,
+  "GHOST_RATIO": 5.0,
+  "GHOST_SEP_DEG": 0.5,
+  "SCRAMBLE": false,
+  "SEED": 1
+ },
+ "spots": 49827,
+ "static": 32438,
+ "transient": 17389,
+ "transient_no_far_coverage": 11003,
+ "burst_detections": 3210,
+ "rejected_as_ghost_of_bright_track": 8,
+ "seed_tracks": 602,
+ "tracks": 4,
+ "track_summary": [
+  {
+   "track_id": "ceres-trk-0001",
+   "n_bursts": 9,
+   "rms_arcsec": 0.52,
+   "rate_arcsec_h": 28.1,
+   "span_h": 97.7,
+   "snr": 170.6
+  },
+  {
+   "track_id": "ceres-trk-0002",
+   "n_bursts": 8,
+   "rms_arcsec": 0.4,
+   "rate_arcsec_h": 32.9,
+   "span_h": 125.5,
+   "snr": 185.3
+  },
+  {
+   "track_id": "ceres-trk-0003",
+   "n_bursts": 8,
+   "rms_arcsec": 0.86,
+   "rate_arcsec_h": 26.8,
+   "span_h": 94.6,
+   "snr": 184.6
+  },
+  {
+   "track_id": "ceres-trk-0004",
+   "n_bursts": 5,
+   "rms_arcsec": 0.27,
+   "rate_arcsec_h": 24.0,
+   "span_h": 65.2,
+   "snr": 187.9
+  }
+ ],
+ "seconds": 7.4
+}

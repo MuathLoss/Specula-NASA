@@ -1,0 +1,5 @@
+3i-atlas {'spots': 218055, 'static': 150338, 'transient': 67717, 'transient_no_far_coverage': 46017, 'burst_detections': 4153, 'seed_tracks': 41470, 'rejected_as_ghost_of_bright_track': 4, 'tracks': 184, 'seconds': 24.5}
+'tracks': 177
+'tracks': 181
+'tracks': 53
+done

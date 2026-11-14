@@ -1,0 +1,63 @@
+{
+ "patch": "ecliptic-virgo",
+ "settings": {
+  "REQUIRE_TESTED": true,
+  "SNR_MIN": 0.0,
+  "STATIC_MAX_NEED": 4,
+  "STATIC_FRAC": 0.1,
+  "R_STATIC": 9.0,
+  "T_STATIC_FIXED_D": 2.0,
+  "T_STATIC_MOVING_D": 0.08,
+  "R_BURST": 15.0,
+  "MIN_FRAMES": 2,
+  "W_H": 50.0,
+  "MIN_GAP_H": 0.5,
+  "RATE_MIN": 1.0,
+  "RATE_MAX": 300.0,
+  "TOL0": 12.0,
+  "TOL_ACC": 0.001,
+  "MIN_BURSTS": 4,
+  "RMS_MAX": 2.0,
+  "MIN_MOVE_PX": 2.0,
+  "GHOST_SNR_MIN": 150.0,
+  "GHOST_RATIO": 5.0,
+  "GHOST_SEP_DEG": 0.5,
+  "SCRAMBLE": false,
+  "SEED": 1
+ },
+ "spots": 355406,
+ "static": 303139,
+ "transient": 52267,
+ "transient_no_far_coverage": 0,
+ "burst_detections": 1317,
+ "rejected_as_ghost_of_bright_track": 0,
+ "seed_tracks": 26,
+ "tracks": 3,
+ "track_summary": [
+  {
+   "track_id": "ecliptic-virgo-trk-0001",
+   "n_bursts": 6,
+   "rms_arcsec": 0.54,
+   "rate_arcsec_h": 45.7,
+   "span_h": 74.9,
+   "snr": 45.4
+  },
+  {
+   "track_id": "ecliptic-virgo-trk-0002",
+   "n_bursts": 5,
+   "rms_arcsec": 0.21,
+   "rate_arcsec_h": 38.0,
+   "span_h": 39.1,
+   "snr": 137.4
+  },
+  {
+   "track_id": "ecliptic-virgo-trk-0003",
+   "n_bursts": 4,
+   "rms_arcsec": 1.58,
+   "rate_arcsec_h": 42.3,
+   "span_h": 32.5,
+   "snr": 41.4
+  }
+ ],
+ "seconds": 15.7
+}

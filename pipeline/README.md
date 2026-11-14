@@ -52,7 +52,18 @@ How they were chosen:
 | File | What it is |
 |---|---|
 | `manifest_all.csv` | One row per photo (1,401): patch, photo ID, detector, time, wavelength range, centre, IRSA download link, quality |
+| `manifest_<patch>.csv` | The same rows, split per patch |
 | `patches.csv` | The five patches: where each is and its job |
+| `nep_candidates.csv` | All 3,453 candidate North Ecliptic Pole photos, their centrality score, and why each was or wasn't chosen |
+| `answer_key_3i_atlas.csv` | Where 3I/ATLAS really is in each photo (from IRSA). **Scoring only**: it was never given to the detector |
+| `preprocessing.ipynb` | The notebook where the pipeline was first built and tested, step by step |
+| `logs/` | One row per photo per stage: `download_log.csv`, `verify_report.csv`, `crop_log.csv`, `clean_log.csv` |
+| `data/labels/` | Known-object labels per patch (`labels.csv`, `known_objects.csv`) and the raw NASA JPL answers (`jpl_cache/`) |
+| `data/v02/` | NASA JPL data behind the 3D view: Small-Body Database orbits (`sbdb/`), Horizons positions, the comet list, the Yale Bright Star Catalogue (`bsc5/`) |
+| `data/aligned/<patch>/frames.csv`, `data/diff/<patch>/diff_frames.csv` | The photo list of each patch in time order (the images themselves are linked in the main README) |
+| `data/psf_info.csv`, `data/preview_stretch.json` | Star-shape model per photo; brightness settings for the website previews |
+| `data/lesson/virgo_D3_crop.fits` | One small cropped SPHEREx photo for learning the FITS format |
+| `archive/` | Earlier versions of the photo list and the first pipeline README |
 | `requirements.txt` | Python packages |
 
 ## Checks

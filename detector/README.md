@@ -1,5 +1,6 @@
-> Detector code by Omar Teskyeh. The full source exports it produced (about 600 MB of CSV) are not stored in this repo;
-> `export_all.py` rebuilds them from the aligned SPHEREx frames (see `BATCH_EXPORT.md`).
+> Detector code by Omar Teskyeh. Its full output is in `exports/all_sources/`: every spot measured in every photo
+> (1,911,543 spots, 616 MB of CSV, split per patch into parts of at most 10 MB). `export_all.py` rebuilds it from the
+> aligned SPHEREx frames (see `BATCH_EXPORT.md`).
 
 # Reverse MOST detector  repository-ready research pipeline
 

@@ -1,0 +1,6 @@
+patch,patch_type,center_ra,center_dec,cutout_size_deg,collections,dataset_type,role,status
+ecliptic-virgo,fixed,180.0,0.0,1.0,spherex_qr2;spherex_qr3,incremental,Discover asteroids (main demo),in manifest
+ceres,moving,follows Ceres (JPL Horizons),follows Ceres (JPL Horizons),0.5,spherex_qr2,static,Guaranteed bright mover (demo safety net),in manifest
+3i-atlas,moving,follows comet (IRSA table),follows comet (IRSA table),0.6,spherex_qr2,static,Test with answer key (prove accuracy),in manifest
+nep-cats-eye,fixed,270.0,66.56,0.5,spherex_qr2_deep;spherex_qr3_deep,incremental,Weekly live feed / time-lapse / slow movers,in manifest (option C daily sample: 306 photos Jul 1-Aug 30 2026)
+ecliptic-ra90,fixed,90.0,23.44,1.0,spherex_qr2;spherex_qr3,incremental,Possible new release near the hackathon,in manifest

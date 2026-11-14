@@ -20,7 +20,7 @@ CUTS = [(mb, r) for mb in (4, 5, 6, 7, 8) for r in (4.0, 3.0, 2.5, 2.0, 1.5, 1.0
 
 
 def summ(run, patch):
-    p = os.path.join(BASE, run, "%s_assoc.json" % patch)
+    p = os.path.join(BASE, "runs", run, "%s_assoc.json" % patch)
     return json.load(open(p))["track_summary"] if os.path.exists(p) else None
 
 
@@ -45,9 +45,9 @@ for patch, run in REAL.items():
                      "expected_false_tracks_per_run": round(n_noise / max(1, len(trials)), 2),
                      "real_tracks_before_cut": len(real), "real_tracks_kept": len(keep),
                      "kept": [k["track_id"] for k in keep]}
-    tr = pd.read_csv(os.path.join(BASE, run, "%s_tracks.csv" % patch))
+    tr = pd.read_csv(os.path.join(BASE, "runs", run, "%s_tracks.csv" % patch))
     out_rows.append(tr[tr.track_id.isin(report[patch]["kept"])])
-os.makedirs(os.path.join(BASE, "release"), exist_ok=True)
-pd.concat(out_rows, ignore_index=True).to_csv(os.path.join(BASE, "release", "detections.csv"), index=False)
-json.dump(report, open(os.path.join(BASE, "release", "calibration_report.json"), "w"), indent=1)
+os.makedirs(os.path.join(BASE, "runs", "release"), exist_ok=True)
+pd.concat(out_rows, ignore_index=True).to_csv(os.path.join(BASE, "runs", "release", "detections.csv"), index=False)
+json.dump(report, open(os.path.join(BASE, "runs", "release", "calibration_report.json"), "w"), indent=1)
 print(json.dumps({p: {k: v for k, v in d.items() if k != "kept"} for p, d in report.items()}, indent=1))

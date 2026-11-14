@@ -1,0 +1,5 @@
+3i-atlas {'spots': 218055, 'static': 150338, 'transient': 67717, 'transient_no_far_coverage': 46017, 'burst_detections': 14281, 'seed_tracks': 526732, 'rejected_as_ghost_of_bright_track': 758, 'tracks': 48, 'seconds': 234.6}
+3i-atlas {'spots': 218055, 'static': 150338, 'transient': 67717, 'transient_no_far_coverage': 46017, 'burst_detections': 14281, 'seed_tracks': 553122, 'rejected_as_ghost_of_bright_track': 780, 'tracks': 42, 'seconds': 245.4}
+ceres 'tracks': 0 ecliptic-virgo 'tracks': 0 ecliptic-ra90 'tracks': 0 nep-cats-eye 'tracks': 0
+ceres 'tracks': 0 ecliptic-virgo 'tracks': 0 ecliptic-ra90 'tracks': 0 nep-cats-eye 'tracks': 0
+done

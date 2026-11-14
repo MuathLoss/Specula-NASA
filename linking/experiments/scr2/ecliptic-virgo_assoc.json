@@ -1,0 +1,106 @@
+{
+ "patch": "ecliptic-virgo",
+ "settings": {
+  "SNR_MIN": 0.0,
+  "STATIC_MAX_NEED": 4,
+  "STATIC_FRAC": 0.1,
+  "R_STATIC": 9.0,
+  "T_STATIC_FIXED_D": 2.0,
+  "T_STATIC_MOVING_D": 0.25,
+  "R_BURST": 15.0,
+  "MIN_FRAMES": 2,
+  "W_H": 50.0,
+  "MIN_GAP_H": 0.5,
+  "RATE_MIN": 1.0,
+  "RATE_MAX": 300.0,
+  "TOL0": 12.0,
+  "TOL_ACC": 0.004,
+  "MIN_BURSTS": 3,
+  "RMS_MAX": 8.0,
+  "MIN_MOVE_PX": 2.0,
+  "SCRAMBLE": true,
+  "SEED": 2
+ },
+ "spots": 355406,
+ "static": 303139,
+ "transient": 52267,
+ "transient_no_far_coverage": 0,
+ "burst_detections": 1317,
+ "seed_tracks": 38,
+ "tracks": 9,
+ "track_summary": [
+  {
+   "track_id": "ecliptic-virgo-trk-0001",
+   "n_bursts": 3,
+   "rms_arcsec": 0.91,
+   "rate_arcsec_h": 59.2,
+   "span_h": 58.8,
+   "snr": 5.9
+  },
+  {
+   "track_id": "ecliptic-virgo-trk-0002",
+   "n_bursts": 3,
+   "rms_arcsec": 1.28,
+   "rate_arcsec_h": 28.3,
+   "span_h": 50.6,
+   "snr": 6.6
+  },
+  {
+   "track_id": "ecliptic-virgo-trk-0003",
+   "n_bursts": 3,
+   "rms_arcsec": 1.53,
+   "rate_arcsec_h": 110.9,
+   "span_h": 9.8,
+   "snr": 5.4
+  },
+  {
+   "track_id": "ecliptic-virgo-trk-0004",
+   "n_bursts": 3,
+   "rms_arcsec": 2.25,
+   "rate_arcsec_h": 53.2,
+   "span_h": 66.9,
+   "snr": 22.3
+  },
+  {
+   "track_id": "ecliptic-virgo-trk-0005",
+   "n_bursts": 3,
+   "rms_arcsec": 2.82,
+   "rate_arcsec_h": 39.6,
+   "span_h": 34.2,
+   "snr": 46.6
+  },
+  {
+   "track_id": "ecliptic-virgo-trk-0006",
+   "n_bursts": 3,
+   "rms_arcsec": 3.45,
+   "rate_arcsec_h": 6.3,
+   "span_h": 66.8,
+   "snr": 13.8
+  },
+  {
+   "track_id": "ecliptic-virgo-trk-0007",
+   "n_bursts": 3,
+   "rms_arcsec": 3.77,
+   "rate_arcsec_h": 8.9,
+   "span_h": 66.9,
+   "snr": 15.1
+  },
+  {
+   "track_id": "ecliptic-virgo-trk-0008",
+   "n_bursts": 3,
+   "rms_arcsec": 4.17,
+   "rate_arcsec_h": 34.5,
+   "span_h": 71.7,
+   "snr": 18.6
+  },
+  {
+   "track_id": "ecliptic-virgo-trk-0009",
+   "n_bursts": 3,
+   "rms_arcsec": 6.31,
+   "rate_arcsec_h": 104.2,
+   "span_h": 13.0,
+   "snr": 6.1
+  }
+ ],
+ "seconds": 15.3
+}

@@ -1,0 +1,422 @@
+{
+ "patch": "3i-atlas",
+ "settings": {
+  "SNR_MIN": 0.0,
+  "STATIC_MAX_NEED": 4,
+  "STATIC_FRAC": 0.1,
+  "R_STATIC": 9.0,
+  "T_STATIC_FIXED_D": 2.0,
+  "T_STATIC_MOVING_D": 0.08,
+  "R_BURST": 15.0,
+  "MIN_FRAMES": 2,
+  "W_H": 50.0,
+  "MIN_GAP_H": 0.5,
+  "RATE_MIN": 1.0,
+  "RATE_MAX": 300.0,
+  "TOL0": 12.0,
+  "TOL_ACC": 0.004,
+  "MIN_BURSTS": 4,
+  "RMS_MAX": 4.0,
+  "MIN_MOVE_PX": 2.0,
+  "GHOST_SNR_MIN": 150.0,
+  "GHOST_RATIO": 5.0,
+  "GHOST_SEP_DEG": 0.5,
+  "SCRAMBLE": true,
+  "SEED": 2
+ },
+ "spots": 218055,
+ "static": 150338,
+ "transient": 67717,
+ "transient_no_far_coverage": 46017,
+ "burst_detections": 14281,
+ "rejected_as_ghost_of_bright_track": 758,
+ "seed_tracks": 526732,
+ "tracks": 48,
+ "track_summary": [
+  {
+   "track_id": "3i-atlas-trk-0001",
+   "n_bursts": 7,
+   "rms_arcsec": 3.86,
+   "rate_arcsec_h": 98.4,
+   "span_h": 122.3,
+   "snr": 11.6
+  },
+  {
+   "track_id": "3i-atlas-trk-0002",
+   "n_bursts": 5,
+   "rms_arcsec": 0.64,
+   "rate_arcsec_h": 85.2,
+   "span_h": 97.9,
+   "snr": 8.8
+  },
+  {
+   "track_id": "3i-atlas-trk-0003",
+   "n_bursts": 5,
+   "rms_arcsec": 0.74,
+   "rate_arcsec_h": 93.6,
+   "span_h": 102.8,
+   "snr": 8.5
+  },
+  {
+   "track_id": "3i-atlas-trk-0004",
+   "n_bursts": 5,
+   "rms_arcsec": 1.44,
+   "rate_arcsec_h": 102.8,
+   "span_h": 130.3,
+   "snr": 45.8
+  },
+  {
+   "track_id": "3i-atlas-trk-0005",
+   "n_bursts": 5,
+   "rms_arcsec": 1.84,
+   "rate_arcsec_h": 100.5,
+   "span_h": 96.1,
+   "snr": 7.7
+  },
+  {
+   "track_id": "3i-atlas-trk-0006",
+   "n_bursts": 5,
+   "rms_arcsec": 1.91,
+   "rate_arcsec_h": 126.0,
+   "span_h": 53.9,
+   "snr": 12.2
+  },
+  {
+   "track_id": "3i-atlas-trk-0007",
+   "n_bursts": 5,
+   "rms_arcsec": 1.99,
+   "rate_arcsec_h": 113.3,
+   "span_h": 110.8,
+   "snr": 23.0
+  },
+  {
+   "track_id": "3i-atlas-trk-0008",
+   "n_bursts": 5,
+   "rms_arcsec": 2.49,
+   "rate_arcsec_h": 96.2,
+   "span_h": 102.7,
+   "snr": 6.7
+  },
+  {
+   "track_id": "3i-atlas-trk-0009",
+   "n_bursts": 5,
+   "rms_arcsec": 2.54,
+   "rate_arcsec_h": 94.6,
+   "span_h": 96.2,
+   "snr": 19.1
+  },
+  {
+   "track_id": "3i-atlas-trk-0010",
+   "n_bursts": 5,
+   "rms_arcsec": 2.65,
+   "rate_arcsec_h": 88.9,
+   "span_h": 99.4,
+   "snr": 6.5
+  },
+  {
+   "track_id": "3i-atlas-trk-0011",
+   "n_bursts": 5,
+   "rms_arcsec": 2.78,
+   "rate_arcsec_h": 135.3,
+   "span_h": 53.8,
+   "snr": 6.6
+  },
+  {
+   "track_id": "3i-atlas-trk-0012",
+   "n_bursts": 5,
+   "rms_arcsec": 3.01,
+   "rate_arcsec_h": 123.9,
+   "span_h": 96.2,
+   "snr": 8.0
+  },
+  {
+   "track_id": "3i-atlas-trk-0013",
+   "n_bursts": 5,
+   "rms_arcsec": 3.05,
+   "rate_arcsec_h": 109.3,
+   "span_h": 115.7,
+   "snr": 8.2
+  },
+  {
+   "track_id": "3i-atlas-trk-0014",
+   "n_bursts": 5,
+   "rms_arcsec": 3.17,
+   "rate_arcsec_h": 142.7,
+   "span_h": 53.9,
+   "snr": 5.9
+  },
+  {
+   "track_id": "3i-atlas-trk-0015",
+   "n_bursts": 5,
+   "rms_arcsec": 3.41,
+   "rate_arcsec_h": 95.3,
+   "span_h": 74.9,
+   "snr": 9.5
+  },
+  {
+   "track_id": "3i-atlas-trk-0016",
+   "n_bursts": 5,
+   "rms_arcsec": 3.54,
+   "rate_arcsec_h": 108.6,
+   "span_h": 58.7,
+   "snr": 21.7
+  },
+  {
+   "track_id": "3i-atlas-trk-0017",
+   "n_bursts": 5,
+   "rms_arcsec": 3.56,
+   "rate_arcsec_h": 102.5,
+   "span_h": 96.2,
+   "snr": 6.8
+  },
+  {
+   "track_id": "3i-atlas-trk-0018",
+   "n_bursts": 5,
+   "rms_arcsec": 3.68,
+   "rate_arcsec_h": 84.0,
+   "span_h": 110.9,
+   "snr": 10.7
+  },
+  {
+   "track_id": "3i-atlas-trk-0019",
+   "n_bursts": 5,
+   "rms_arcsec": 3.85,
+   "rate_arcsec_h": 83.0,
+   "span_h": 102.8,
+   "snr": 9.3
+  },
+  {
+   "track_id": "3i-atlas-trk-0020",
+   "n_bursts": 5,
+   "rms_arcsec": 3.86,
+   "rate_arcsec_h": 101.1,
+   "span_h": 39.1,
+   "snr": 6.4
+  },
+  {
+   "track_id": "3i-atlas-trk-0021",
+   "n_bursts": 5,
+   "rms_arcsec": 3.9,
+   "rate_arcsec_h": 80.5,
+   "span_h": 102.8,
+   "snr": 10.2
+  },
+  {
+   "track_id": "3i-atlas-trk-0022",
+   "n_bursts": 4,
+   "rms_arcsec": 0.84,
+   "rate_arcsec_h": 105.3,
+   "span_h": 52.1,
+   "snr": 8.3
+  },
+  {
+   "track_id": "3i-atlas-trk-0023",
+   "n_bursts": 4,
+   "rms_arcsec": 0.87,
+   "rate_arcsec_h": 112.4,
+   "span_h": 55.5,
+   "snr": 5.8
+  },
+  {
+   "track_id": "3i-atlas-trk-0024",
+   "n_bursts": 4,
+   "rms_arcsec": 1.51,
+   "rate_arcsec_h": 93.3,
+   "span_h": 99.5,
+   "snr": 6.6
+  },
+  {
+   "track_id": "3i-atlas-trk-0025",
+   "n_bursts": 4,
+   "rms_arcsec": 1.59,
+   "rate_arcsec_h": 123.9,
+   "span_h": 78.3,
+   "snr": 9.2
+  },
+  {
+   "track_id": "3i-atlas-trk-0026",
+   "n_bursts": 4,
+   "rms_arcsec": 1.64,
+   "rate_arcsec_h": 109.1,
+   "span_h": 52.1,
+   "snr": 7.8
+  },
+  {
+   "track_id": "3i-atlas-trk-0027",
+   "n_bursts": 4,
+   "rms_arcsec": 1.93,
+   "rate_arcsec_h": 129.4,
+   "span_h": 53.9,
+   "snr": 10.7
+  },
+  {
+   "track_id": "3i-atlas-trk-0028",
+   "n_bursts": 4,
+   "rms_arcsec": 2.0,
+   "rate_arcsec_h": 103.9,
+   "span_h": 52.1,
+   "snr": 7.7
+  },
+  {
+   "track_id": "3i-atlas-trk-0029",
+   "n_bursts": 4,
+   "rms_arcsec": 2.14,
+   "rate_arcsec_h": 141.6,
+   "span_h": 35.7,
+   "snr": 12.4
+  },
+  {
+   "track_id": "3i-atlas-trk-0030",
+   "n_bursts": 4,
+   "rms_arcsec": 2.39,
+   "rate_arcsec_h": 135.3,
+   "span_h": 55.4,
+   "snr": 12.5
+  },
+  {
+   "track_id": "3i-atlas-trk-0031",
+   "n_bursts": 4,
+   "rms_arcsec": 2.53,
+   "rate_arcsec_h": 110.3,
+   "span_h": 55.4,
+   "snr": 44.8
+  },
+  {
+   "track_id": "3i-atlas-trk-0032",
+   "n_bursts": 4,
+   "rms_arcsec": 2.67,
+   "rate_arcsec_h": 107.9,
+   "span_h": 71.7,
+   "snr": 67.4
+  },
+  {
+   "track_id": "3i-atlas-trk-0033",
+   "n_bursts": 4,
+   "rms_arcsec": 2.71,
+   "rate_arcsec_h": 161.2,
+   "span_h": 35.8,
+   "snr": 41.9
+  },
+  {
+   "track_id": "3i-atlas-trk-0034",
+   "n_bursts": 4,
+   "rms_arcsec": 2.77,
+   "rate_arcsec_h": 134.5,
+   "span_h": 60.4,
+   "snr": 28.5
+  },
+  {
+   "track_id": "3i-atlas-trk-0035",
+   "n_bursts": 4,
+   "rms_arcsec": 2.79,
+   "rate_arcsec_h": 110.8,
+   "span_h": 84.7,
+   "snr": 52.2
+  },
+  {
+   "track_id": "3i-atlas-trk-0036",
+   "n_bursts": 4,
+   "rms_arcsec": 3.05,
+   "rate_arcsec_h": 107.2,
+   "span_h": 55.5,
+   "snr": 15.5
+  },
+  {
+   "track_id": "3i-atlas-trk-0037",
+   "n_bursts": 4,
+   "rms_arcsec": 3.13,
+   "rate_arcsec_h": 117.7,
+   "span_h": 55.4,
+   "snr": 5.8
+  },
+  {
+   "track_id": "3i-atlas-trk-0038",
+   "n_bursts": 4,
+   "rms_arcsec": 3.19,
+   "rate_arcsec_h": 94.5,
+   "span_h": 71.7,
+   "snr": 47.2
+  },
+  {
+   "track_id": "3i-atlas-trk-0039",
+   "n_bursts": 4,
+   "rms_arcsec": 3.39,
+   "rate_arcsec_h": 136.4,
+   "span_h": 52.1,
+   "snr": 9.5
+  },
+  {
+   "track_id": "3i-atlas-trk-0040",
+   "n_bursts": 4,
+   "rms_arcsec": 3.54,
+   "rate_arcsec_h": 91.3,
+   "span_h": 102.8,
+   "snr": 8.8
+  },
+  {
+   "track_id": "3i-atlas-trk-0041",
+   "n_bursts": 4,
+   "rms_arcsec": 3.6,
+   "rate_arcsec_h": 118.1,
+   "span_h": 66.8,
+   "snr": 93.8
+  },
+  {
+   "track_id": "3i-atlas-trk-0042",
+   "n_bursts": 4,
+   "rms_arcsec": 3.61,
+   "rate_arcsec_h": 101.2,
+   "span_h": 58.7,
+   "snr": 7.0
+  },
+  {
+   "track_id": "3i-atlas-trk-0043",
+   "n_bursts": 4,
+   "rms_arcsec": 3.76,
+   "rate_arcsec_h": 110.8,
+   "span_h": 52.1,
+   "snr": 10.4
+  },
+  {
+   "track_id": "3i-atlas-trk-0044",
+   "n_bursts": 4,
+   "rms_arcsec": 3.81,
+   "rate_arcsec_h": 100.9,
+   "span_h": 84.7,
+   "snr": 56.8
+  },
+  {
+   "track_id": "3i-atlas-trk-0045",
+   "n_bursts": 4,
+   "rms_arcsec": 3.84,
+   "rate_arcsec_h": 71.5,
+   "span_h": 55.4,
+   "snr": 5.7
+  },
+  {
+   "track_id": "3i-atlas-trk-0046",
+   "n_bursts": 4,
+   "rms_arcsec": 3.92,
+   "rate_arcsec_h": 124.9,
+   "span_h": 60.3,
+   "snr": 45.6
+  },
+  {
+   "track_id": "3i-atlas-trk-0047",
+   "n_bursts": 4,
+   "rms_arcsec": 3.96,
+   "rate_arcsec_h": 123.9,
+   "span_h": 53.9,
+   "snr": 7.6
+  },
+  {
+   "track_id": "3i-atlas-trk-0048",
+   "n_bursts": 4,
+   "rms_arcsec": 3.99,
+   "rate_arcsec_h": 221.9,
+   "span_h": 13.1,
+   "snr": 6.9
+  }
+ ],
+ "seconds": 234.6
+}

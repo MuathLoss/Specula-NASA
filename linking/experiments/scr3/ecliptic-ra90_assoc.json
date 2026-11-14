@@ -1,0 +1,274 @@
+{
+ "patch": "ecliptic-ra90",
+ "settings": {
+  "SNR_MIN": 0.0,
+  "STATIC_MAX_NEED": 4,
+  "STATIC_FRAC": 0.1,
+  "R_STATIC": 9.0,
+  "T_STATIC_FIXED_D": 2.0,
+  "T_STATIC_MOVING_D": 0.25,
+  "R_BURST": 15.0,
+  "MIN_FRAMES": 2,
+  "W_H": 50.0,
+  "MIN_GAP_H": 0.5,
+  "RATE_MIN": 1.0,
+  "RATE_MAX": 300.0,
+  "TOL0": 12.0,
+  "TOL_ACC": 0.004,
+  "MIN_BURSTS": 3,
+  "RMS_MAX": 8.0,
+  "MIN_MOVE_PX": 2.0,
+  "SCRAMBLE": true,
+  "SEED": 3
+ },
+ "spots": 1151444,
+ "static": 1135670,
+ "transient": 15774,
+ "transient_no_far_coverage": 0,
+ "burst_detections": 590,
+ "seed_tracks": 184,
+ "tracks": 30,
+ "track_summary": [
+  {
+   "track_id": "ecliptic-ra90-trk-0001",
+   "n_bursts": 4,
+   "rms_arcsec": 2.85,
+   "rate_arcsec_h": 38.2,
+   "span_h": 63.6,
+   "snr": 9.0
+  },
+  {
+   "track_id": "ecliptic-ra90-trk-0002",
+   "n_bursts": 3,
+   "rms_arcsec": 0.5,
+   "rate_arcsec_h": 37.1,
+   "span_h": 55.4,
+   "snr": 6.2
+  },
+  {
+   "track_id": "ecliptic-ra90-trk-0003",
+   "n_bursts": 3,
+   "rms_arcsec": 1.01,
+   "rate_arcsec_h": 6.3,
+   "span_h": 48.9,
+   "snr": 10.8
+  },
+  {
+   "track_id": "ecliptic-ra90-trk-0004",
+   "n_bursts": 3,
+   "rms_arcsec": 1.24,
+   "rate_arcsec_h": 43.9,
+   "span_h": 45.6,
+   "snr": 5.7
+  },
+  {
+   "track_id": "ecliptic-ra90-trk-0005",
+   "n_bursts": 3,
+   "rms_arcsec": 2.02,
+   "rate_arcsec_h": 13.7,
+   "span_h": 48.8,
+   "snr": 9.0
+  },
+  {
+   "track_id": "ecliptic-ra90-trk-0006",
+   "n_bursts": 3,
+   "rms_arcsec": 2.29,
+   "rate_arcsec_h": 28.7,
+   "span_h": 55.5,
+   "snr": 6.7
+  },
+  {
+   "track_id": "ecliptic-ra90-trk-0007",
+   "n_bursts": 3,
+   "rms_arcsec": 2.43,
+   "rate_arcsec_h": 27.8,
+   "span_h": 76.7,
+   "snr": 5.8
+  },
+  {
+   "track_id": "ecliptic-ra90-trk-0008",
+   "n_bursts": 3,
+   "rms_arcsec": 2.49,
+   "rate_arcsec_h": 23.8,
+   "span_h": 63.6,
+   "snr": 8.4
+  },
+  {
+   "track_id": "ecliptic-ra90-trk-0009",
+   "n_bursts": 3,
+   "rms_arcsec": 3.17,
+   "rate_arcsec_h": 56.2,
+   "span_h": 40.7,
+   "snr": 13.0
+  },
+  {
+   "track_id": "ecliptic-ra90-trk-0010",
+   "n_bursts": 3,
+   "rms_arcsec": 3.29,
+   "rate_arcsec_h": 6.9,
+   "span_h": 76.7,
+   "snr": 6.1
+  },
+  {
+   "track_id": "ecliptic-ra90-trk-0011",
+   "n_bursts": 3,
+   "rms_arcsec": 3.52,
+   "rate_arcsec_h": 22.8,
+   "span_h": 86.3,
+   "snr": 5.6
+  },
+  {
+   "track_id": "ecliptic-ra90-trk-0012",
+   "n_bursts": 3,
+   "rms_arcsec": 3.67,
+   "rate_arcsec_h": 19.8,
+   "span_h": 55.5,
+   "snr": 6.4
+  },
+  {
+   "track_id": "ecliptic-ra90-trk-0013",
+   "n_bursts": 3,
+   "rms_arcsec": 3.7,
+   "rate_arcsec_h": 12.1,
+   "span_h": 39.1,
+   "snr": 5.8
+  },
+  {
+   "track_id": "ecliptic-ra90-trk-0014",
+   "n_bursts": 3,
+   "rms_arcsec": 4.21,
+   "rate_arcsec_h": 63.6,
+   "span_h": 52.2,
+   "snr": 5.8
+  },
+  {
+   "track_id": "ecliptic-ra90-trk-0015",
+   "n_bursts": 3,
+   "rms_arcsec": 4.57,
+   "rate_arcsec_h": 57.7,
+   "span_h": 52.3,
+   "snr": 21.5
+  },
+  {
+   "track_id": "ecliptic-ra90-trk-0016",
+   "n_bursts": 3,
+   "rms_arcsec": 4.68,
+   "rate_arcsec_h": 58.7,
+   "span_h": 31.1,
+   "snr": 5.7
+  },
+  {
+   "track_id": "ecliptic-ra90-trk-0017",
+   "n_bursts": 3,
+   "rms_arcsec": 4.69,
+   "rate_arcsec_h": 6.7,
+   "span_h": 83.0,
+   "snr": 5.6
+  },
+  {
+   "track_id": "ecliptic-ra90-trk-0018",
+   "n_bursts": 3,
+   "rms_arcsec": 4.95,
+   "rate_arcsec_h": 50.2,
+   "span_h": 55.5,
+   "snr": 5.6
+  },
+  {
+   "track_id": "ecliptic-ra90-trk-0019",
+   "n_bursts": 3,
+   "rms_arcsec": 5.11,
+   "rate_arcsec_h": 22.6,
+   "span_h": 83.1,
+   "snr": 5.9
+  },
+  {
+   "track_id": "ecliptic-ra90-trk-0020",
+   "n_bursts": 3,
+   "rms_arcsec": 5.47,
+   "rate_arcsec_h": 57.9,
+   "span_h": 52.2,
+   "snr": 7.7
+  },
+  {
+   "track_id": "ecliptic-ra90-trk-0021",
+   "n_bursts": 3,
+   "rms_arcsec": 5.73,
+   "rate_arcsec_h": 51.7,
+   "span_h": 63.6,
+   "snr": 5.7
+  },
+  {
+   "track_id": "ecliptic-ra90-trk-0022",
+   "n_bursts": 3,
+   "rms_arcsec": 5.97,
+   "rate_arcsec_h": 20.0,
+   "span_h": 76.6,
+   "snr": 5.9
+  },
+  {
+   "track_id": "ecliptic-ra90-trk-0023",
+   "n_bursts": 3,
+   "rms_arcsec": 6.31,
+   "rate_arcsec_h": 7.9,
+   "span_h": 94.5,
+   "snr": 6.1
+  },
+  {
+   "track_id": "ecliptic-ra90-trk-0024",
+   "n_bursts": 3,
+   "rms_arcsec": 6.74,
+   "rate_arcsec_h": 80.0,
+   "span_h": 52.2,
+   "snr": 5.8
+  },
+  {
+   "track_id": "ecliptic-ra90-trk-0025",
+   "n_bursts": 3,
+   "rms_arcsec": 6.78,
+   "rate_arcsec_h": 33.2,
+   "span_h": 76.6,
+   "snr": 12.0
+  },
+  {
+   "track_id": "ecliptic-ra90-trk-0026",
+   "n_bursts": 3,
+   "rms_arcsec": 6.94,
+   "rate_arcsec_h": 19.8,
+   "span_h": 86.4,
+   "snr": 9.1
+  },
+  {
+   "track_id": "ecliptic-ra90-trk-0027",
+   "n_bursts": 3,
+   "rms_arcsec": 7.02,
+   "rate_arcsec_h": 9.7,
+   "span_h": 71.7,
+   "snr": 6.5
+  },
+  {
+   "track_id": "ecliptic-ra90-trk-0028",
+   "n_bursts": 3,
+   "rms_arcsec": 7.11,
+   "rate_arcsec_h": 55.6,
+   "span_h": 55.4,
+   "snr": 5.7
+  },
+  {
+   "track_id": "ecliptic-ra90-trk-0029",
+   "n_bursts": 3,
+   "rms_arcsec": 7.39,
+   "rate_arcsec_h": 15.2,
+   "span_h": 32.6,
+   "snr": 6.9
+  },
+  {
+   "track_id": "ecliptic-ra90-trk-0030",
+   "n_bursts": 3,
+   "rms_arcsec": 7.52,
+   "rate_arcsec_h": 27.3,
+   "span_h": 52.2,
+   "snr": 7.8
+  }
+ ],
+ "seconds": 21.1
+}

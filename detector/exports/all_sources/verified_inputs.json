@@ -1,0 +1,57 @@
+[
+  {
+    "path": "images_aligned/aligned_3i-atlas.zip",
+    "sha256": "3ebee18ab3dec03c347b30d816be119c887a586a5f94a1badc410c01f42f3925",
+    "size_bytes": 1844009763
+  },
+  {
+    "path": "images_aligned/aligned_ceres.zip",
+    "sha256": "8ee198793430e40d0453aa9d0e8232fec9c97c8589a99cfaae52cb25184f2c15",
+    "size_bytes": 1795856078
+  },
+  {
+    "path": "images_aligned/aligned_ecliptic-ra90.zip",
+    "sha256": "5e4366feaeecd4a479fd35fdeb0870d452cc47c473fe7d054b3fcd6e5a005f79",
+    "size_bytes": 2363271156
+  },
+  {
+    "path": "images_aligned/aligned_ecliptic-virgo.zip",
+    "sha256": "50374a15bc9bb55b0df7a8d0f9062c926026ed4e714520bb4a30613440ec7c33",
+    "size_bytes": 3696678991
+  },
+  {
+    "path": "images_aligned/aligned_nep-cats-eye.zip",
+    "sha256": "5dbd3ea139a5fbb09d2670120b3ae02b2d12c414b387cfea40748d7697556a57",
+    "size_bytes": 1750438567
+  },
+  {
+    "path": "tables/frames_3i-atlas.csv",
+    "sha256": "5f5e87957a9397c037f11181e00ce9c8d9a622c9dd207442048052a60b251228",
+    "size_bytes": 48741
+  },
+  {
+    "path": "tables/frames_ceres.csv",
+    "sha256": "a3ef43cf3cfc6f7de4f52b5251a70aa6d224516be05a7bd5e3636911f9ee5efd",
+    "size_bytes": 49964
+  },
+  {
+    "path": "tables/frames_ecliptic-ra90.csv",
+    "sha256": "2020bab40a186e85883d78aaa5256e8d591c10b3bbfd7f336a432ccd1de30cdb",
+    "size_bytes": 39488
+  },
+  {
+    "path": "tables/frames_ecliptic-virgo.csv",
+    "sha256": "3ec72ddaf50fbc567a3d677beff50ed895d16ad5b271f2672d981f021ec27fc0",
+    "size_bytes": 62433
+  },
+  {
+    "path": "tables/frames_nep-cats-eye.csv",
+    "sha256": "4daa07d6235ea41b5905a72b6f77c53ad31178ce468489d8e51f759ecb4a6d13",
+    "size_bytes": 55109
+  },
+  {
+    "path": "tables/labels_ceres.csv",
+    "sha256": "c13b7aacccb9e36546ed2ebc893984141eaab5130487c9953eb3cfd7eb7e2898",
+    "size_bytes": 207671
+  }
+]
