@@ -119,7 +119,7 @@ Every source is listed below. Their licenses are in [`THIRD_PARTY_LICENSES.md`](
 
 ## AI use
 
-Parts of our code, documentation and slides were written with help from Claude (Anthropic). Every result was checked by the team against NASA JPL data.
+We used two AI assistants: Claude (Anthropic) and Grok (xAI). Parts of our code, documentation and slides were written with help from Claude. Every result was checked by the team against NASA JPL data.
 
 ## License
 

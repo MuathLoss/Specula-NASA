@@ -53,6 +53,7 @@ Specula's own code, docs and data products are under the [MIT License](LICENSE).
 |---|---|
 | [Vercel](https://vercel.com) | Hosting the website |
 | [Claude](https://claude.ai) (Anthropic) | AI assistant: parts of our code, documentation and slides were written with its help, and every result was checked by the team against NASA JPL data |
+| [Grok](https://grok.com) (xAI) | AI assistant |
 
 ---
 
